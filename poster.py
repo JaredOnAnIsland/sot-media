@@ -5,7 +5,7 @@ queue.json is written by scripts/ig_publish.py in the app repo (it uploads the m
 this repo's release first, so every entry already carries public URLs). This script only
 reads the queue, posts, and writes the result back. The workflow commits queue.json.
 
-Entry: {id, at_epoch, caption, status, video_url | image_urls, thumb_ms, share_to_feed}
+Entry: {id, at_epoch, caption, status, video_url | image_urls, cover_url, thumb_ms, share_to_feed}
 Status: pending -> posting -> done | failed | stale. An entry left at "posting" means a
 run died mid-post: it is never retried by itself, so nothing can post twice.
 """
@@ -51,7 +51,14 @@ def publish(e):
              "share_to_feed": "true" if e.get("share_to_feed", True) else "false"}
         if e.get("thumb_ms"):
             p["thumb_offset"] = str(e["thumb_ms"])
-        cont = api("POST", f"{USER}/media", **p)["id"]
+        if e.get("cover_url"):  # custom thumbnail; never let it cost the post
+            try:
+                cont = api("POST", f"{USER}/media", cover_url=e["cover_url"], **p)["id"]
+            except RuntimeError as ex:
+                print(f"cover refused ({str(ex)[:160]}), posting without it")
+                cont = api("POST", f"{USER}/media", **p)["id"]
+        else:
+            cont = api("POST", f"{USER}/media", **p)["id"]
     wait(cont, "post")
     media = api("POST", f"{USER}/media_publish", creation_id=cont)["id"]
     return api("GET", media, fields="permalink").get("permalink", "?")
