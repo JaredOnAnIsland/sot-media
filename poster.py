@@ -67,7 +67,7 @@ def push(msg):
     """Commit queue.json right away so a status is on record before and after each post."""
     if not os.environ.get("GITHUB_ACTIONS"):
         return
-    subprocess.run(["git", "add", "queue.json"], check=True)
+    subprocess.run(["git", "add", "queue.json"], check=True)  # token_refreshed.txt is added where it is written
     if subprocess.run(["git", "diff", "--cached", "--quiet"]).returncode == 0:
         return
     subprocess.run(["git", "commit", "-q", "-m", msg], check=True)
@@ -78,8 +78,35 @@ def push(msg):
     raise RuntimeError("could not push queue.json")
 
 
+def keep_token_alive():
+    """A long-lived Instagram token dies after 60 days unless it is refreshed. Refresh it
+    weekly. The secret cannot be rewritten from here, so if Instagram ever hands back a
+    DIFFERENT token the run fails loudly: the owner then updates the IG_ACCESS_TOKEN secret."""
+    try:
+        last = int(open("token_refreshed.txt").read().strip())
+    except (OSError, ValueError):
+        last = 0
+    if time.time() - last < 7 * 86400:
+        return
+    r = requests.get("https://graph.instagram.com/refresh_access_token",
+                     params={"grant_type": "ig_refresh_token", "access_token": TOKEN}, timeout=60).json()
+    if "access_token" not in r:
+        print(f"token refresh did not work: {json.dumps(r)[:300]}")
+        return
+    with open("token_refreshed.txt", "w") as f:
+        f.write(str(int(time.time())))
+    if os.environ.get("GITHUB_ACTIONS"):
+        subprocess.run(["git", "add", "token_refreshed.txt"], check=True)
+    print(f"token refreshed, good for about {r.get('expires_in', 0) // 86400} days")
+    if r["access_token"] != TOKEN:
+        raise SystemExit("Instagram issued a NEW token on refresh: update the IG_ACCESS_TOKEN secret within 60 days")
+
+
 def main():
     q = json.load(open("queue.json", encoding="utf-8"))
+    if TOKEN:
+        keep_token_alive()
+        push("token refreshed")
     now = time.time()
     due = sorted((e for e in q if e["status"] == "pending" and e["at_epoch"] <= now), key=lambda e: e["at_epoch"])
     if not due:
