@@ -106,7 +106,14 @@ def keep_token_alive():
         subprocess.run(["git", "add", "token_refreshed.txt"], check=True)
     print(f"token refreshed, good for about {r.get('expires_in', 0) // 86400} days")
     if r["access_token"] != TOKEN:
-        raise SystemExit("Instagram issued a NEW token on refresh: update the IG_ACCESS_TOKEN secret within 60 days")
+        # Keep posting. The current token works until its own 60 days run out; stopping here (before
+        # token_refreshed.txt was committed) made every later run refresh again and never post (2026-10-16).
+        with open("token_new_since.txt", "w") as f:
+            f.write(time.strftime("%Y-%m-%d") + "\n")
+        if os.environ.get("GITHUB_ACTIONS"):
+            subprocess.run(["git", "add", "token_new_since.txt"], check=True)
+        print("WARNING: Instagram issued a NEW token on refresh. The IG_ACCESS_TOKEN secret still works for now; "
+              "update it before 60 days pass (date in token_new_since.txt).")
 
 
 def main():
