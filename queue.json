@@ -170,5 +170,17 @@
   "share_to_feed": true,
   "video_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/SOT-E13---half-our-soybean-oil-is-about-to-become-fuel.mp4",
   "cover_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/cover-E13.jpg"
+ },
+ {
+  "id": "20261018153459",
+  "at": "2026-10-30 18:00",
+  "at_epoch": 1793401200,
+  "caption": "UC Davis tested 22 avocado oils in 2020. At least 82 percent were stale or mixed with other oils.\n\nThree bottles labeled pure or extra virgin were close to 100 percent soybean oil. The FDA had no standard for what avocado oil has to be. Source: UC Davis, Food Control journal.\n\nFree on iOS and Android: search Seed Oil Tracker. Link in bio.\n\n#seedoils #avocadooil #soybeanoil #foodfraud",
+  "status": "pending",
+  "label": "SOT E14 - your avocado oil might be soybean oil.mp4",
+  "thumb_ms": 0,
+  "share_to_feed": true,
+  "video_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/SOT-E14---your-avocado-oil-might-be-soybean-oil.mp4",
+  "cover_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/cover-E14.jpg"
  }
 ]
