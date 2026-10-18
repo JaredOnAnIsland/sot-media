@@ -134,5 +134,17 @@
   "share_to_feed": true,
   "video_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/SOT-E10---the-first-margarine-was-beef-fat.mp4",
   "cover_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/cover-E10.jpg"
+ },
+ {
+  "id": "20261018150706",
+  "at": "2026-10-27 18:00",
+  "at_epoch": 1793142000,
+  "caption": "Sydney Diet Heart Study, 458 men, 1966 to 1973, reanalyzed in The BMJ in 2013. A small trial and still debated, but these are the published numbers.\n\nSeed Oil Tracker, free on iPhone and Android, link in bio.\n\n#seedoils #seedoilfree #foodhistory #nutrition",
+  "status": "pending",
+  "label": "SOT E11 - they swapped butter for seed oil.mp4",
+  "thumb_ms": 0,
+  "share_to_feed": true,
+  "video_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/SOT-E11---they-swapped-butter-for-seed-oil.mp4",
+  "cover_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/cover-E11.jpg"
  }
 ]
