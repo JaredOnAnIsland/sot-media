@@ -110,5 +110,17 @@
   "share_to_feed": true,
   "video_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/SOT-E8---the-fda-banned-this-seed-oil-fat.mp4",
   "cover_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/cover-E8.jpg"
+ },
+ {
+  "id": "20261018150644",
+  "at": "2026-10-25 18:00",
+  "at_epoch": 1792969200,
+  "caption": "The main fat in soybean and corn oil reacts with oxygen at least 10 times faster than the main fat in olive oil. That is measured in the lab, not a guess.\n\nSeed Oil Tracker, free on iPhone and Android, link in bio.\n\n#seedoils #seedoilfree #foodhistory #nutrition",
+  "status": "pending",
+  "label": "SOT E9 - seed oil goes stale 10x faster.mp4",
+  "thumb_ms": 0,
+  "share_to_feed": true,
+  "video_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/SOT-E9---seed-oil-goes-stale-10x-faster.mp4",
+  "cover_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/cover-E9.jpg"
  }
 ]
