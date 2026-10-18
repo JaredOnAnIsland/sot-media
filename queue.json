@@ -74,5 +74,17 @@
   "share_to_feed": true,
   "video_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/SOT-E1---what-even-is-a-seed-oil.mp4",
   "cover_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/cover-batch-02-E1.jpg"
+ },
+ {
+  "id": "20261018150602",
+  "at": "2026-10-22 18:00",
+  "at_epoch": 1792710000,
+  "caption": "Crisco was cottonseed oil. For decades it was the only ingredient, and the ads never said so.\n\nSource: Smithsonian Magazine.\n\nSee what your restaurant fries in with Seed Oil Tracker. Free on iPhone and Android, link in bio.\n\n#seedoils #seedoilfree #foodhistory #nutrition",
+  "status": "pending",
+  "label": "SOT E6 - crisco started as cotton farm leftovers.mp4",
+  "thumb_ms": 0,
+  "share_to_feed": true,
+  "video_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/SOT-E6---crisco-started-as-cotton-farm-leftovers.mp4",
+  "cover_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/cover-E6.jpg"
  }
 ]
