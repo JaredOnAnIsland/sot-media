@@ -98,5 +98,17 @@
   "share_to_feed": true,
   "video_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/SOT-E7---canola-is-a-word-they-made-up.mp4",
   "cover_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/cover-E7.jpg"
+ },
+ {
+  "id": "20261018150635",
+  "at": "2026-10-24 18:00",
+  "at_epoch": 1792882800,
+  "caption": "In 2015 the FDA ruled partially hydrogenated oil was no longer safe in food. The heart attack line is the FDA's own estimate.\n\nSeed Oil Tracker shows what oil your food is cooked in. Free on iPhone and Android, link in bio.\n\n#seedoils #seedoilfree #foodhistory #nutrition",
+  "status": "pending",
+  "label": "SOT E8 - the fda banned this seed oil fat.mp4",
+  "thumb_ms": 0,
+  "share_to_feed": true,
+  "video_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/SOT-E8---the-fda-banned-this-seed-oil-fat.mp4",
+  "cover_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/cover-E8.jpg"
  }
 ]
