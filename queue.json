@@ -390,5 +390,17 @@
   "share_to_feed": true,
   "video_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/SOT-SG1---sweetgreen-cooks-in-olive-oil-now-read-the-dressings.mp4",
   "cover_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/cover-SG1.jpg"
+ },
+ {
+  "id": "20261020104945",
+  "at": "2026-11-17 18:00",
+  "at_epoch": 1794960000,
+  "caption": "A&W fries in high oleic canola oil. The Papa Sauce and the burger bun both contain soybean oil.\n\nA&W's own nutrition data lists \"Canola Oil: High Oleic Canola Oil and Dimethylpolysiloxane\" on its fried foods, from the French Fries and Onion Rings to the Cheese Curds. Papa Sauce starts \"Soybean Oil, Water, Sugar, Distilled Vinegar,\" and the 4 inch High Top bun on the Papa Burger lists soybean oil too.\n\nSource: A&W Interactive Nutrition Menu data (awrestaurants.com/nutrition, generated August 3, 2026), read October 20, 2026.\n\nFree on iPhone and Android: search Seed Oil Tracker. Link in bio.\n\n#awrestaurants #seedoils #canolaoil #burgers",
+  "status": "pending",
+  "label": "SOT AW1 - a&w fries in canola, the papa sauce is soybean oil.mp4",
+  "thumb_ms": 0,
+  "share_to_feed": true,
+  "video_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/SOT-AW1---a-w-fries-in-canola-the-papa-sauce-is-soybean-oil.mp4",
+  "cover_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/cover-AW1.jpg"
  }
 ]
