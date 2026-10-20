@@ -5,9 +5,15 @@ queue.json is written by scripts/ig_publish.py in the app repo (it uploads the m
 this repo's release first, so every entry already carries public URLs). This script only
 reads the queue, posts, and writes the result back. The workflow commits queue.json.
 
-Entry: {id, at_epoch, caption, status, video_url | image_urls, cover_url, thumb_ms, share_to_feed}
+Entry: {id, at_epoch, caption, status, video_url | image_urls, cover_url, thumb_ms, share_to_feed, trial}
 Status: pending -> posting -> done | failed | stale. An entry left at "posting" means a
 run died mid-post: it is never retried by itself, so nothing can post twice.
+
+Trial Reels (added 2026-10-20): an entry with "trial": true is posted as a trial Reel, shown to
+non-followers first. SS_PERFORMANCE means Instagram moves it to followers by itself if it does well
+(MANUAL would wait for a tap in the app). Entries without the flag send exactly what they did before.
+Doc: https://developers.facebook.com/docs/instagram-platform/content-publishing/ ("Trial Reels posts").
+If Meta refuses the trial, the Reel goes out as a normal one and the entry gets "trial_refused".
 """
 import json, os, subprocess, sys, time
 import requests
@@ -16,6 +22,13 @@ BASE = "https://graph.instagram.com/v23.0"
 MAX_LATE_H = 24
 TOKEN = os.environ.get("IG_ACCESS_TOKEN", "")
 USER = os.environ.get("IG_USER_ID", "")
+TRIAL_PARAMS = json.dumps({"graduation_strategy": "SS_PERFORMANCE"}, separators=(",", ":"))
+
+
+def clean(text):
+    """queue.json is public: an error text (a requests error quotes the URL) must never carry the token."""
+    text = str(text)
+    return text.replace(TOKEN, "***") if TOKEN else text
 
 
 def api(method, path, **params):
@@ -38,6 +51,27 @@ def wait(container, what, tries=90):
     raise RuntimeError(f"timed out waiting for {what}")
 
 
+def reel_container(e, p):
+    """Create the Reel container and return its id. Neither the custom cover nor the trial may cost the
+    post: when Meta refuses a request, try again without the cover, then (trial entries) as a normal Reel.
+    Without "trial" this is the same one or two calls as before the trial option existed."""
+    tries = [dict(cover_url=e["cover_url"], **p)] if e.get("cover_url") else []
+    tries.append(p)
+    if e.get("trial"):
+        tries = [dict(t, trial_params=TRIAL_PARAMS) for t in tries] + tries
+    for i, t in enumerate(tries):
+        try:
+            return api("POST", f"{USER}/media", **t)["id"]
+        except RuntimeError as ex:
+            if i == len(tries) - 1:
+                raise
+            if "trial_params" in t and "trial_params" not in tries[i + 1]:
+                e["trial_refused"] = clean(ex)[:300]
+                print(f"trial refused ({clean(ex)[:160]}), posting as a normal Reel")
+            else:
+                print(f"cover refused ({clean(ex)[:160]}), posting without it")
+
+
 def publish(e):
     if e.get("image_urls"):
         kids = []
@@ -51,14 +85,7 @@ def publish(e):
              "share_to_feed": "true" if e.get("share_to_feed", True) else "false"}
         if e.get("thumb_ms"):
             p["thumb_offset"] = str(e["thumb_ms"])
-        if e.get("cover_url"):  # custom thumbnail; never let it cost the post
-            try:
-                cont = api("POST", f"{USER}/media", cover_url=e["cover_url"], **p)["id"]
-            except RuntimeError as ex:
-                print(f"cover refused ({str(ex)[:160]}), posting without it")
-                cont = api("POST", f"{USER}/media", **p)["id"]
-        else:
-            cont = api("POST", f"{USER}/media", **p)["id"]
+        cont = reel_container(e, p)
     wait(cont, "post")
     media = api("POST", f"{USER}/media_publish", creation_id=cont)["id"]
     return api("GET", media, fields="permalink").get("permalink", "?")
@@ -143,7 +170,7 @@ def main():
             e["posted_epoch"] = int(time.time())
             print(f"{e['id']} DONE {e['result']}")
         except Exception as ex:
-            e["status"], e["error"] = "failed", str(ex)[:300]
+            e["status"], e["error"] = "failed", clean(ex)[:300]
             print(f"{e['id']} FAILED {e['error']}")
         save(q); push(f"{e['id']} {e['status']}")
 

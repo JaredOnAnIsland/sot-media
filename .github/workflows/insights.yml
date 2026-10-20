@@ -1,0 +1,41 @@
+name: Read Reel insights (read-only)
+# Once a day: reads each posted Reel's numbers and the follower count into insights.json (insights.py).
+# It never posts, never refreshes the token and never touches queue.json, and it runs in its own
+# concurrency group, so it can never hold up or collide with the poster (post.yml, group ig-queue).
+on:
+  schedule:
+    - cron: "41 11 * * *"  # 11:41 UTC = 6:41 AM Central in summer time, far from the 6 PM posts
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: ig-insights
+  cancel-in-progress: false
+jobs:
+  insights:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    continue-on-error: true
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -q requests
+      - name: Read insights
+        env:
+          IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+          IG_USER_ID: ${{ secrets.IG_USER_ID }}
+        run: python insights.py
+      - name: Commit insights.json only
+        run: |
+          git config user.name "sot-insights"
+          git config user.email "sot-insights@users.noreply.github.com"
+          git add insights.json
+          if git diff --cached --quiet; then echo "no change"; exit 0; fi
+          git commit -q -m "insights"
+          for i in 1 2 3; do
+            if git push -q; then exit 0; fi
+            git pull -q --rebase
+          done
+          exit 1
