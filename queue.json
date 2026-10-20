@@ -512,5 +512,17 @@
   "share_to_feed": true,
   "video_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/SOT-DD1---dunkin-hash-browns-can-have-any-of-five-seed-oils.mp4",
   "cover_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/cover-DD1.jpg"
+ },
+ {
+  "id": "20261020182303",
+  "at": "2026-11-26 18:00",
+  "at_epoch": 1795737600,
+  "caption": "Jollibee fries in soybean oil or a soy-canola blend.\n\nFrom Jollibee's own U.S. allergen information (as of 01 July 2026): \"All fried products are cooked in zero trans fat soybean oil or soy-canola oil blend.\"\n\nSource: Jollibee US Allergen Information, linked from jollibeefoods.com, read October 20, 2026.\n\nFree on iPhone and Android: search Seed Oil Tracker. Link in bio.\n\n#jollibee #chickenjoy #seedoils #friedchicken",
+  "status": "pending",
+  "label": "SOT JB1 - what jollibee fries its chickenjoy in.mp4",
+  "thumb_ms": 0,
+  "share_to_feed": true,
+  "video_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/SOT-JB1---what-jollibee-fries-its-chickenjoy-in.mp4",
+  "cover_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/cover-JB1.jpg"
  }
 ]
