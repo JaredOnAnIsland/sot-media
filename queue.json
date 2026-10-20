@@ -318,5 +318,17 @@
   "share_to_feed": true,
   "video_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/SOT-TR1---texas-roadhouse-cooks-with-soybean-oil.mp4",
   "cover_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/cover-TR1.jpg"
+ },
+ {
+  "id": "20261020104837",
+  "at": "2026-11-11 18:00",
+  "at_epoch": 1794441600,
+  "caption": "Two of Chipotle's 53 real ingredients are seed oils: canola oil and high oleic sunflower oil.\n\nChipotle lists every ingredient its recipes are made from on its own website, 53 in all. Canola Oil and High Oleic Sunflower Oil are both on the list. High oleic sunflower oil is the kind bred to be low in polyunsaturated fat, so it is one of the milder seed oils.\n\nSource: chipotle.com/ingredients, read October 20, 2026.\n\nFree on iPhone and Android: search Seed Oil Tracker. Link in bio.\n\n#chipotle #seedoils #canolaoil #sunfloweroil",
+  "status": "pending",
+  "label": "SOT CP1 - two of chipotle's 53 ingredients are seed oils.mp4",
+  "thumb_ms": 0,
+  "share_to_feed": true,
+  "video_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/SOT-CP1---two-of-chipotle-s-53-ingredients-are-seed-oils.mp4",
+  "cover_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/cover-CP1.jpg"
  }
 ]
