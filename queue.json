@@ -500,5 +500,17 @@
   "share_to_feed": true,
   "video_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/SOT-CB1---cracker-barrel-labels-its-fried-food-soybean-oil.mp4",
   "cover_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/cover-CB1.jpg"
+ },
+ {
+  "id": "20261020182253",
+  "at": "2026-11-25 18:00",
+  "at_epoch": 1795651200,
+  "caption": "Dunkin' hash browns can be made with any of five seed oils.\n\nFrom Dunkin's own Allergen and Ingredient Guide (last updated 06-10-2026): \"Hashbrowns: Potatoes, Vegetable Oil (Contains one or more of the following: Canola Oil, Soybean Oil, Cottonseed Oil, Sunflower Oil, Corn Oil)...\"\n\nSource: Dunkin' allergen and ingredient guide at dunkindonuts.com, read October 20, 2026.\n\nFree on iPhone and Android: search Seed Oil Tracker. Link in bio.\n\n#dunkin #seedoils #hashbrowns #breakfast",
+  "status": "pending",
+  "label": "SOT DD1 - dunkin' hash browns can have any of five seed oils.mp4",
+  "thumb_ms": 0,
+  "share_to_feed": true,
+  "video_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/SOT-DD1---dunkin-hash-browns-can-have-any-of-five-seed-oils.mp4",
+  "cover_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/cover-DD1.jpg"
  }
 ]
