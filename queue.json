@@ -282,5 +282,17 @@
   "share_to_feed": true,
   "video_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/SOT-PT1---portillo-s-fries-are-not-vegan.mp4",
   "cover_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/cover-PT1.jpg"
+ },
+ {
+  "id": "20261020104800",
+  "at": "2026-11-08 18:00",
+  "at_epoch": 1794182400,
+  "caption": "Olive Garden fries in soy oil, and Olive Garden says so itself.\n\nIts own U.S. allergen guide has a column headed \"Fried in soy oil.\" The Calamari, Fried Mozzarella, Lasagna Fritta, Shrimp Fritto Misto, Stuffed Ziti Fritta, Toasted Ravioli and the Spinach-Artichoke Dip with flatbread crisps are all marked in it.\n\nSource: Olive Garden Allergen Guide (US_083126), media.olivegarden.com, read October 20, 2026.\n\nFree on iPhone and Android: search Seed Oil Tracker. Link in bio.\n\n#olivegarden #seedoils #soybeanoil #italianfood",
+  "status": "pending",
+  "label": "SOT OG1 - olive garden fries in soy oil.mp4",
+  "thumb_ms": 0,
+  "share_to_feed": true,
+  "video_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/SOT-OG1---olive-garden-fries-in-soy-oil.mp4",
+  "cover_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/cover-OG1.jpg"
  }
 ]
