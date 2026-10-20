@@ -306,5 +306,17 @@
   "share_to_feed": true,
   "video_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/SOT-TB1---taco-bell-fries-its-cinnamon-twists-in-canola-oil.mp4",
   "cover_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/cover-TB1.jpg"
+ },
+ {
+  "id": "20261020104818",
+  "at": "2026-11-10 18:00",
+  "at_epoch": 1794355200,
+  "caption": "Texas Roadhouse is known for the buckets of peanuts, but it cooks with soybean oil.\n\nIts own Nutrition and Allergens page, linked from texasroadhouse.com, says: \"Texas Roadhouse cooks with 100% refined soybean oil.\"\n\nSource: Texas Roadhouse Nutrition and Allergens (updated October 15, 2026), read October 20, 2026.\n\nFree on iPhone and Android: search Seed Oil Tracker. Link in bio.\n\n#texasroadhouse #seedoils #soybeanoil #steakhouse",
+  "status": "pending",
+  "label": "SOT TR1 - texas roadhouse cooks with soybean oil.mp4",
+  "thumb_ms": 0,
+  "share_to_feed": true,
+  "video_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/SOT-TR1---texas-roadhouse-cooks-with-soybean-oil.mp4",
+  "cover_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/cover-TR1.jpg"
  }
 ]
