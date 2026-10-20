@@ -440,5 +440,17 @@
   "share_to_feed": true,
   "video_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/SOT-TL1---5-chains-that-fry-in-beef-tallow.mp4",
   "cover_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/cover-TL1.jpg"
+ },
+ {
+  "id": "20261020182210",
+  "at": "2026-11-20 18:00",
+  "at_epoch": 1795219200,
+  "caption": "Papa John's pizza sauce lists sunflower oil right after the tomatoes. The extra virgin olive oil comes after the sugar, salt, garlic and spices.\n\nFrom Papa John's own ingredients page: \"Original/Pizza Sauce: Fresh vine-ripened tomatoes (...), sunflower oil, sugar, salt, garlic, spices, extra virgin olive oil, citric acid.\" The Original Crust lists soybean oil, and the Ranch Sauce starts with soybean oil.\n\nSource: papajohns.com ingredients page, read October 20, 2026.\n\nFree on iPhone and Android: search Seed Oil Tracker. Link in bio.\n\n#papajohns #seedoils #pizza #sunfloweroil",
+  "status": "pending",
+  "label": "SOT PJ1 - papa john's pizza sauce has sunflower oil before olive oil.mp4",
+  "thumb_ms": 0,
+  "share_to_feed": true,
+  "video_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/SOT-PJ1---papa-john-s-pizza-sauce-has-sunflower-oil-before-olive-oil.mp4",
+  "cover_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/cover-PJ1.jpg"
  }
 ]
