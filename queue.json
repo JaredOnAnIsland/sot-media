@@ -294,5 +294,17 @@
   "share_to_feed": true,
   "video_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/SOT-OG1---olive-garden-fries-in-soy-oil.mp4",
   "cover_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/cover-OG1.jpg"
+ },
+ {
+  "id": "20261020104809",
+  "at": "2026-11-09 18:00",
+  "at_epoch": 1794268800,
+  "caption": "Taco Bell's Cinnamon Twists are fried in canola oil. The crunchy taco shell lists soybean, corn and/or cottonseed oil.\n\nFrom Taco Bell's own ingredient statements: Cinnamon Twists, \"Twist: Wheat flour, yellow corn meal, rice flour, salt... Prepared in canola oil.\" Taco Shell, \"Ground corn, vegetable oil (soybean, corn and/or cottonseed oil), oat fiber.\"\n\nSource: Taco Bell ingredient statements at tacobell.com/nutrition/ingredients (updated October 15, 2026), read October 20, 2026.\n\nFree on iPhone and Android: search Seed Oil Tracker. Link in bio.\n\n#tacobell #seedoils #canolaoil #cinnamontwists",
+  "status": "pending",
+  "label": "SOT TB1 - taco bell fries its cinnamon twists in canola oil.mp4",
+  "thumb_ms": 0,
+  "share_to_feed": true,
+  "video_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/SOT-TB1---taco-bell-fries-its-cinnamon-twists-in-canola-oil.mp4",
+  "cover_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/cover-TB1.jpg"
  }
 ]
