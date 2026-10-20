@@ -416,5 +416,17 @@
   "share_to_feed": true,
   "video_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/SOT-SW1---subway-s-olive-oil-blend-is-canola-first.mp4",
   "cover_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/cover-SW1.jpg"
+ },
+ {
+  "id": "20261020182152",
+  "at": "2026-11-18 18:00",
+  "at_epoch": 1795046400,
+  "caption": "Raising Cane's fries everything in a blend of soybean and canola oil.\n\nFrom its own Nutritional and Allergen Information (August 2026): \"Raising Cane's cooks all of our fried foods in an all-vegetable, trans fat free blend of soybean and canola oil.\"\n\nSource: Raising Cane's allergen and nutrition guide at raisingcanes.com, read October 20, 2026.\n\nFree on iPhone and Android: search Seed Oil Tracker. Link in bio.\n\n#raisingcanes #seedoils #chickenfingers #soybeanoil",
+  "status": "pending",
+  "label": "SOT RC1 - raising cane's fries in soybean and canola oil.mp4",
+  "thumb_ms": 0,
+  "share_to_feed": true,
+  "video_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/SOT-RC1---raising-cane-s-fries-in-soybean-and-canola-oil.mp4",
+  "cover_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/cover-RC1.jpg"
  }
 ]
