@@ -1,5 +1,6 @@
 name: Read Reel insights (read-only)
-# Once a day: reads each posted Reel's numbers and the follower count into insights.json (insights.py).
+# Once a day: reads each posted Reel's numbers, the follower count and the account's numbers per day into
+# insights.json (insights.py).
 # It never posts, never refreshes the token and never touches queue.json, and it runs in its own
 # concurrency group, so it can never hold up or collide with the poster (post.yml, group ig-queue).
 on:

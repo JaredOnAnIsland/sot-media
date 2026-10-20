@@ -59,15 +59,155 @@ class FakeIG:
         return Resp({"error": {"message": f"unexpected {url}"}}, 400)
 
 
+PACIFIC = insights.META_TZ
+NOW = 1792582860  # 2026-10-21 11:41 UTC, when the daily job runs
+
+
+def pacific_ends(since, until):
+    """Meta day ends (Pacific midnights) inside [since, until], as (unix end, Pacific date of that day)."""
+    import datetime as dt
+    day = dt.datetime.fromtimestamp(since, PACIFIC).date() - dt.timedelta(days=1)
+    out = []
+    while True:
+        nxt = day + dt.timedelta(days=1)
+        end = int(dt.datetime(nxt.year, nxt.month, nxt.day, tzinfo=PACIFIC).timestamp())
+        if end > until:
+            return out
+        if end >= since:
+            out.append((end, day.isoformat()))
+        day = nxt
+
+
+class FakeAccountIG(FakeIG):
+    """FakeIG plus account insights that behave as Meta's did in the 2026-10-20 probe: a total_value answer is
+    the sum of the Pacific days whose END falls in [since, until]; follows_and_unfollows and follower_count come
+    back empty below 100 followers; "impressions" is refused. Views on a day = 10 x its day of the month."""
+
+    def __init__(self, history_from="2026-01-01", followers_100=False, **kw):
+        super().__init__(**kw)
+        self.history_from, self.followers_100 = history_from, followers_100
+
+    def __call__(self, url, params=None, timeout=None):
+        if urlsplit(url).path != "/v23.0/U1/insights":
+            return super().__call__(url, params, timeout)
+        p = dict(params or {})
+        self.calls.append((url, p))
+        names = p["metric"].split(",")
+        if "impressions" in names:
+            return Resp({"error": {"message": "(#100) metric[0] must be one of the following values", "code": 100}}, 400)
+        days = [d for _, d in pacific_ends(int(p["since"]), int(p["until"]))]
+        if any(d < self.history_from for d in days):
+            return Resp({"error": {"message": "(#100) too old", "code": 100}}, 400)
+        if names == ["follower_count"]:
+            if not self.followers_100:
+                return Resp({"data": []})
+            return Resp({"data": [{"name": "follower_count", "period": "day", "values": [
+                {"value": 2, "end_time": f"{d}T23:59:59+0000"} for d in days]}]})
+        rows = []
+        for n in names:
+            if n == "follows_and_unfollows" and not self.followers_100:
+                continue
+            value = sum(int(d[-2:]) * 10 for d in days) if n == "views" else 5 if n == "follows_and_unfollows" else 1
+            row = {"name": n, "period": "day", "total_value": {"value": value}}
+            if p.get("breakdown") == "follow_type":
+                parts = {"reach": (("NON_FOLLOWER", 96), ("FOLLOWER", 4)),
+                         "follows_and_unfollows": (("FOLLOWER", 4), ("NON_FOLLOWER", 1))}[n]
+                row["total_value"]["breakdowns"] = [{"dimension_keys": ["follow_type"], "results": [
+                    {"dimension_values": [k], "value": v} for k, v in parts]}]
+            rows.append(row)
+        return Resp({"data": rows})
+
+
 class InsightsTest(unittest.TestCase):
     def setUp(self):
         p = mock.patch.multiple(insights, TOKEN="TKN", USER="U1")
         p.start()
         self.addCleanup(p.stop)
 
-    def build(self, fake, old=None):
+    def build(self, fake, old=None, now=None):
         with mock.patch.object(insights.requests, "get", fake):
-            return insights.build(insights.Api(), old or {})
+            return insights.build(insights.Api(), old or {}, now=now)
+
+    # ---- account numbers per Meta day (added 2026-10-21) ----
+
+    def account_calls(self, fake):
+        return [p for u, p in fake.calls if u.endswith("/U1/insights")]
+
+    def test_each_account_row_is_one_meta_day(self):
+        fake = FakeAccountIG()
+        out = self.build(fake, now=NOW)
+        daily = out["account_daily"]
+        self.assertEqual(daily["metrics"], insights.ACCOUNT_METRICS)
+        self.assertEqual(daily["dropped"], {})
+        row = daily["days"]["2026-10-20"]  # the newest complete Pacific day at 4:41 AM Pacific on the 21st
+        self.assertEqual(row["views"], 200)  # one day's views, not two days summed
+        self.assertEqual((row["reach_followers"], row["reach_non_followers"]), (4, 96))
+        self.assertNotIn("follows", row)  # Meta sends no follows below 100 followers
+        self.assertNotIn("2026-10-21", daily["days"])  # today is not complete yet
+        for p in self.account_calls(fake):
+            if p["metric"] != "follower_count":
+                self.assertEqual(len(pacific_ends(p["since"], p["until"])), 1)
+                self.assertEqual((p["period"], p["metric_type"]), ("day", "total_value"))
+
+    def test_daylight_saving_day_still_holds_one_day_end(self):
+        for day in ("2026-10-31", "2026-11-01", "2026-11-02", "2027-03-14"):
+            p = insights.day_params(day)
+            self.assertEqual([d for _, d in pacific_ends(p["since"], p["until"])], [day])
+
+    def test_old_days_are_kept_and_the_newest_week_is_reread(self):
+        old = {"account_daily": {"days": {"2026-06-02": {"views": 1}, "2026-10-19": {"views": -1, "x": 3}}}}
+        days = self.build(FakeAccountIG(), old=old, now=NOW)["account_daily"]["days"]
+        self.assertEqual(days["2026-06-02"], {"views": 1})  # never dropped, never re-read
+        self.assertEqual(days["2026-10-19"]["views"], 190)  # refreshed: Meta settles over 48 hours
+        self.assertEqual(days["2026-10-19"]["x"], 3)  # a value Meta did not send again is kept
+        self.assertEqual(list(days), sorted(days))
+
+    def test_backfill_is_capped_and_stops_at_metas_history(self):
+        out = self.build(FakeAccountIG(history_from="2026-10-01"), now=NOW)["account_daily"]
+        days = out["days"]
+        self.assertEqual(min(days), "2026-10-01")
+        self.assertIn("2026-09-30", out["errors"])  # the first refused day ends the backfill for this run
+        self.assertEqual(len(out["errors"]), 1)
+        everything = self.build(FakeAccountIG(), now=NOW)["account_daily"]["days"]
+        self.assertEqual(min(everything), insights.FIRST_DAY)  # one run reaches the first day
+        self.assertEqual(len(everything), 142)  # 2026-06-01 to 2026-10-20
+        with mock.patch.object(insights, "BACKFILL_PER_RUN", 30):
+            first = self.build(FakeAccountIG(), now=NOW)["account_daily"]["days"]
+            self.assertEqual(len(first), insights.REFRESH_DAYS + 30)
+            later = self.build(FakeAccountIG(), old={"account_daily": {"days": first}}, now=NOW)
+        self.assertEqual(len(later["account_daily"]["days"]), insights.REFRESH_DAYS + 60)  # carries on, newest first
+
+    def test_an_empty_answer_is_not_stored_and_ends_the_backfill(self):
+        class Empty(FakeAccountIG):
+            def __call__(self, url, params=None, timeout=None):
+                p = params or {}
+                if url.endswith("/U1/insights") and p.get("since", 0) < insights.day_end("2026-10-04"):
+                    self.calls.append((url, dict(p)))
+                    return Resp({"data": []})  # what Meta sends for days it has no numbers for
+                return super().__call__(url, params, timeout)
+        out = self.build(Empty(), now=NOW)["account_daily"]
+        self.assertEqual(min(out["days"]), "2026-10-05")
+        self.assertEqual(out["errors"], {"2026-10-04": "no numbers for this day"})
+
+    def test_refused_account_metric_is_dropped_not_fatal(self):
+        with mock.patch.object(insights, "ACCOUNT_METRICS", ["impressions"] + insights.ACCOUNT_METRICS):
+            daily = self.build(FakeAccountIG(), now=NOW)["account_daily"]
+        self.assertIn("impressions", daily["dropped"])
+        self.assertNotIn("impressions", daily["metrics"])
+        self.assertEqual(daily["days"]["2026-10-20"]["views"], 200)
+
+    def test_follows_split_once_meta_sends_them(self):
+        row = self.build(FakeAccountIG(followers_100=True), now=NOW)["account_daily"]["days"]["2026-10-20"]
+        self.assertEqual((row["follows"], row["unfollows"]), (4, 1))
+        self.assertEqual(row["follower_count"], 2)
+
+    def test_a_daily_block_surprise_keeps_reels_and_old_days(self):
+        old = {"account_daily": {"days": {"2026-10-01": {"views": 9}}}}
+        with mock.patch.object(insights, "account_daily", side_effect=KeyError("boom")):
+            out = self.build(FakeAccountIG(), old=old, now=NOW)
+        self.assertEqual(len(out["reels"]), 3)
+        self.assertEqual(out["account_daily"]["days"], {"2026-10-01": {"views": 9}})
+        self.assertIn("KeyError", out["account_daily"]["errors"]["run"])
 
     def test_values_reads_lifetime_and_total_value_rows(self):
         data = {"data": [{"name": "views", "values": [{"value": 42}]},

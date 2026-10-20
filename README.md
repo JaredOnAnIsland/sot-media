@@ -6,4 +6,4 @@ queue.json is the posting schedule. A scheduled workflow (poster.py) posts each 
 
 An entry with `"trial": true` posts as a trial Reel (shown to non-followers first; Instagram moves it to followers if it performs).
 
-insights.json holds each posted Reel's numbers and the follower count. A separate read-only daily workflow (insights.py) writes it; it never touches queue.json. Tests: `python -m unittest discover -s tests`.
+insights.json holds each posted Reel's numbers, the follower count, and the account's numbers per day (`account_daily`: profile views, bio-link taps, reach from followers and non-followers; one row per Meta day, midnight to midnight US Pacific, old days never dropped). A separate read-only daily workflow (insights.py) writes it; it never touches queue.json. Tests: `python -m unittest discover -s tests`.
