@@ -234,5 +234,17 @@
   "share_to_feed": true,
   "video_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/SOT-SB1---smashburger-took-the-canola-out-of-its-fryers.mp4",
   "cover_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/cover-SB1.jpg"
+ },
+ {
+  "id": "20261020011410",
+  "at": "2026-10-27 18:00",
+  "at_epoch": 1793142000,
+  "caption": "Buffalo Wild Wings fries its wings in beef tallow. The ranch and the blue cheese are a different story.\n\nIts own Allergen and Preparation Guide has a column headed \"Fried (in beef tallow)\" and says \"Beef tallow is used to fry products.\" Its ingredient list starts both the Ranch Dressing and the Blue Cheese Dressing with soybean oil.\n\nSources: Buffalo Wild Wings Allergen and Preparation Guide (August 18 to November 17, 2026) and its Ingredient List, read October 18, 2026.\n\nFree on iPhone and Android: search Seed Oil Tracker. Link in bio.\n\n#buffalowildwings #beeftallow #seedoils #wings",
+  "status": "pending",
+  "label": "SOT BW1 - buffalo wild wings fries in beef tallow.mp4",
+  "thumb_ms": 0,
+  "share_to_feed": true,
+  "video_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/SOT-BW1---buffalo-wild-wings-fries-in-beef-tallow.mp4",
+  "cover_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/cover-BW1.jpg"
  }
 ]
