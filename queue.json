@@ -404,5 +404,17 @@
   "share_to_feed": true,
   "video_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/SOT-AW1---a-w-fries-in-canola-the-papa-sauce-is-soybean-oil.mp4",
   "cover_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/cover-AW1.jpg"
+ },
+ {
+  "id": "20261020182144",
+  "at": "2026-11-13 18:00",
+  "at_epoch": 1794614400,
+  "caption": "Subway's olive oil blend is canola oil first, then extra virgin olive oil.\n\nFrom Subway's own U.S. Product Ingredient Guide (October 2026): \"OLIVE OIL BLEND: Canola oil, extra virgin olive oil.\" Its regular mayonnaise starts with soybean oil.\n\nSource: Subway U.S. Product Ingredient Guide, October 2026, linked from subway.com nutrition, read October 20, 2026.\n\nFree on iPhone and Android: search Seed Oil Tracker. Link in bio.\n\n#subway #seedoils #canolaoil #oliveoil",
+  "status": "pending",
+  "label": "SOT SW1 - subway's olive oil blend is canola first.mp4",
+  "thumb_ms": 0,
+  "share_to_feed": true,
+  "video_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/SOT-SW1---subway-s-olive-oil-blend-is-canola-first.mp4",
+  "cover_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/cover-SW1.jpg"
  }
 ]
