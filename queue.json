@@ -476,5 +476,17 @@
   "share_to_feed": true,
   "video_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/SOT-JM1---jersey-mike-s-olive-oil-blend-starts-with-soybean-or-canola.mp4",
   "cover_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/cover-JM1.jpg"
+ },
+ {
+  "id": "20261020182237",
+  "at": "2026-11-23 18:00",
+  "at_epoch": 1795478400,
+  "caption": "Red Lobster fries in an oil blend that contains soybean oil.\n\nFrom Red Lobster's own U.S. allergen guide (valid 10/12/2026 to 11/15/2026): \"Our fried items are prepared using an oil blend that contains soybean oil.\" Captain D's, by contrast, says \"Beef Tallow is used for frying our products\" (Nutrition and Allergen Chart, July 2026).\n\nSource: Red Lobster allergen guide at redlobster.com, read October 20, 2026.\n\nFree on iPhone and Android: search Seed Oil Tracker. Link in bio.\n\n#redlobster #seedoils #seafood #soybeanoil",
+  "status": "pending",
+  "label": "SOT RL1 - red lobster fries in a soybean oil blend.mp4",
+  "thumb_ms": 0,
+  "share_to_feed": true,
+  "video_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/SOT-RL1---red-lobster-fries-in-a-soybean-oil-blend.mp4",
+  "cover_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/cover-RL1.jpg"
  }
 ]
