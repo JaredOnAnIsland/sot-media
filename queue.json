@@ -488,5 +488,17 @@
   "share_to_feed": true,
   "video_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/SOT-RL1---red-lobster-fries-in-a-soybean-oil-blend.mp4",
   "cover_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/cover-RL1.jpg"
+ },
+ {
+  "id": "20261020182245",
+  "at": "2026-11-24 18:00",
+  "at_epoch": 1795564800,
+  "caption": "Cracker Barrel's own allergen guide labels its fried column \"Fried (Soybean Oil).\"\n\nThat is the column header in its Holiday Heat and Serve Meals allergen guide (applicable as of 9/15/26), and the Spanish edition of its restaurant allergen guide (valid from 8/18/26) uses the same header, \"Frito (aceite de soya).\"\n\nSource: Cracker Barrel allergen guides, read October 20, 2026.\n\nFree on iPhone and Android: search Seed Oil Tracker. Link in bio.\n\n#crackerbarrel #seedoils #soybeanoil #friedchicken",
+  "status": "pending",
+  "label": "SOT CB1 - cracker barrel labels its fried food soybean oil.mp4",
+  "thumb_ms": 0,
+  "share_to_feed": true,
+  "video_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/SOT-CB1---cracker-barrel-labels-its-fried-food-soybean-oil.mp4",
+  "cover_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/cover-CB1.jpg"
  }
 ]
