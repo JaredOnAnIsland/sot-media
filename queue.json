@@ -258,5 +258,17 @@
   "share_to_feed": true,
   "video_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/SOT-IN1---in-n-out-fries-in-100-percent-sunflower-oil.mp4",
   "cover_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/cover-IN1.jpg"
+ },
+ {
+  "id": "20261020011427",
+  "at": "2026-10-31 18:00",
+  "at_epoch": 1793487600,
+  "caption": "Captain D's fries its fish in beef tallow.\n\nIts own nutrition and allergen chart says it on page one: \"Beef Tallow is used for frying our products.\" That goes for every fried thing on the menu, from the batter dipped fish to the hushpuppies.\n\nSource: Captain D's Nutrition and Allergen Chart, July 20, 2026, read October 18, 2026.\n\nFree on iPhone and Android: search Seed Oil Tracker. Link in bio.\n\n#captainds #beeftallow #seedoils #friedfish",
+  "status": "pending",
+  "label": "SOT CD1 - captain d's fries its fish in beef tallow.mp4",
+  "thumb_ms": 0,
+  "share_to_feed": true,
+  "video_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/SOT-CD1---captain-d-s-fries-its-fish-in-beef-tallow.mp4",
+  "cover_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/cover-CD1.jpg"
  }
 ]
