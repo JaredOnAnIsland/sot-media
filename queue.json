@@ -366,5 +366,17 @@
   "share_to_feed": true,
   "video_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/SOT-KK1---krispy-kreme-original-glazed-lists-soybean-oil-twice.mp4",
   "cover_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/cover-KK1.jpg"
+ },
+ {
+  "id": "20261020104921",
+  "at": "2026-11-15 18:00",
+  "at_epoch": 1794787200,
+  "caption": "Arby's frying oil is four seed oils in one: corn, soybean, canola and hydrogenated soybean.\n\nFrom Arby's own Menu Items and Ingredients guide: \"Frying Oil: Corn Oil, Soybean Oil, Canola Oil, Hydrogenated Soybean Oil, with Dimethylpolysiloxane (to reduce foaming).\" The Curly Fries are \"Cooked in Vegetable Oil.\"\n\nSource: Arby's Menu Items and Ingredients, September 2026, read October 20, 2026.\n\nFree on iPhone and Android: search Seed Oil Tracker. Link in bio.\n\n#arbys #seedoils #curlyfries #fastfood",
+  "status": "pending",
+  "label": "SOT AR1 - arby's frying oil is four seed oils in one.mp4",
+  "thumb_ms": 0,
+  "share_to_feed": true,
+  "video_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/SOT-AR1---arby-s-frying-oil-is-four-seed-oils-in-one.mp4",
+  "cover_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/cover-AR1.jpg"
  }
 ]
