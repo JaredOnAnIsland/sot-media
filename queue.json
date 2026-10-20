@@ -378,5 +378,17 @@
   "share_to_feed": true,
   "video_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/SOT-AR1---arby-s-frying-oil-is-four-seed-oils-in-one.mp4",
   "cover_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/cover-AR1.jpg"
+ },
+ {
+  "id": "20261020104937",
+  "at": "2026-11-16 18:00",
+  "at_epoch": 1794873600,
+  "caption": "Sweetgreen cooks its proteins and veggies in avocado oil and olive oil. Six of its dressings still list sunflower oil first.\n\nOn Sweetgreen's own ingredient list (last updated September 2026) the roasted chicken is \"Chicken, avocado oil, umami seasoning.\" But sunflower oil is the first ingredient in the Caesar, Balsamic Vinaigrette, Pesto Vinaigrette, Miso Sesame Ginger, Spicy Cashew and Hot Honey Mustard Sauce.\n\nSource: sweetgreen.com/nutrition, read October 20, 2026.\n\nFree on iPhone and Android: search Seed Oil Tracker. Link in bio.\n\n#sweetgreen #seedoils #saladdressing #sunfloweroil",
+  "status": "pending",
+  "label": "SOT SG1 - sweetgreen cooks in olive oil, now read the dressings.mp4",
+  "thumb_ms": 0,
+  "share_to_feed": true,
+  "video_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/SOT-SG1---sweetgreen-cooks-in-olive-oil-now-read-the-dressings.mp4",
+  "cover_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/cover-SG1.jpg"
  }
 ]
