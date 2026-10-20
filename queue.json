@@ -452,5 +452,17 @@
   "share_to_feed": true,
   "video_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/SOT-PJ1---papa-john-s-pizza-sauce-has-sunflower-oil-before-olive-oil.mp4",
   "cover_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/cover-PJ1.jpg"
+ },
+ {
+  "id": "20261020182219",
+  "at": "2026-11-21 18:00",
+  "at_epoch": 1795305600,
+  "caption": "Dairy Queen's fryer runs on a soybean oil blend.\n\nFrom Dairy Queen's own nutrition page: \"Soybean Oil: Our frying oil is a vegetable oil blend with soybean oil.\"\n\nSource: dairyqueen.com nutrition, food and treats (nutrition information current as of August 26, 2024), read October 20, 2026.\n\nFree on iPhone and Android: search Seed Oil Tracker. Link in bio.\n\n#dairyqueen #seedoils #soybeanoil #fastfood",
+  "status": "pending",
+  "label": "SOT DQ1 - dairy queen's fryer runs on soybean oil.mp4",
+  "thumb_ms": 0,
+  "share_to_feed": true,
+  "video_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/SOT-DQ1---dairy-queen-s-fryer-runs-on-soybean-oil.mp4",
+  "cover_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/cover-DQ1.jpg"
  }
 ]
