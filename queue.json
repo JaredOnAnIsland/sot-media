@@ -464,5 +464,17 @@
   "share_to_feed": true,
   "video_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/SOT-DQ1---dairy-queen-s-fryer-runs-on-soybean-oil.mp4",
   "cover_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/cover-DQ1.jpg"
+ },
+ {
+  "id": "20261020182229",
+  "at": "2026-11-22 18:00",
+  "at_epoch": 1795392000,
+  "caption": "Jersey Mike's olive oil blend is vegetable oil, soybean and/or canola, with olive oil listed last.\n\nJersey Mike's says fans order their subs Mike's Way, \"with onions, lettuce, tomatoes and a signature olive oil blend, red wine vinegar and spices.\" Its own nutrition menu lists the blend as \"Vegetable oil (Soybean oil and/or canola oil, olive oil).\" It publishes no percentages.\n\nSource: Jersey Mike's FAQ and nutrition menu, read October 20, 2026.\n\nFree on iPhone and Android: search Seed Oil Tracker. Link in bio.\n\n#jerseymikes #seedoils #oliveoil #subs",
+  "status": "pending",
+  "label": "SOT JM1 - jersey mike's olive oil blend starts with soybean or canola.mp4",
+  "thumb_ms": 0,
+  "share_to_feed": true,
+  "video_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/SOT-JM1---jersey-mike-s-olive-oil-blend-starts-with-soybean-or-canola.mp4",
+  "cover_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/cover-JM1.jpg"
  }
 ]
