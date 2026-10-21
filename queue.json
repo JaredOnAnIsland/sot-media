@@ -596,5 +596,17 @@
   "share_to_feed": true,
   "video_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/SOT-SO1---sonic-s-bun-oil-is-soybean-oil.mp4",
   "cover_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/cover-SO1.jpg"
+ },
+ {
+  "id": "20261020195753",
+  "at": "2026-12-04 18:00",
+  "at_epoch": 1796428800,
+  "caption": "Long John Silver's says some items served at its locations may be cooked in animal fats, and it tells guests with alpha-gal syndrome to ask first.\n\nFrom its own Allergen & Nutritional Guide (Updated 2026): \"Some items served at Long John Silver's locations may be cooked in animal fats. Guests with food allergies or dietary concerns, including alpha-gal syndrome, should ask a General Manager about food preparation before ordering.\" The guide does not say which fat or which items. Alpha-gal syndrome is the red meat allergy.\n\nSource: Long John Silver's Allergen & Nutritional Guide, Updated 2026 (ljsilvers.com/nutrition), read October 20, 2026.\n\nFree on iPhone and Android: search Seed Oil Tracker. Link in bio.\n\n#longjohnsilvers #seedoils #alphagal #fishandchips",
+  "status": "pending",
+  "label": "SOT LJ1 - some long john silver's items may be cooked in animal fats.mp4",
+  "thumb_ms": 0,
+  "share_to_feed": true,
+  "video_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/SOT-LJ1---some-long-john-silver-s-items-may-be-cooked-in-animal-fats.mp4",
+  "cover_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/cover-LJ1.jpg"
  }
 ]
