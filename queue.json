@@ -524,5 +524,17 @@
   "share_to_feed": true,
   "video_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/SOT-JB1---what-jollibee-fries-its-chickenjoy-in.mp4",
   "cover_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/cover-JB1.jpg"
+ },
+ {
+  "id": "20261020195700",
+  "at": "2026-11-28 18:00",
+  "at_epoch": 1795910400,
+  "caption": "IHOP's fried egg lists liquid and hydrogenated soybean oil right after the eggs.\n\nFrom IHOP's own ingredient search (Last Updated: 09/15/2026), (1) Fried Egg: \"Eggs, Liquid And Hydrogenated Soybean Oil, Salt, Natural & Artificial Flavor, Soy Lecithin, TBHQ And Citric Acid (Preservatives), Artificial Color, Dimethylpolysiloxane (Anti-Foaming Agent)\". The (1) Hard or Soft Boiled Egg lists one ingredient: \"Egg\".\n\nSource: IHOP ingredient search (Nutritionix, embedded at ihop.com/en/nutrition/ingredients), last updated 09/15/2026, read October 20, 2026.\n\nFree on iPhone and Android: search Seed Oil Tracker. Link in bio.\n\n#ihop #seedoils #soybeanoil #breakfast",
+  "status": "pending",
+  "label": "SOT IH1 - ihop's fried egg lists soybean oil after the eggs.mp4",
+  "thumb_ms": 0,
+  "share_to_feed": true,
+  "video_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/SOT-IH1---ihop-s-fried-egg-lists-soybean-oil-after-the-eggs.mp4",
+  "cover_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/cover-IH1.jpg"
  }
 ]
