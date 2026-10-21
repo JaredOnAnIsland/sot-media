@@ -608,5 +608,17 @@
   "share_to_feed": true,
   "video_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/SOT-LJ1---some-long-john-silver-s-items-may-be-cooked-in-animal-fats.mp4",
   "cover_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/cover-LJ1.jpg"
+ },
+ {
+  "id": "20261020195801",
+  "at": "2026-12-05 18:00",
+  "at_epoch": 1796515200,
+  "caption": "Applebee's lists the fryer oil in its fries: liquid and hydrogenated soybean oil, two preservatives and an anti-foaming agent.\n\nFrom Applebee's own ingredient search (Last Updated: 10/12/2026), Fries: \"... Fryer Oil (Liquid And Hydrogenated Soybean Oil, TBHQ And Citric Acid (Preservatives), Dimethylpolysiloxane (Anti-Foaming Agent)) ...\" The fries themselves start with \"Potatoes, Vegetable Oil (Contains One Or More Of The Following: Canola, Palm, Soybean, Sunflower)\".\n\nSource: Applebee's ingredient search (Nutritionix, embedded at applebees.com/en/nutrition/ingredient-search), last updated 10/12/2026, read October 20, 2026.\n\nFree on iPhone and Android: search Seed Oil Tracker. Link in bio.\n\n#applebees #seedoils #fries #soybeanoil",
+  "status": "pending",
+  "label": "SOT AP1 - what's in applebee's fryer oil.mp4",
+  "thumb_ms": 0,
+  "share_to_feed": true,
+  "video_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/SOT-AP1---what-s-in-applebee-s-fryer-oil.mp4",
+  "cover_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/cover-AP1.jpg"
  }
 ]
