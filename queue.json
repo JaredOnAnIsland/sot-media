@@ -620,5 +620,17 @@
   "share_to_feed": true,
   "video_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/SOT-AP1---what-s-in-applebee-s-fryer-oil.mp4",
   "cover_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/cover-AP1.jpg"
+ },
+ {
+  "id": "20261020195812",
+  "at": "2026-12-06 18:00",
+  "at_epoch": 1796601600,
+  "caption": "El Pollo Loco says soybean oil is used for cooking and preparing menu items in its restaurants.\n\nFrom El Pollo Loco's own nutrition guide (valid as of September 2026): \"Please keep in mind Soybean Oil is used for cooking and preparing menu items in our restaurants.\"\n\nSource: El Pollo Loco nutrition guide, linked from elpolloloco.com/nutrition, read October 20, 2026.\n\nFree on iPhone and Android: search Seed Oil Tracker. Link in bio.\n\n#elpolloloco #seedoils #grilledchicken #soybeanoil",
+  "status": "pending",
+  "label": "SOT EP1 - el pollo loco cooks with soybean oil.mp4",
+  "thumb_ms": 0,
+  "share_to_feed": true,
+  "video_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/SOT-EP1---el-pollo-loco-cooks-with-soybean-oil.mp4",
+  "cover_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/cover-EP1.jpg"
  }
 ]
