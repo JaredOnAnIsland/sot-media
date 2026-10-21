@@ -644,5 +644,17 @@
   "share_to_feed": true,
   "video_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/SOT-DM1---domino-s-pizza-sauce-has-soybean-oil-in-it.mp4",
   "cover_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/cover-DM1.jpg"
+ },
+ {
+  "id": "20261020195834",
+  "at": "2026-12-08 18:00",
+  "at_epoch": 1796774400,
+  "caption": "KFC's fryer oil is not the same everywhere. Four countries, four answers, each from KFC's own pages.\n\nUnited States (KFC nutrition guide on kfc.com, last updated 10/19/2026): \"KFC products are fried in oil which may contain the following: Canola Oil and Hydrogenated Soybean Oil with TBHQ and Citric Acid Added To Protect Flavor, Dimethylpolysiloxane, an Antifoaming Agent Added.\"\n\nCanada (KFC Ingredients Listing, October 8, 2026): the chicken is \"Cooked in: Canola oil\", and its canola oil reads \"High oleic low linolenic canola oil, Dimethylpolysiloxane, TBHQ.\" High oleic canola is the kind bred to be low in polyunsaturated fat, so it is one of the milder seed oils.\n\nFrance (kfc.fr FAQ): \"l'huile de friture utilisée est un mélange d'huiles de tournesol et de colza. Pas d'huile de palme chez nous !\" (a blend of sunflower and rapeseed oils, no palm oil).\n\nSouth Africa (KFC Allergen Statement, no printed date): it lists \"SA KFC PALMOLEIN OIL: Palmolein\" under the Original Recipe chicken, and under Chips: \"Potatoes, Vegetable Oil (Palm Fruit)\" plus \"SA KFC Palmolein Oil\".\n\nSources: kfc.com full nutrition guide, the Ingredients Listing on kfc.ca, kfc.fr FAQ, the Allergen Statement on purpose.kfc.co.za, read October 20, 2026.\n\nPhotos (Wikimedia Commons): Willis Lam, CC BY-SA 2.0; Harrison Keely, CC BY 4.0; Velvet, CC BY-SA 4.0; Ossewa, CC BY 4.0.\n\nFree on iPhone and Android: search Seed Oil Tracker. Link in bio.\n\n#kfc #seedoils #friedchicken #canolaoil",
+  "status": "pending",
+  "label": "SOT KC1 - same kfc, 4 countries, 4 different fryer oils.mp4",
+  "thumb_ms": 0,
+  "share_to_feed": true,
+  "video_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/SOT-KC1---same-kfc-4-countries-4-different-fryer-oils.mp4",
+  "cover_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/cover-KC1.jpg"
  }
 ]
