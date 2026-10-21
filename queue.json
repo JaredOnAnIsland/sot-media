@@ -572,5 +572,17 @@
   "share_to_feed": true,
   "video_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/SOT-CH1---chili-s-fries-in-100-percent-soybean-oil.mp4",
   "cover_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/cover-CH1.jpg"
+ },
+ {
+  "id": "20261020195736",
+  "at": "2026-12-02 18:00",
+  "at_epoch": 1796256000,
+  "caption": "Denny's seasons its grills with vegetable oil from its fryers and with bacon.\n\nFrom Denny's own Menu Item Allergen Guide (August 2026): \"We season our grills with vegetable oil from our fryers and with bacon. Vegetable oil includes but is not limited to soybean, canola and cottonseed oils.\"\n\nSource: Denny's National Allergen Guide 2026 at dennys.com, read October 20, 2026.\n\nFree on iPhone and Android: search Seed Oil Tracker. Link in bio.\n\n#dennys #seedoils #breakfast #diner",
+  "status": "pending",
+  "label": "SOT DN1 - denny's seasons its grills with fryer oil and bacon.mp4",
+  "thumb_ms": 0,
+  "share_to_feed": true,
+  "video_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/SOT-DN1---denny-s-seasons-its-grills-with-fryer-oil-and-bacon.mp4",
+  "cover_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/cover-DN1.jpg"
  }
 ]
