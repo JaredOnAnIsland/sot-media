@@ -37,11 +37,14 @@ MAX_CALLS = 1500  # a hard stop far above a normal day (about 2 per Reel), so a 
 ACCOUNT_METRICS = ["views", "reach", "accounts_engaged", "total_interactions", "likes", "comments", "shares",
                    "saves", "reposts", "replies", "profile_views", "website_clicks", "profile_links_taps",
                    "follows_and_unfollows"]
-# Meta's days run midnight to midnight US Pacific (time_series end_time 07:00 UTC in summer time), and a
-# total_value answer is the sum of the whole days whose END falls between since and until: the probe got the
-# same numbers for 23:00-11:00 UTC as for 23:00-23:00, and nothing for 11:00-23:00. So hours cannot be asked
-# for; each row is one Meta day, asked with a window from 12 hours before its end to 12 hours after.
+# Meta's days run midnight to midnight US Pacific (boundaries at 07:00 UTC in summer time). A total_value answer is
+# the sum of the whole days whose START (the midnight Meta labels end_time) falls between since and until: the
+# 2026-10-20 probe got the same numbers for 23:00-11:00 UTC as for 23:00-23:00, and nothing for 11:00-23:00, and
+# the White House Reel posted 6 AM Pacific on Sep 10 shows in the day that starts at midnight Sep 10 (1,212 views),
+# not the day before (the first run, 2026-10-20, read it the other way round; BASIS 2 fixed that). Hours cannot be
+# asked for; each row is one Meta day, asked with a window from 12 hours before its midnight to 12 hours after.
 META_TZ = ZoneInfo("America/Los_Angeles")
+BASIS = 2  # 1 = the first run's labels (each day filed one day early), moved once by account_daily()
 FIRST_DAY = "2026-06-01"  # the account's first Reel posted 2026-06-03
 REFRESH_DAYS = 7          # re-read this many newest days every run (Meta settles within 48 hours)
 BACKFILL_PER_RUN = 150    # older missing days per run, newest first (about 2 calls a day; budget above)
@@ -146,16 +149,16 @@ def age_days(ts):
         return 0
 
 
-def day_end(day):
-    """Unix time when the Meta day `day` (YYYY-MM-DD, Pacific) ends: the next Pacific midnight."""
-    d = datetime.date.fromisoformat(day) + datetime.timedelta(days=1)
+def day_start(day):
+    """Unix time when the Meta day `day` (YYYY-MM-DD, Pacific) starts: its Pacific midnight."""
+    d = datetime.date.fromisoformat(day)
     return int(datetime.datetime(d.year, d.month, d.day, tzinfo=META_TZ).timestamp())
 
 
 def day_params(day):
-    """since/until that hold exactly one Meta day end (days are 23 to 25 hours apart)."""
-    end = day_end(day)
-    return {"period": "day", "metric_type": "total_value", "since": end - 43200, "until": end + 43200}
+    """since/until that hold exactly one Meta day start (days are 23 to 25 hours apart)."""
+    start = day_start(day)
+    return {"period": "day", "metric_type": "total_value", "since": start - 43200, "until": start + 43200}
 
 
 def days_to_read(have, now):
@@ -227,16 +230,16 @@ def follower_series(api, days):
     if not days:
         return {}
     ok, data = api.get(f"{USER}/insights", metric="follower_count", period="day",
-                       since=day_end(min(days)) - 43200, until=day_end(max(days)) + 43200)
+                       since=day_start(min(days)) - 43200, until=day_start(max(days)) + 43200)
     out = {}
     for row in data.get("data", []) if ok else []:
         for v in row.get("values") or []:
             try:
-                end = datetime.datetime.strptime(v["end_time"][:19], "%Y-%m-%dT%H:%M:%S")
+                mark = datetime.datetime.strptime(v["end_time"][:19], "%Y-%m-%dT%H:%M:%S")
             except (KeyError, TypeError, ValueError):
                 continue
-            end = end.replace(tzinfo=datetime.timezone.utc) - datetime.timedelta(seconds=1)
-            out[end.astimezone(META_TZ).date().isoformat()] = v.get("value")
+            # end_time is the midnight the day starts at (see META_TZ above)
+            out[mark.replace(tzinfo=datetime.timezone.utc).astimezone(META_TZ).date().isoformat()] = v.get("value")
     return out
 
 
@@ -244,9 +247,11 @@ def account_daily(api, old, now):
     """The account_daily block: old days kept as they were, the days read this run updated in place."""
     prev = old.get("account_daily") or {}
     days = {d: dict(v) for d, v in (prev.get("days") or {}).items()}
+    if days and prev.get("basis_version", 1) < 2:  # the first run filed every day one day early: move each once
+        days = {(datetime.date.fromisoformat(d) + datetime.timedelta(days=1)).isoformat(): v for d, v in days.items()}
     newest, extra = days_to_read(days, now)
     if not newest:
-        return dict(prev, days=days)
+        return dict(prev, days=days, basis_version=BASIS)
     probe = newest[min(2, len(newest) - 1)]  # a day Meta has settled (about 3 days back)
     metrics, dropped = pick_account_metrics(api, probe)
     errors, stamp = {}, time.strftime("%Y-%m-%d", time.gmtime(now))
@@ -265,8 +270,8 @@ def account_daily(api, old, now):
             if day in days and n is not None:
                 days[day]["follower_count"] = n
     return {"basis": "one row per Meta day, midnight to midnight US Pacific; read = UTC date last read",
-            "metrics": metrics or prev.get("metrics", []), "dropped": dropped, "errors": errors,
-            "days": dict(sorted(days.items()))}
+            "basis_version": BASIS, "metrics": metrics or prev.get("metrics", []), "dropped": dropped,
+            "errors": errors, "days": dict(sorted(days.items()))}
 
 
 def build(api, old, now=None):
