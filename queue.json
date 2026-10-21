@@ -680,5 +680,17 @@
   "share_to_feed": true,
   "video_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/SOT-BK1---burger-king-s-fryer-oil-changes-by-country.mp4",
   "cover_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/cover-BK1.jpg"
+ },
+ {
+  "id": "20261020195910",
+  "at": "2026-12-11 18:00",
+  "at_epoch": 1797033600,
+  "caption": "Same crinkle cut fries, a different fryer oil depending on the country.\n\nSingapore (shakeshack.com.sg FAQ): \"We use cholesterol-free, pure soybean oil in all our fryers.\"\n\nUAE and the Gulf (shakeshackme.com FAQ, which covers Kuwait, UAE, KSA, Qatar, Bahrain and Oman), asked if the fries are cooked in peanut oil: \"No, Shake Shack's fries are cooked in soy oil.\"\n\nUnited Kingdom (shakeshack.co.uk FAQ): \"Shake Shack UK uses rapeseed oil for frying\"\n\nShake Shack's U.S. pages name no fryer oil, so we don't either.\n\nSources: shakeshack.com.sg, shakeshackme.com and shakeshack.co.uk FAQ pages, read October 20, 2026.\n\nPhotos (Wikimedia Commons): Jessica Rossi, CC BY-SA 2.0; Choo Yut Shing, CC BY 2.0; Krista, CC BY 2.0; SunDawn, CC BY-SA 4.0.\n\nFree on iPhone and Android: search Seed Oil Tracker. Link in bio.\n\n#shakeshack #seedoils #fries #soybeanoil",
+  "status": "pending",
+  "label": "SOT SS1 - shake shack's fryer oil changes by country.mp4",
+  "thumb_ms": 0,
+  "share_to_feed": true,
+  "video_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/SOT-SS1---shake-shack-s-fryer-oil-changes-by-country.mp4",
+  "cover_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/cover-SS1.jpg"
  }
 ]
