@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-21 00:16 UTC",
- "updated_epoch": 1792541793,
+ "updated": "2026-10-21 16:05 UTC",
+ "updated_epoch": 1792598729,
  "api": "v23.0",
  "account": {
   "username": "seedoiltracker",
@@ -31,39 +31,39 @@
   "ig_reels_avg_watch_time": "ms",
   "ig_reels_video_view_total_time": "ms"
  },
- "calls": 61,
+ "calls": 59,
  "reels": [
   {
    "id": "17900810553607599",
    "permalink": "https://www.instagram.com/reel/Deu9pnSDMUt/",
    "timestamp": "2026-10-20T23:00:46+0000",
    "caption": "Sweetgreen quit cooking in seed oils in 2023 and moved to olive oil.\r",
-   "views": 57,
-   "reach": 27,
+   "views": 154,
+   "reach": 137,
    "likes": 0,
    "comments": 0,
    "shares": 0,
    "saved": 0,
    "total_interactions": 0,
-   "ig_reels_avg_watch_time": 8515,
-   "ig_reels_video_view_total_time": 229915,
-   "reels_skip_rate": 17.3
+   "ig_reels_avg_watch_time": 6831,
+   "ig_reels_video_view_total_time": 935857,
+   "reels_skip_rate": 51.8
   },
   {
    "id": "18201096106390032",
    "permalink": "https://www.instagram.com/reel/DesfD9aCU2G/",
    "timestamp": "2026-10-19T23:54:59+0000",
    "caption": "Five Guys has used the same fryer oil since 1986. Peanut oil, nothing else.\r",
-   "views": 1611,
-   "reach": 1185,
+   "views": 1616,
+   "reach": 1191,
    "likes": 6,
    "comments": 0,
    "shares": 0,
    "saved": 0,
    "total_interactions": 6,
-   "ig_reels_avg_watch_time": 10668,
-   "ig_reels_video_view_total_time": 12567313,
-   "reels_skip_rate": 33.1
+   "ig_reels_avg_watch_time": 10633,
+   "ig_reels_video_view_total_time": 12589961,
+   "reels_skip_rate": 33.2
   },
   {
    "id": "17937488280127332",
@@ -86,15 +86,15 @@
    "permalink": "https://www.instagram.com/reel/DenSn8DiohR/",
    "timestamp": "2026-10-17T23:30:05+0000",
    "caption": "Chick-fil-A uses two different fryer oils.\r",
-   "views": 1740,
-   "reach": 1335,
-   "likes": 19,
+   "views": 1745,
+   "reach": 1337,
+   "likes": 20,
    "comments": 0,
    "shares": 0,
    "saved": 0,
-   "total_interactions": 19,
-   "ig_reels_avg_watch_time": 16033,
-   "ig_reels_video_view_total_time": 21452930,
+   "total_interactions": 20,
+   "ig_reels_avg_watch_time": 16037,
+   "ig_reels_video_view_total_time": 21490232,
    "reels_skip_rate": 31.5
   },
   {
@@ -2865,11 +2865,11 @@
     "read": "2026-10-21"
    },
    "2026-10-20": {
-    "views": 640,
-    "reach": 456,
-    "accounts_engaged": 3,
-    "total_interactions": 4,
-    "likes": 4,
+    "views": 775,
+    "reach": 572,
+    "accounts_engaged": 4,
+    "total_interactions": 5,
+    "likes": 5,
     "comments": 0,
     "shares": 0,
     "saves": 0,
@@ -2878,9 +2878,9 @@
     "profile_views": 2,
     "website_clicks": 0,
     "profile_links_taps": 0,
-    "reach_followers": 1,
-    "reach_non_followers": 455,
-    "read": "2026-10-20"
+    "reach_followers": 2,
+    "reach_non_followers": 569,
+    "read": "2026-10-21"
    }
   }
  }
