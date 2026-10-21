@@ -668,5 +668,17 @@
   "share_to_feed": true,
   "video_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/SOT-PC1---popeyes-and-beef-fat-not-just-in-america.mp4",
   "cover_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/cover-PC1.jpg"
+ },
+ {
+  "id": "20261020195856",
+  "at": "2026-12-10 18:00",
+  "at_epoch": 1796947200,
+  "caption": "Burger King's fryer oil depends on the country you order in.\n\nUnited States (Burger King Ingredient Information, last updated August 2025): fries \"Cooked in Vegetable Oil [(Corn oil, Cottonseed oil) or (Corn, Canola, Hydrogenated Soybean Oil) Dimethylpolysiloxane]\".\n\nCyprus (Burger King CY Allergen Table v.22, September 2026): the fryer oil contains palm oil and high oleic sunflower oil. High oleic sunflower is the kind bred to be low in polyunsaturated fat.\n\nDenmark (burgerking.dk): \"bruger ikke palmeolie i fritureolien. I stedet er det en blanding af solsikke- og rapsolie\" (no palm oil in the fryer, a blend of sunflower and rapeseed oil).\n\nSweden (burgerking.se): the fries are fried \"i raps- och solrosolja\", \"helt fri från palmolja\" (rapeseed and sunflower oil, no palm oil).\n\nAustralia (Hungry Jack's sustainability page): \"Hungry Jack's uses a vegetable oil blend comprising of Canola and Sunflower oils to cook our delicious crispy chicken, chips and other fried products.\"\n\nSources: the Burger King U.S. ingredient PDF, the Allergen Table on burgerking.com.cy, burgerking.dk, burgerking.se, hungryjacks.com.au, read October 20, 2026.\n\nPhotos (Wikimedia Commons): Harrison Keely, CC BY 4.0; Leif Jørgensen, CC BY-SA 4.0; Jonatan Svensson Glad, CC BY-SA 4.0; Mr Stan Zemanek, CC BY-SA 3.0.\n\nFree on iPhone and Android: search Seed Oil Tracker. Link in bio.\n\n#burgerking #hungryjacks #seedoils #fries",
+  "status": "pending",
+  "label": "SOT BK1 - burger king's fryer oil changes by country.mp4",
+  "thumb_ms": 0,
+  "share_to_feed": true,
+  "video_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/SOT-BK1---burger-king-s-fryer-oil-changes-by-country.mp4",
+  "cover_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/cover-BK1.jpg"
  }
 ]
