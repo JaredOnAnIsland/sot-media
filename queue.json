@@ -632,5 +632,17 @@
   "share_to_feed": true,
   "video_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/SOT-EP1---el-pollo-loco-cooks-with-soybean-oil.mp4",
   "cover_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/cover-EP1.jpg"
+ },
+ {
+  "id": "20261020195820",
+  "at": "2026-12-07 18:00",
+  "at_epoch": 1796688000,
+  "caption": "Domino's pizza sauce has soybean oil in it, and the hand tossed crust has soybean and/or canola oil.\n\nFrom Domino's own ingredients page: \"PIZZA SAUCE (ROBUST INSPIRED TOMATO SAUCE) ... Water, Tomato Paste, Sugar, Salt, Spices, Dehydrated Garlic, Soybean Oil, and Citric Acid\". And \"HAND TOSSED CRUST ... Enriched Flour (Wheat Flour, Niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin, Folic Acid), Water, Soybean and/or Canola Oil, ...\"\n\nSource: dominos.com/content/ingredients, read October 20, 2026.\n\nFree on iPhone and Android: search Seed Oil Tracker. Link in bio.\n\n#dominos #seedoils #pizza #soybeanoil",
+  "status": "pending",
+  "label": "SOT DM1 - domino's pizza sauce has soybean oil in it.mp4",
+  "thumb_ms": 0,
+  "share_to_feed": true,
+  "video_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/SOT-DM1---domino-s-pizza-sauce-has-soybean-oil-in-it.mp4",
+  "cover_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/cover-DM1.jpg"
  }
 ]
