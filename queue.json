@@ -656,5 +656,17 @@
   "share_to_feed": true,
   "video_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/SOT-KC1---same-kfc-4-countries-4-different-fryer-oils.mp4",
   "cover_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/cover-KC1.jpg"
+ },
+ {
+  "id": "20261020195845",
+  "at": "2026-12-09 18:00",
+  "at_epoch": 1796860800,
+  "caption": "Beef fat at Popeyes is not just an American thing.\n\nUnited States (Popeyes U.S. Ingredient Information, last updated April 2025) lists \"Tallow: Beef fat, BHT, citric acid, dimethylpolysiloxane.\"\n\nUnited Kingdom (Popeyes UK nutritional information): \"Our products are cooked in an oil blend that includes beef tallow.\"\n\nNew Zealand (Popeyes NZ help centre, updated 11 December 2023): \"We use beef tallow to cook our products\"\n\nFrance (Popeyes France allergen sheet, mis à jour le 07/10/2026): \"Nos frites sont cuites dans de l'huile végétale et de la graisse de bœuf\" (the fries are cooked in vegetable oil and beef fat).\n\nSources: the Popeyes U.S. ingredient PDF, allergensandnutritions.popeyesuk.com, the Popeyes NZ help centre, the allergen sheet on popeyesfrance.fr, read October 20, 2026.\n\nPhotos (Wikimedia Commons): bob walker, CC BY-SA 4.0; Panamitsu, CC BY-SA 4.0.\n\nFree on iPhone and Android: search Seed Oil Tracker. Link in bio.\n\n#popeyes #beeftallow #seedoils #friedchicken",
+  "status": "pending",
+  "label": "SOT PC1 - popeyes and beef fat, not just in america.mp4",
+  "thumb_ms": 0,
+  "share_to_feed": true,
+  "video_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/SOT-PC1---popeyes-and-beef-fat-not-just-in-america.mp4",
+  "cover_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/cover-PC1.jpg"
  }
 ]
