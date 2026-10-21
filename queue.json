@@ -560,5 +560,17 @@
   "share_to_feed": true,
   "video_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/SOT-PN1---panera-s-greek-dressing-is-soybean-oil-first.mp4",
   "cover_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/cover-PN1.jpg"
+ },
+ {
+  "id": "20261020195725",
+  "at": "2026-12-01 18:00",
+  "at_epoch": 1796169600,
+  "caption": "Chili's fried items are prepared in 100% soybean oil.\n\nFrom Chili's own Allergen Information (Last Updated On: 08/04/2026): \"Many of our foods contain soybean oil and our fried items are prepared in 100% soybean oil.\"\n\nSource: Chili's Printable Allergen Guide, linked from chilis.com/nutrition, read October 20, 2026.\n\nFree on iPhone and Android: search Seed Oil Tracker. Link in bio.\n\n#chilis #seedoils #friedfood #soybeanoil",
+  "status": "pending",
+  "label": "SOT CH1 - chili's fries in 100 percent soybean oil.mp4",
+  "thumb_ms": 0,
+  "share_to_feed": true,
+  "video_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/SOT-CH1---chili-s-fries-in-100-percent-soybean-oil.mp4",
+  "cover_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/cover-CH1.jpg"
  }
 ]
