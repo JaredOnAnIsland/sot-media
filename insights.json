@@ -1,16 +1,17 @@
 {
- "updated": "2026-10-21 16:05 UTC",
- "updated_epoch": 1792598729,
+ "updated": "2026-10-22 16:00 UTC",
+ "updated_epoch": 1792684840,
  "api": "v23.0",
  "account": {
   "username": "seedoiltracker",
-  "followers_count": 14,
+  "followers_count": 15,
   "follows_count": 10,
-  "media_count": 30
+  "media_count": 31
  },
  "followers_history": {
   "2026-10-20": 14,
-  "2026-10-21": 14
+  "2026-10-21": 14,
+  "2026-10-22": 15
  },
  "metrics": [
   "views",
@@ -31,23 +32,39 @@
   "ig_reels_avg_watch_time": "ms",
   "ig_reels_video_view_total_time": "ms"
  },
- "calls": 59,
+ "calls": 60,
  "reels": [
+  {
+   "id": "17866620567676973",
+   "permalink": "https://www.instagram.com/reel/DexidCoilyv/",
+   "timestamp": "2026-10-21T23:00:58+0000",
+   "caption": "The bottle labeled vegetable oil is not made from vegetables.",
+   "views": 1535,
+   "reach": 1091,
+   "likes": 5,
+   "comments": 0,
+   "shares": 0,
+   "saved": 2,
+   "total_interactions": 7,
+   "ig_reels_avg_watch_time": 11683,
+   "ig_reels_video_view_total_time": 13026996,
+   "reels_skip_rate": 37
+  },
   {
    "id": "17900810553607599",
    "permalink": "https://www.instagram.com/reel/Deu9pnSDMUt/",
    "timestamp": "2026-10-20T23:00:46+0000",
    "caption": "Sweetgreen quit cooking in seed oils in 2023 and moved to olive oil.\r",
-   "views": 154,
-   "reach": 137,
-   "likes": 0,
+   "views": 190,
+   "reach": 162,
+   "likes": 3,
    "comments": 0,
    "shares": 0,
    "saved": 0,
-   "total_interactions": 0,
-   "ig_reels_avg_watch_time": 6831,
-   "ig_reels_video_view_total_time": 935857,
-   "reels_skip_rate": 51.8
+   "total_interactions": 3,
+   "ig_reels_avg_watch_time": 7037,
+   "ig_reels_video_view_total_time": 1154169,
+   "reels_skip_rate": 51.5
   },
   {
    "id": "18201096106390032",
@@ -86,16 +103,16 @@
    "permalink": "https://www.instagram.com/reel/DenSn8DiohR/",
    "timestamp": "2026-10-17T23:30:05+0000",
    "caption": "Chick-fil-A uses two different fryer oils.\r",
-   "views": 1745,
-   "reach": 1337,
+   "views": 1752,
+   "reach": 1342,
    "likes": 20,
    "comments": 0,
    "shares": 0,
    "saved": 0,
    "total_interactions": 20,
-   "ig_reels_avg_watch_time": 16037,
-   "ig_reels_video_view_total_time": 21490232,
-   "reels_skip_rate": 31.5
+   "ig_reels_avg_watch_time": 15999,
+   "ig_reels_video_view_total_time": 21503783,
+   "reels_skip_rate": 31.7
   },
   {
    "id": "17911323201553023",
@@ -134,15 +151,15 @@
    "permalink": "https://www.instagram.com/reel/DehA__GjsBj/",
    "timestamp": "2026-10-15T13:00:40+0000",
    "caption": "Which country got the better deal?",
-   "views": 1716,
+   "views": 1717,
    "reach": 1307,
    "likes": 12,
    "comments": 0,
    "shares": 1,
    "saved": 4,
    "total_interactions": 17,
-   "ig_reels_avg_watch_time": 10822,
-   "ig_reels_video_view_total_time": 14794199,
+   "ig_reels_avg_watch_time": 10816,
+   "ig_reels_video_view_total_time": 14796355,
    "reels_skip_rate": 38.4
   },
   {
@@ -2790,7 +2807,7 @@
     "profile_links_taps": 0,
     "reach_followers": 5,
     "reach_non_followers": 2552,
-    "read": "2026-10-21"
+    "read": "2026-10-22"
    },
    "2026-10-16": {
     "views": 1853,
@@ -2808,7 +2825,7 @@
     "profile_links_taps": 0,
     "reach_followers": 4,
     "reach_non_followers": 1294,
-    "read": "2026-10-21"
+    "read": "2026-10-22"
    },
    "2026-10-17": {
     "views": 1679,
@@ -2826,7 +2843,7 @@
     "profile_links_taps": 0,
     "reach_followers": 2,
     "reach_non_followers": 1312,
-    "read": "2026-10-21"
+    "read": "2026-10-22"
    },
    "2026-10-18": {
     "views": 1540,
@@ -2844,7 +2861,7 @@
     "profile_links_taps": 0,
     "reach_followers": 4,
     "reach_non_followers": 1088,
-    "read": "2026-10-21"
+    "read": "2026-10-22"
    },
    "2026-10-19": {
     "views": 1003,
@@ -2862,7 +2879,7 @@
     "profile_links_taps": 0,
     "reach_followers": 2,
     "reach_non_followers": 769,
-    "read": "2026-10-21"
+    "read": "2026-10-22"
    },
    "2026-10-20": {
     "views": 775,
@@ -2880,7 +2897,25 @@
     "profile_links_taps": 0,
     "reach_followers": 2,
     "reach_non_followers": 569,
-    "read": "2026-10-21"
+    "read": "2026-10-22"
+   },
+   "2026-10-21": {
+    "views": 233,
+    "reach": 176,
+    "accounts_engaged": 4,
+    "total_interactions": 5,
+    "likes": 5,
+    "comments": 0,
+    "shares": 0,
+    "saves": 0,
+    "reposts": 0,
+    "replies": 0,
+    "profile_views": 0,
+    "website_clicks": 0,
+    "profile_links_taps": 0,
+    "reach_followers": 4,
+    "reach_non_followers": 172,
+    "read": "2026-10-22"
    }
   }
  }
