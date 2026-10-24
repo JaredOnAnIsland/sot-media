@@ -1,18 +1,19 @@
 {
- "updated": "2026-10-23 15:54 UTC",
- "updated_epoch": 1792770860,
+ "updated": "2026-10-24 14:51 UTC",
+ "updated_epoch": 1792853472,
  "api": "v23.0",
  "account": {
   "username": "seedoiltracker",
   "followers_count": 15,
   "follows_count": 10,
-  "media_count": 32
+  "media_count": 33
  },
  "followers_history": {
   "2026-10-20": 14,
   "2026-10-21": 14,
   "2026-10-22": 15,
-  "2026-10-23": 15
+  "2026-10-23": 15,
+  "2026-10-24": 15
  },
  "metrics": [
   "views",
@@ -33,22 +34,38 @@
   "ig_reels_avg_watch_time": "ms",
   "ig_reels_video_view_total_time": "ms"
  },
- "calls": 61,
+ "calls": 62,
  "reels": [
+  {
+   "id": "18032112113909077",
+   "permalink": "https://www.instagram.com/reel/De2sCwQDM_5/",
+   "timestamp": "2026-10-23T23:00:50+0000",
+   "caption": "Popeyes fries its chicken in beef tallow, and it says so on its own ingredient s",
+   "views": 1535,
+   "reach": 1175,
+   "likes": 9,
+   "comments": 1,
+   "shares": 0,
+   "saved": 0,
+   "total_interactions": 10,
+   "ig_reels_avg_watch_time": 8295,
+   "ig_reels_video_view_total_time": 9705794,
+   "reels_skip_rate": 39
+  },
   {
    "id": "18128886478848625",
    "permalink": "https://www.instagram.com/reel/De0HQ5SDnti/",
    "timestamp": "2026-10-22T23:00:59+0000",
    "caption": "Crisco was cottonseed oil. For decades it was the only ingredient, and the ads n",
    "views": 154,
-   "reach": 120,
+   "reach": 121,
    "likes": 1,
    "comments": 0,
    "shares": 0,
    "saved": 0,
    "total_interactions": 1,
-   "ig_reels_avg_watch_time": 7995,
-   "ig_reels_video_view_total_time": 975426,
+   "ig_reels_avg_watch_time": 7989,
+   "ig_reels_video_view_total_time": 982706,
    "reels_skip_rate": 46.7
   },
   {
@@ -88,16 +105,16 @@
    "permalink": "https://www.instagram.com/reel/DesfD9aCU2G/",
    "timestamp": "2026-10-19T23:54:59+0000",
    "caption": "Five Guys has used the same fryer oil since 1986. Peanut oil, nothing else.\r",
-   "views": 1616,
-   "reach": 1191,
+   "views": 1617,
+   "reach": 1192,
    "likes": 6,
    "comments": 0,
    "shares": 0,
    "saved": 0,
    "total_interactions": 6,
-   "ig_reels_avg_watch_time": 10633,
-   "ig_reels_video_view_total_time": 12589961,
-   "reels_skip_rate": 33.2
+   "ig_reels_avg_watch_time": 10627,
+   "ig_reels_video_view_total_time": 12593548,
+   "reels_skip_rate": 33.1
   },
   {
    "id": "17937488280127332",
@@ -120,16 +137,16 @@
    "permalink": "https://www.instagram.com/reel/DenSn8DiohR/",
    "timestamp": "2026-10-17T23:30:05+0000",
    "caption": "Chick-fil-A uses two different fryer oils.\r",
-   "views": 1759,
-   "reach": 1345,
+   "views": 1762,
+   "reach": 1349,
    "likes": 20,
    "comments": 0,
    "shares": 0,
    "saved": 0,
    "total_interactions": 20,
-   "ig_reels_avg_watch_time": 15980,
-   "ig_reels_video_view_total_time": 21525083,
-   "reels_skip_rate": 31.7
+   "ig_reels_avg_watch_time": 15947,
+   "ig_reels_video_view_total_time": 21529719,
+   "reels_skip_rate": 31.8
   },
   {
    "id": "17911323201553023",
@@ -207,8 +224,8 @@
    "shares": 0,
    "saved": 0,
    "total_interactions": 3,
-   "ig_reels_avg_watch_time": 6338,
-   "ig_reels_video_view_total_time": 1964893,
+   "ig_reels_avg_watch_time": 6319,
+   "ig_reels_video_view_total_time": 1965327,
    "reels_skip_rate": 44.7
   },
   {
@@ -239,8 +256,8 @@
    "shares": 0,
    "saved": 0,
    "total_interactions": 2,
-   "ig_reels_avg_watch_time": 4223,
-   "ig_reels_video_view_total_time": 460323,
+   "ig_reels_avg_watch_time": 4200,
+   "ig_reels_video_view_total_time": 462057,
    "reels_skip_rate": 76.9
   },
   {
@@ -2860,7 +2877,7 @@
     "profile_links_taps": 0,
     "reach_followers": 2,
     "reach_non_followers": 1312,
-    "read": "2026-10-23"
+    "read": "2026-10-24"
    },
    "2026-10-18": {
     "views": 1540,
@@ -2878,7 +2895,7 @@
     "profile_links_taps": 0,
     "reach_followers": 4,
     "reach_non_followers": 1088,
-    "read": "2026-10-23"
+    "read": "2026-10-24"
    },
    "2026-10-19": {
     "views": 1003,
@@ -2896,7 +2913,7 @@
     "profile_links_taps": 0,
     "reach_followers": 2,
     "reach_non_followers": 769,
-    "read": "2026-10-23"
+    "read": "2026-10-24"
    },
    "2026-10-20": {
     "views": 775,
@@ -2914,7 +2931,7 @@
     "profile_links_taps": 0,
     "reach_followers": 2,
     "reach_non_followers": 569,
-    "read": "2026-10-23"
+    "read": "2026-10-24"
    },
    "2026-10-21": {
     "views": 233,
@@ -2932,7 +2949,7 @@
     "profile_links_taps": 0,
     "reach_followers": 4,
     "reach_non_followers": 172,
-    "read": "2026-10-23"
+    "read": "2026-10-24"
    },
    "2026-10-22": {
     "views": 1534,
@@ -2950,7 +2967,25 @@
     "profile_links_taps": 0,
     "reach_followers": 5,
     "reach_non_followers": 1102,
-    "read": "2026-10-23"
+    "read": "2026-10-24"
+   },
+   "2026-10-23": {
+    "views": 1508,
+    "reach": 1175,
+    "accounts_engaged": 10,
+    "total_interactions": 10,
+    "likes": 9,
+    "comments": 1,
+    "shares": 0,
+    "saves": 0,
+    "reposts": 0,
+    "replies": 0,
+    "profile_views": 2,
+    "website_clicks": 0,
+    "profile_links_taps": 0,
+    "reach_followers": 4,
+    "reach_non_followers": 1171,
+    "read": "2026-10-24"
    }
   }
  }
