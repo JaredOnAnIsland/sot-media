@@ -102,12 +102,14 @@
   "at": "2026-10-24 18:00",
   "at_epoch": 1792882800,
   "caption": "Canola is rapeseed with a new name. The Canola Council says the name comes from Canadian oil, and the first low erucic acid variety came out in 1974.\n\nLook up any chain's fry oil in Seed Oil Tracker. Free on iPhone and Android, link in bio.\n\n#seedoils #seedoilfree #foodhistory #nutrition",
-  "status": "posting",
+  "status": "done",
   "label": "SOT E7 - canola is a word they made up.mp4",
   "thumb_ms": 0,
   "share_to_feed": true,
   "video_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/SOT-E7---canola-is-a-word-they-made-up.mp4",
-  "cover_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/cover-E7.jpg"
+  "cover_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/cover-E7.jpg",
+  "result": "https://www.instagram.com/reel/De5Q1gPlSfu/",
+  "posted_epoch": 1792882857
  },
  {
   "id": "20261018150635",
