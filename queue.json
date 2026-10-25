@@ -238,12 +238,14 @@
   "at": "2026-10-25 18:00",
   "at_epoch": 1792969200,
   "caption": "Smashburger now says its fryers are 100% beef tallow.\n\nAs recently as July 2026, Smashburger's own FAQ said \"beef tallow/canola oil in our fryers.\" Today the same answer says \"butter on the grill, 100% beef tallow oil in our fryers, and a blended oil on our Smash Fries.\"\n\nSources: smashburger.com/faq, read October 18, 2026, and the Internet Archive's saved copy of the same page from July 8, 2026.\n\nFree on iPhone and Android: search Seed Oil Tracker. Link in bio.\n\n#smashburger #beeftallow #seedoils #burgers",
-  "status": "posting",
+  "status": "done",
   "label": "SOT SB1 - smashburger took the canola out of its fryers.mp4",
   "thumb_ms": 0,
   "share_to_feed": true,
   "video_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/SOT-SB1---smashburger-took-the-canola-out-of-its-fryers.mp4",
-  "cover_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/cover-SB1.jpg"
+  "cover_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/cover-SB1.jpg",
+  "result": "https://www.instagram.com/reel/De71oobgO75/",
+  "posted_epoch": 1792969258
  },
  {
   "id": "20261020011410",
