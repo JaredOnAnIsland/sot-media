@@ -764,5 +764,18 @@
   "share_to_feed": true,
   "video_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/SOT-TG6P---frying-the-turkey-this-year-here-s-the-oil-photo.mp4",
   "cover_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/cover-TG6P.jpg"
+ },
+ {
+  "id": "20261025233424",
+  "at": "2026-11-25 18:00",
+  "at_epoch": 1795651200,
+  "caption": "Golden Corral was open on Thanksgiving 2025 at participating locations (call ahead). From its own nutrition page: Carved Turkey White Meat 1.8 g, Homestyle Stuffing 1.6 g, Green Beans 0.9 g, Sweet Potato Casserole (1/2 cup) 1.6 g, a Yeast Roll 1.5 g. About 7.4 g together. For comparison, Bob Evans' Slow Roasted Turkey & Dressing works out to about 17.9 g.\n\nSources: goldencorral.com/nutrition (rows Carved Turkey - White Meat, Homestyle Stuffing 1/2 cup 125 g, Green Beans, Sweet Potato Casserole, Yeast Rolls); Bob Evans Lunch & Dinner guide, Fall FY2027. Method: seedoiltracker.com/methodology\n\nFree on iPhone and Android: search Seed Oil Tracker. Link in bio.\n\nPhotos (Wikimedia Commons): Corey Coyle, CC BY 3.0; John Freeman, CC BY 2.0.\n\n#thanksgiving #goldencorral #seedoils #eatingout",
+  "status": "pending",
+  "label": "SOT TG7P - eating out on thanksgiving, build this plate photo.mp4",
+  "thumb_ms": 0,
+  "share_to_feed": true,
+  "trial": true,
+  "video_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/SOT-TG7P---eating-out-on-thanksgiving-build-this-plate-photo.mp4",
+  "cover_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/cover-TG7P.jpg"
  }
 ]
