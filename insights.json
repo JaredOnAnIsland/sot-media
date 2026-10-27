@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-26 17:38 UTC",
- "updated_epoch": 1793036288,
+ "updated": "2026-10-27 16:50 UTC",
+ "updated_epoch": 1793119825,
  "api": "v23.0",
  "account": {
   "username": "seedoiltracker",
   "followers_count": 16,
   "follows_count": 10,
-  "media_count": 35
+  "media_count": 36
  },
  "followers_history": {
   "2026-10-20": 14,
@@ -15,7 +15,8 @@
   "2026-10-23": 15,
   "2026-10-24": 15,
   "2026-10-25": 16,
-  "2026-10-26": 16
+  "2026-10-26": 16,
+  "2026-10-27": 16
  },
  "metrics": [
   "views",
@@ -36,54 +37,70 @@
   "ig_reels_avg_watch_time": "ms",
   "ig_reels_video_view_total_time": "ms"
  },
- "calls": 64,
+ "calls": 65,
  "reels": [
+  {
+   "id": "17911464462591041",
+   "permalink": "https://www.instagram.com/reel/De-abNagdWk/",
+   "timestamp": "2026-10-26T23:00:49+0000",
+   "caption": "In 2015 the FDA ruled partially hydrogenated oil was no longer safe in food. The",
+   "views": 211,
+   "reach": 162,
+   "likes": 1,
+   "comments": 0,
+   "shares": 0,
+   "saved": 0,
+   "total_interactions": 1,
+   "ig_reels_avg_watch_time": 9667,
+   "ig_reels_video_view_total_time": 1556522,
+   "reels_skip_rate": 43.8
+  },
   {
    "id": "18358114666222299",
    "permalink": "https://www.instagram.com/reel/De71oobgO75/",
    "timestamp": "2026-10-25T23:00:50+0000",
    "caption": "Smashburger now says its fryers are 100% beef tallow.",
-   "views": 1342,
-   "reach": 932,
-   "likes": 8,
+   "views": 1424,
+   "reach": 1012,
+   "likes": 10,
    "comments": 0,
    "shares": 0,
    "saved": 0,
-   "total_interactions": 8,
-   "ig_reels_avg_watch_time": 7725,
-   "ig_reels_video_view_total_time": 7262119,
-   "reels_skip_rate": 43.1
+   "total_interactions": 10,
+   "ig_reels_avg_watch_time": 7854,
+   "ig_reels_video_view_total_time": 7980179,
+   "reels_skip_rate": 43.4
   },
   {
    "id": "18129469441891875",
    "permalink": "https://www.instagram.com/reel/De5Q1gPlSfu/",
    "timestamp": "2026-10-24T23:00:49+0000",
    "caption": "Canola is rapeseed with a new name. The Canola Council says the name comes from ",
-   "views": 1716,
-   "reach": 1169,
+   "views": 1729,
+   "reach": 1175,
    "likes": 13,
    "comments": 0,
    "shares": 12,
    "saved": 1,
    "total_interactions": 26,
-   "ig_reels_avg_watch_time": 13785,
-   "ig_reels_video_view_total_time": 16625306,
-   "reels_skip_rate": 33.9
+   "ig_reels_avg_watch_time": 13793,
+   "ig_reels_video_view_total_time": 16730917,
+   "reels_skip_rate": 33.8
   },
   {
    "id": "18032112113909077",
    "permalink": "https://www.instagram.com/reel/De2sCwQDM_5/",
    "timestamp": "2026-10-23T23:00:50+0000",
    "caption": "Popeyes fries its chicken in beef tallow, and it says so on its own ingredient s",
-   "views": 1541,
-   "reach": 1181,
+   "views": 1542,
+   "reach": 1182,
    "likes": 10,
    "comments": 1,
    "shares": 0,
    "saved": 0,
    "total_interactions": 11,
-   "ig_reels_avg_watch_time": 8304,
-   "ig_reels_video_view_total_time": 9757256,
+   "ig_reels_avg_watch_time": 8300,
+   "ig_reels_video_view_total_time": 9761568,
    "reels_skip_rate": 38.8
   },
   {
@@ -91,16 +108,16 @@
    "permalink": "https://www.instagram.com/reel/De0HQ5SDnti/",
    "timestamp": "2026-10-22T23:00:59+0000",
    "caption": "Crisco was cottonseed oil. For decades it was the only ingredient, and the ads n",
-   "views": 156,
+   "views": 157,
    "reach": 122,
    "likes": 1,
    "comments": 0,
    "shares": 0,
    "saved": 0,
    "total_interactions": 1,
-   "ig_reels_avg_watch_time": 8162,
-   "ig_reels_video_view_total_time": 1012187,
-   "reels_skip_rate": 46.3
+   "ig_reels_avg_watch_time": 8102,
+   "ig_reels_video_view_total_time": 1012845,
+   "reels_skip_rate": 46.8
   },
   {
    "id": "17866620567676973",
@@ -171,16 +188,16 @@
    "permalink": "https://www.instagram.com/reel/DenSn8DiohR/",
    "timestamp": "2026-10-17T23:30:05+0000",
    "caption": "Chick-fil-A uses two different fryer oils.\r",
-   "views": 1768,
-   "reach": 1354,
+   "views": 1774,
+   "reach": 1360,
    "likes": 20,
    "comments": 0,
    "shares": 0,
    "saved": 0,
    "total_interactions": 20,
-   "ig_reels_avg_watch_time": 15912,
-   "ig_reels_video_view_total_time": 21561944,
-   "reels_skip_rate": 31.9
+   "ig_reels_avg_watch_time": 15876,
+   "ig_reels_video_view_total_time": 21592589,
+   "reels_skip_rate": 32
   },
   {
    "id": "17911323201553023",
@@ -267,16 +284,16 @@
    "permalink": "https://www.instagram.com/reel/Dec8FWejTnG/",
    "timestamp": "2026-10-13T23:00:40+0000",
    "caption": "One Wendy's salad has more seed oil in it than thirteen of their cheeseburgers.\r",
-   "views": 161,
-   "reach": 133,
+   "views": 163,
+   "reach": 134,
    "likes": 2,
    "comments": 0,
    "shares": 0,
    "saved": 0,
    "total_interactions": 2,
-   "ig_reels_avg_watch_time": 6864,
-   "ig_reels_video_view_total_time": 940456,
-   "reels_skip_rate": 51.9
+   "ig_reels_avg_watch_time": 6825,
+   "ig_reels_video_view_total_time": 941971,
+   "reels_skip_rate": 52.2
   },
   {
    "id": "18210373816366619",
@@ -2965,7 +2982,7 @@
     "profile_links_taps": 0,
     "reach_followers": 2,
     "reach_non_followers": 569,
-    "read": "2026-10-26"
+    "read": "2026-10-27"
    },
    "2026-10-21": {
     "views": 233,
@@ -2983,7 +3000,7 @@
     "profile_links_taps": 0,
     "reach_followers": 4,
     "reach_non_followers": 172,
-    "read": "2026-10-26"
+    "read": "2026-10-27"
    },
    "2026-10-22": {
     "views": 1534,
@@ -3001,7 +3018,7 @@
     "profile_links_taps": 0,
     "reach_followers": 5,
     "reach_non_followers": 1102,
-    "read": "2026-10-26"
+    "read": "2026-10-27"
    },
    "2026-10-23": {
     "views": 1508,
@@ -3019,7 +3036,7 @@
     "profile_links_taps": 0,
     "reach_followers": 4,
     "reach_non_followers": 1171,
-    "read": "2026-10-26"
+    "read": "2026-10-27"
    },
    "2026-10-24": {
     "views": 1603,
@@ -3037,7 +3054,7 @@
     "profile_links_taps": 0,
     "reach_followers": 2,
     "reach_non_followers": 1115,
-    "read": "2026-10-26"
+    "read": "2026-10-27"
    },
    "2026-10-25": {
     "views": 363,
@@ -3055,7 +3072,25 @@
     "profile_links_taps": 0,
     "reach_followers": 3,
     "reach_non_followers": 225,
-    "read": "2026-10-26"
+    "read": "2026-10-27"
+   },
+   "2026-10-26": {
+    "views": 1386,
+    "reach": 1001,
+    "accounts_engaged": 11,
+    "total_interactions": 10,
+    "likes": 10,
+    "comments": 0,
+    "shares": 0,
+    "saves": 0,
+    "reposts": 0,
+    "replies": 0,
+    "profile_views": 1,
+    "website_clicks": 0,
+    "profile_links_taps": 0,
+    "reach_followers": 2,
+    "reach_non_followers": 1001,
+    "read": "2026-10-27"
    }
   }
  }
