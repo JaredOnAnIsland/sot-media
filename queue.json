@@ -130,12 +130,14 @@
   "at": "2026-10-28 18:00",
   "at_epoch": 1793228400,
   "caption": "The main fat in soybean and corn oil reacts with oxygen at least 10 times faster than the main fat in olive oil. That is measured in the lab, not a guess.\n\nSeed Oil Tracker, free on iPhone and Android, link in bio.\n\n#seedoils #seedoilfree #foodhistory #nutrition",
-  "status": "posting",
+  "status": "done",
   "label": "SOT E9 - seed oil goes stale 10x faster.mp4",
   "thumb_ms": 0,
   "share_to_feed": true,
   "video_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/SOT-E9---seed-oil-goes-stale-10x-faster.mp4",
-  "cover_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/cover-E9.jpg"
+  "cover_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/cover-E9.jpg",
+  "result": "https://www.instagram.com/reel/DfDkHYbAOlE/",
+  "posted_epoch": 1793228508
  },
  {
   "id": "20261018150651",
