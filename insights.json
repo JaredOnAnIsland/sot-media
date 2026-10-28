@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-27 16:50 UTC",
- "updated_epoch": 1793119825,
+ "updated": "2026-10-28 17:20 UTC",
+ "updated_epoch": 1793208055,
  "api": "v23.0",
  "account": {
   "username": "seedoiltracker",
-  "followers_count": 16,
+  "followers_count": 17,
   "follows_count": 10,
-  "media_count": 36
+  "media_count": 37
  },
  "followers_history": {
   "2026-10-20": 14,
@@ -16,7 +16,8 @@
   "2026-10-24": 15,
   "2026-10-25": 16,
   "2026-10-26": 16,
-  "2026-10-27": 16
+  "2026-10-27": 16,
+  "2026-10-28": 17
  },
  "metrics": [
   "views",
@@ -37,22 +38,38 @@
   "ig_reels_avg_watch_time": "ms",
   "ig_reels_video_view_total_time": "ms"
  },
- "calls": 65,
+ "calls": 66,
  "reels": [
+  {
+   "id": "18206523769386908",
+   "permalink": "https://www.instagram.com/reel/DfA_NzpkZuj/",
+   "timestamp": "2026-10-27T23:01:04+0000",
+   "caption": "Buffalo Wild Wings fries its wings in beef tallow. The ranch and the blue cheese",
+   "views": 2101,
+   "reach": 1460,
+   "likes": 22,
+   "comments": 0,
+   "shares": 0,
+   "saved": 1,
+   "total_interactions": 25,
+   "ig_reels_avg_watch_time": 9193,
+   "ig_reels_video_view_total_time": 13266295,
+   "reels_skip_rate": 34.7
+  },
   {
    "id": "17911464462591041",
    "permalink": "https://www.instagram.com/reel/De-abNagdWk/",
    "timestamp": "2026-10-26T23:00:49+0000",
    "caption": "In 2015 the FDA ruled partially hydrogenated oil was no longer safe in food. The",
    "views": 211,
-   "reach": 162,
+   "reach": 163,
    "likes": 1,
    "comments": 0,
    "shares": 0,
    "saved": 0,
    "total_interactions": 1,
-   "ig_reels_avg_watch_time": 9667,
-   "ig_reels_video_view_total_time": 1556522,
+   "ig_reels_avg_watch_time": 9584,
+   "ig_reels_video_view_total_time": 1562349,
    "reels_skip_rate": 43.8
   },
   {
@@ -60,31 +77,31 @@
    "permalink": "https://www.instagram.com/reel/De71oobgO75/",
    "timestamp": "2026-10-25T23:00:50+0000",
    "caption": "Smashburger now says its fryers are 100% beef tallow.",
-   "views": 1424,
-   "reach": 1012,
+   "views": 1426,
+   "reach": 1013,
    "likes": 10,
    "comments": 0,
    "shares": 0,
    "saved": 0,
    "total_interactions": 10,
-   "ig_reels_avg_watch_time": 7854,
-   "ig_reels_video_view_total_time": 7980179,
-   "reels_skip_rate": 43.4
+   "ig_reels_avg_watch_time": 7841,
+   "ig_reels_video_view_total_time": 7982363,
+   "reels_skip_rate": 43.6
   },
   {
    "id": "18129469441891875",
    "permalink": "https://www.instagram.com/reel/De5Q1gPlSfu/",
    "timestamp": "2026-10-24T23:00:49+0000",
    "caption": "Canola is rapeseed with a new name. The Canola Council says the name comes from ",
-   "views": 1729,
+   "views": 1730,
    "reach": 1175,
    "likes": 13,
    "comments": 0,
    "shares": 12,
    "saved": 1,
    "total_interactions": 26,
-   "ig_reels_avg_watch_time": 13793,
-   "ig_reels_video_view_total_time": 16730917,
+   "ig_reels_avg_watch_time": 13787,
+   "ig_reels_video_view_total_time": 16737702,
    "reels_skip_rate": 33.8
   },
   {
@@ -92,16 +109,16 @@
    "permalink": "https://www.instagram.com/reel/De2sCwQDM_5/",
    "timestamp": "2026-10-23T23:00:50+0000",
    "caption": "Popeyes fries its chicken in beef tallow, and it says so on its own ingredient s",
-   "views": 1542,
-   "reach": 1182,
+   "views": 1545,
+   "reach": 1184,
    "likes": 10,
    "comments": 1,
    "shares": 0,
    "saved": 0,
    "total_interactions": 11,
-   "ig_reels_avg_watch_time": 8300,
-   "ig_reels_video_view_total_time": 9761568,
-   "reels_skip_rate": 38.8
+   "ig_reels_avg_watch_time": 8320,
+   "ig_reels_video_view_total_time": 9801101,
+   "reels_skip_rate": 38.7
   },
   {
    "id": "18128886478848625",
@@ -156,15 +173,15 @@
    "permalink": "https://www.instagram.com/reel/DesfD9aCU2G/",
    "timestamp": "2026-10-19T23:54:59+0000",
    "caption": "Five Guys has used the same fryer oil since 1986. Peanut oil, nothing else.\r",
-   "views": 1618,
-   "reach": 1193,
+   "views": 1621,
+   "reach": 1195,
    "likes": 6,
    "comments": 0,
    "shares": 0,
    "saved": 0,
    "total_interactions": 6,
-   "ig_reels_avg_watch_time": 10634,
-   "ig_reels_video_view_total_time": 12612254,
+   "ig_reels_avg_watch_time": 10633,
+   "ig_reels_video_view_total_time": 12632166,
    "reels_skip_rate": 33.1
   },
   {
@@ -188,16 +205,16 @@
    "permalink": "https://www.instagram.com/reel/DenSn8DiohR/",
    "timestamp": "2026-10-17T23:30:05+0000",
    "caption": "Chick-fil-A uses two different fryer oils.\r",
-   "views": 1774,
-   "reach": 1360,
-   "likes": 20,
+   "views": 1796,
+   "reach": 1374,
+   "likes": 21,
    "comments": 0,
    "shares": 0,
    "saved": 0,
-   "total_interactions": 20,
-   "ig_reels_avg_watch_time": 15876,
-   "ig_reels_video_view_total_time": 21592589,
-   "reels_skip_rate": 32
+   "total_interactions": 21,
+   "ig_reels_avg_watch_time": 15799,
+   "ig_reels_video_view_total_time": 21724483,
+   "reels_skip_rate": 32.1
   },
   {
    "id": "17911323201553023",
@@ -252,15 +269,15 @@
    "permalink": "https://www.instagram.com/reel/Defg3mLj-HX/",
    "timestamp": "2026-10-14T23:00:40+0000",
    "caption": "Three huge steakhouse chains. Only one of them fries in beef tallow.\r",
-   "views": 1858,
-   "reach": 1449,
+   "views": 1859,
+   "reach": 1450,
    "likes": 13,
    "comments": 0,
    "shares": 1,
    "saved": 1,
    "total_interactions": 15,
-   "ig_reels_avg_watch_time": 9409,
-   "ig_reels_video_view_total_time": 13456291,
+   "ig_reels_avg_watch_time": 9403,
+   "ig_reels_video_view_total_time": 13456929,
    "reels_skip_rate": 38.6
   },
   {
@@ -3000,7 +3017,7 @@
     "profile_links_taps": 0,
     "reach_followers": 4,
     "reach_non_followers": 172,
-    "read": "2026-10-27"
+    "read": "2026-10-28"
    },
    "2026-10-22": {
     "views": 1534,
@@ -3018,7 +3035,7 @@
     "profile_links_taps": 0,
     "reach_followers": 5,
     "reach_non_followers": 1102,
-    "read": "2026-10-27"
+    "read": "2026-10-28"
    },
    "2026-10-23": {
     "views": 1508,
@@ -3036,10 +3053,10 @@
     "profile_links_taps": 0,
     "reach_followers": 4,
     "reach_non_followers": 1171,
-    "read": "2026-10-27"
+    "read": "2026-10-28"
    },
    "2026-10-24": {
-    "views": 1603,
+    "views": 1604,
     "reach": 1117,
     "accounts_engaged": 20,
     "total_interactions": 38,
@@ -3054,7 +3071,7 @@
     "profile_links_taps": 0,
     "reach_followers": 2,
     "reach_non_followers": 1115,
-    "read": "2026-10-27"
+    "read": "2026-10-28"
    },
    "2026-10-25": {
     "views": 363,
@@ -3072,7 +3089,7 @@
     "profile_links_taps": 0,
     "reach_followers": 3,
     "reach_non_followers": 225,
-    "read": "2026-10-27"
+    "read": "2026-10-28"
    },
    "2026-10-26": {
     "views": 1386,
@@ -3090,7 +3107,25 @@
     "profile_links_taps": 0,
     "reach_followers": 2,
     "reach_non_followers": 1001,
-    "read": "2026-10-27"
+    "read": "2026-10-28"
+   },
+   "2026-10-27": {
+    "views": 1977,
+    "reach": 1417,
+    "accounts_engaged": 26,
+    "total_interactions": 26,
+    "likes": 23,
+    "comments": 0,
+    "shares": 0,
+    "saves": 1,
+    "reposts": 2,
+    "replies": 0,
+    "profile_views": 2,
+    "website_clicks": 0,
+    "profile_links_taps": 0,
+    "reach_followers": 8,
+    "reach_non_followers": 1442,
+    "read": "2026-10-28"
    }
   }
  }
