@@ -270,12 +270,14 @@
   "at": "2026-10-29 18:00",
   "at_epoch": 1793314800,
   "caption": "In-N-Out's fries are cooked in 100% sunflower oil, and sunflower oil is a seed oil.\n\nIn-N-Out's own menu calls them \"fresh, hand-cut potatoes prepared in 100% sunflower oil.\" Its January 2026 nutrition sheet says the same.\n\nSource: in-n-out.com/menu and In-N-Out's nutrition information, read October 18, 2026.\n\nFree on iPhone and Android: search Seed Oil Tracker. Link in bio.\n\n#innout #seedoils #sunfloweroil #frenchfries",
-  "status": "posting",
+  "status": "done",
   "label": "SOT IN1 - in-n-out fries in 100 percent sunflower oil.mp4",
   "thumb_ms": 0,
   "share_to_feed": true,
   "video_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/SOT-IN1---in-n-out-fries-in-100-percent-sunflower-oil.mp4",
-  "cover_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/cover-IN1.jpg"
+  "cover_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/cover-IN1.jpg",
+  "result": "https://www.instagram.com/reel/DfGIz1ekzOO/",
+  "posted_epoch": 1793314855
  },
  {
   "id": "20261020011427",
