@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-28 17:20 UTC",
- "updated_epoch": 1793208055,
+ "updated": "2026-10-29 17:31 UTC",
+ "updated_epoch": 1793295092,
  "api": "v23.0",
  "account": {
   "username": "seedoiltracker",
-  "followers_count": 17,
+  "followers_count": 18,
   "follows_count": 10,
-  "media_count": 37
+  "media_count": 38
  },
  "followers_history": {
   "2026-10-20": 14,
@@ -17,7 +17,8 @@
   "2026-10-25": 16,
   "2026-10-26": 16,
   "2026-10-27": 16,
-  "2026-10-28": 17
+  "2026-10-28": 17,
+  "2026-10-29": 18
  },
  "metrics": [
   "views",
@@ -38,22 +39,38 @@
   "ig_reels_avg_watch_time": "ms",
   "ig_reels_video_view_total_time": "ms"
  },
- "calls": 66,
+ "calls": 67,
  "reels": [
+  {
+   "id": "17955598083035153",
+   "permalink": "https://www.instagram.com/reel/DfDkHYbAOlE/",
+   "timestamp": "2026-10-28T23:01:38+0000",
+   "caption": "The main fat in soybean and corn oil reacts with oxygen at least 10 times faster",
+   "views": 160,
+   "reach": 122,
+   "likes": 2,
+   "comments": 0,
+   "shares": 0,
+   "saved": 0,
+   "total_interactions": 2,
+   "ig_reels_avg_watch_time": 7884,
+   "ig_reels_video_view_total_time": 961874,
+   "reels_skip_rate": 42.1
+  },
   {
    "id": "18206523769386908",
    "permalink": "https://www.instagram.com/reel/DfA_NzpkZuj/",
    "timestamp": "2026-10-27T23:01:04+0000",
    "caption": "Buffalo Wild Wings fries its wings in beef tallow. The ranch and the blue cheese",
-   "views": 2101,
-   "reach": 1460,
+   "views": 2102,
+   "reach": 1461,
    "likes": 22,
    "comments": 0,
    "shares": 0,
    "saved": 1,
    "total_interactions": 25,
-   "ig_reels_avg_watch_time": 9193,
-   "ig_reels_video_view_total_time": 13266295,
+   "ig_reels_avg_watch_time": 9189,
+   "ig_reels_video_view_total_time": 13269447,
    "reels_skip_rate": 34.7
   },
   {
@@ -109,15 +126,15 @@
    "permalink": "https://www.instagram.com/reel/De2sCwQDM_5/",
    "timestamp": "2026-10-23T23:00:50+0000",
    "caption": "Popeyes fries its chicken in beef tallow, and it says so on its own ingredient s",
-   "views": 1545,
-   "reach": 1184,
+   "views": 1546,
+   "reach": 1185,
    "likes": 10,
    "comments": 1,
    "shares": 0,
    "saved": 0,
    "total_interactions": 11,
-   "ig_reels_avg_watch_time": 8320,
-   "ig_reels_video_view_total_time": 9801101,
+   "ig_reels_avg_watch_time": 8314,
+   "ig_reels_video_view_total_time": 9802475,
    "reels_skip_rate": 38.7
   },
   {
@@ -205,31 +222,31 @@
    "permalink": "https://www.instagram.com/reel/DenSn8DiohR/",
    "timestamp": "2026-10-17T23:30:05+0000",
    "caption": "Chick-fil-A uses two different fryer oils.\r",
-   "views": 1796,
-   "reach": 1374,
+   "views": 1797,
+   "reach": 1376,
    "likes": 21,
    "comments": 0,
    "shares": 0,
    "saved": 0,
    "total_interactions": 21,
-   "ig_reels_avg_watch_time": 15799,
-   "ig_reels_video_view_total_time": 21724483,
-   "reels_skip_rate": 32.1
+   "ig_reels_avg_watch_time": 15789,
+   "ig_reels_video_view_total_time": 21726723,
+   "reels_skip_rate": 32.2
   },
   {
    "id": "17911323201553023",
    "permalink": "https://www.instagram.com/reel/Dekqo0rFHyu/",
    "timestamp": "2026-10-16T23:02:14+0000",
    "caption": "McDonald's fries used to be cooked in beef fat. In 1990 they switched to vegetab",
-   "views": 1841,
-   "reach": 1262,
-   "likes": 13,
+   "views": 1842,
+   "reach": 1264,
+   "likes": 14,
    "comments": 0,
    "shares": 0,
    "saved": 0,
-   "total_interactions": 13,
-   "ig_reels_avg_watch_time": 13835,
-   "ig_reels_video_view_total_time": 18138001,
+   "total_interactions": 14,
+   "ig_reels_avg_watch_time": 13827,
+   "ig_reels_video_view_total_time": 18141766,
    "reels_skip_rate": 25.8
   },
   {
@@ -3035,7 +3052,7 @@
     "profile_links_taps": 0,
     "reach_followers": 5,
     "reach_non_followers": 1102,
-    "read": "2026-10-28"
+    "read": "2026-10-29"
    },
    "2026-10-23": {
     "views": 1508,
@@ -3053,7 +3070,7 @@
     "profile_links_taps": 0,
     "reach_followers": 4,
     "reach_non_followers": 1171,
-    "read": "2026-10-28"
+    "read": "2026-10-29"
    },
    "2026-10-24": {
     "views": 1604,
@@ -3071,7 +3088,7 @@
     "profile_links_taps": 0,
     "reach_followers": 2,
     "reach_non_followers": 1115,
-    "read": "2026-10-28"
+    "read": "2026-10-29"
    },
    "2026-10-25": {
     "views": 363,
@@ -3089,7 +3106,7 @@
     "profile_links_taps": 0,
     "reach_followers": 3,
     "reach_non_followers": 225,
-    "read": "2026-10-28"
+    "read": "2026-10-29"
    },
    "2026-10-26": {
     "views": 1386,
@@ -3107,7 +3124,7 @@
     "profile_links_taps": 0,
     "reach_followers": 2,
     "reach_non_followers": 1001,
-    "read": "2026-10-28"
+    "read": "2026-10-29"
    },
    "2026-10-27": {
     "views": 1977,
@@ -3125,7 +3142,25 @@
     "profile_links_taps": 0,
     "reach_followers": 8,
     "reach_non_followers": 1442,
-    "read": "2026-10-28"
+    "read": "2026-10-29"
+   },
+   "2026-10-28": {
+    "views": 284,
+    "reach": 206,
+    "accounts_engaged": 2,
+    "total_interactions": 2,
+    "likes": 2,
+    "comments": 0,
+    "shares": 0,
+    "saves": 0,
+    "reposts": 0,
+    "replies": 0,
+    "profile_views": 1,
+    "website_clicks": 0,
+    "profile_links_taps": 0,
+    "reach_followers": 3,
+    "reach_non_followers": 203,
+    "read": "2026-10-29"
    }
   }
  }
