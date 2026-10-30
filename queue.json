@@ -144,12 +144,14 @@
   "at": "2026-10-30 18:00",
   "at_epoch": 1793401200,
   "caption": "The first margarine, 1869, was beef tallow and milk. American margarine went almost fully vegetable oil by about 1950.\n\nFind tallow fried food near you in Seed Oil Tracker. Free on iPhone and Android, link in bio.\n\n#seedoils #seedoilfree #foodhistory #nutrition",
-  "status": "posting",
+  "status": "done",
   "label": "SOT E10 - the first margarine was beef fat.mp4",
   "thumb_ms": 0,
   "share_to_feed": true,
   "video_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/SOT-E10---the-first-margarine-was-beef-fat.mp4",
-  "cover_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/cover-E10.jpg"
+  "cover_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/cover-E10.jpg",
+  "result": "https://www.instagram.com/reel/DfItmWoFRf0/",
+  "posted_epoch": 1793401255
  },
  {
   "id": "20261018150706",
