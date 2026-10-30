@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-29 17:31 UTC",
- "updated_epoch": 1793295092,
+ "updated": "2026-10-30 17:09 UTC",
+ "updated_epoch": 1793380176,
  "api": "v23.0",
  "account": {
   "username": "seedoiltracker",
   "followers_count": 18,
   "follows_count": 10,
-  "media_count": 38
+  "media_count": 39
  },
  "followers_history": {
   "2026-10-20": 14,
@@ -18,7 +18,8 @@
   "2026-10-26": 16,
   "2026-10-27": 16,
   "2026-10-28": 17,
-  "2026-10-29": 18
+  "2026-10-29": 18,
+  "2026-10-30": 18
  },
  "metrics": [
   "views",
@@ -39,8 +40,24 @@
   "ig_reels_avg_watch_time": "ms",
   "ig_reels_video_view_total_time": "ms"
  },
- "calls": 67,
+ "calls": 68,
  "reels": [
+  {
+   "id": "18163118374436052",
+   "permalink": "https://www.instagram.com/reel/DfGIz1ekzOO/",
+   "timestamp": "2026-10-29T23:00:47+0000",
+   "caption": "In-N-Out's fries are cooked in 100% sunflower oil, and sunflower oil is a seed o",
+   "views": 2115,
+   "reach": 1458,
+   "likes": 10,
+   "comments": 2,
+   "shares": 0,
+   "saved": 0,
+   "total_interactions": 14,
+   "ig_reels_avg_watch_time": 8612,
+   "ig_reels_video_view_total_time": 12539312,
+   "reels_skip_rate": 41.8
+  },
   {
    "id": "17955598083035153",
    "permalink": "https://www.instagram.com/reel/DfDkHYbAOlE/",
@@ -63,7 +80,7 @@
    "timestamp": "2026-10-27T23:01:04+0000",
    "caption": "Buffalo Wild Wings fries its wings in beef tallow. The ranch and the blue cheese",
    "views": 2102,
-   "reach": 1461,
+   "reach": 1462,
    "likes": 22,
    "comments": 0,
    "shares": 0,
@@ -245,8 +262,8 @@
    "shares": 0,
    "saved": 0,
    "total_interactions": 14,
-   "ig_reels_avg_watch_time": 13827,
-   "ig_reels_video_view_total_time": 18141766,
+   "ig_reels_avg_watch_time": 13818,
+   "ig_reels_video_view_total_time": 18144081,
    "reels_skip_rate": 25.8
   },
   {
@@ -270,31 +287,31 @@
    "permalink": "https://www.instagram.com/reel/DehA__GjsBj/",
    "timestamp": "2026-10-15T13:00:40+0000",
    "caption": "Which country got the better deal?",
-   "views": 1719,
+   "views": 1723,
    "reach": 1307,
    "likes": 12,
    "comments": 0,
    "shares": 1,
    "saved": 4,
    "total_interactions": 17,
-   "ig_reels_avg_watch_time": 10825,
-   "ig_reels_video_view_total_time": 14819866,
-   "reels_skip_rate": 38.4
+   "ig_reels_avg_watch_time": 10847,
+   "ig_reels_video_view_total_time": 14871617,
+   "reels_skip_rate": 38.3
   },
   {
    "id": "18115357649003285",
    "permalink": "https://www.instagram.com/reel/Defg3mLj-HX/",
    "timestamp": "2026-10-14T23:00:40+0000",
    "caption": "Three huge steakhouse chains. Only one of them fries in beef tallow.\r",
-   "views": 1859,
-   "reach": 1450,
-   "likes": 13,
+   "views": 1870,
+   "reach": 1458,
+   "likes": 14,
    "comments": 0,
    "shares": 1,
    "saved": 1,
-   "total_interactions": 15,
-   "ig_reels_avg_watch_time": 9403,
-   "ig_reels_video_view_total_time": 13456929,
+   "total_interactions": 17,
+   "ig_reels_avg_watch_time": 9410,
+   "ig_reels_video_view_total_time": 13542086,
    "reels_skip_rate": 38.6
   },
   {
@@ -430,16 +447,16 @@
    "permalink": "https://www.instagram.com/reel/DdxKjvdkkzg/",
    "timestamp": "2026-09-26T23:01:00+0000",
    "caption": "My buddy orders the Cobb Salad because he thinks he is being healthy. By Chick f",
-   "views": 187,
+   "views": 188,
    "reach": 160,
    "likes": 5,
    "comments": 0,
    "shares": 2,
    "saved": 0,
    "total_interactions": 7,
-   "ig_reels_avg_watch_time": 7862,
-   "ig_reels_video_view_total_time": 1289530,
-   "reels_skip_rate": 61.9
+   "ig_reels_avg_watch_time": 7837,
+   "ig_reels_video_view_total_time": 1293247,
+   "reels_skip_rate": 61.5
   },
   {
    "id": "18011414582951114",
@@ -3070,7 +3087,7 @@
     "profile_links_taps": 0,
     "reach_followers": 4,
     "reach_non_followers": 1171,
-    "read": "2026-10-29"
+    "read": "2026-10-30"
    },
    "2026-10-24": {
     "views": 1604,
@@ -3088,7 +3105,7 @@
     "profile_links_taps": 0,
     "reach_followers": 2,
     "reach_non_followers": 1115,
-    "read": "2026-10-29"
+    "read": "2026-10-30"
    },
    "2026-10-25": {
     "views": 363,
@@ -3106,7 +3123,7 @@
     "profile_links_taps": 0,
     "reach_followers": 3,
     "reach_non_followers": 225,
-    "read": "2026-10-29"
+    "read": "2026-10-30"
    },
    "2026-10-26": {
     "views": 1386,
@@ -3124,7 +3141,7 @@
     "profile_links_taps": 0,
     "reach_followers": 2,
     "reach_non_followers": 1001,
-    "read": "2026-10-29"
+    "read": "2026-10-30"
    },
    "2026-10-27": {
     "views": 1977,
@@ -3142,7 +3159,7 @@
     "profile_links_taps": 0,
     "reach_followers": 8,
     "reach_non_followers": 1442,
-    "read": "2026-10-29"
+    "read": "2026-10-30"
    },
    "2026-10-28": {
     "views": 284,
@@ -3160,7 +3177,25 @@
     "profile_links_taps": 0,
     "reach_followers": 3,
     "reach_non_followers": 203,
-    "read": "2026-10-29"
+    "read": "2026-10-30"
+   },
+   "2026-10-29": {
+    "views": 2061,
+    "reach": 1452,
+    "accounts_engaged": 16,
+    "total_interactions": 15,
+    "likes": 11,
+    "comments": 2,
+    "shares": 0,
+    "saves": 0,
+    "reposts": 2,
+    "replies": 0,
+    "profile_views": 3,
+    "website_clicks": 0,
+    "profile_links_taps": 0,
+    "reach_followers": 5,
+    "reach_non_followers": 1446,
+    "read": "2026-10-30"
    }
   }
  }
