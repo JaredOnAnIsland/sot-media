@@ -861,5 +861,17 @@
   "share_to_feed": true,
   "video_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/SOT-H7---safflower-was-a-dye-before-it-was-oil.mp4",
   "cover_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/cover-H7.jpg"
+ },
+ {
+  "id": "20261101161740",
+  "at": "2026-12-30 18:00",
+  "at_epoch": 1798675200,
+  "caption": "KFC South Africa's allergen statement lists palmolein oil for its chicken. Crude palm oil is deep red-orange from natural carotenes, and standard refining destroys them.\n\nSources: KFC South Africa allergen statement; Malaysian Palm Oil Board; AOCS.\n\nFree on iPhone and Android: search Seed Oil Tracker. Link in bio.\n\n#palmoil #kfc #howitsmade #cookingoil",
+  "status": "pending",
+  "label": "SOT H8 - real palm oil is red.mp4",
+  "thumb_ms": 0,
+  "share_to_feed": true,
+  "video_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/SOT-H8---real-palm-oil-is-red.mp4",
+  "cover_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/cover-H8.jpg"
  }
 ]
