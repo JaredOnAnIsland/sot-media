@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-31 16:17 UTC",
- "updated_epoch": 1793463461,
+ "updated": "2026-11-01 17:13 UTC",
+ "updated_epoch": 1793553235,
  "api": "v23.0",
  "account": {
   "username": "seedoiltracker",
   "followers_count": 18,
   "follows_count": 10,
-  "media_count": 40
+  "media_count": 41
  },
  "followers_history": {
   "2026-10-20": 14,
@@ -20,7 +20,8 @@
   "2026-10-28": 17,
   "2026-10-29": 18,
   "2026-10-30": 18,
-  "2026-10-31": 18
+  "2026-10-31": 18,
+  "2026-11-01": 18
  },
  "metrics": [
   "views",
@@ -41,38 +42,54 @@
   "ig_reels_avg_watch_time": "ms",
   "ig_reels_video_view_total_time": "ms"
  },
- "calls": 69,
+ "calls": 70,
  "reels": [
+  {
+   "id": "17928538530426741",
+   "permalink": "https://www.instagram.com/reel/DfLSZhYEl-4/",
+   "timestamp": "2026-10-31T23:00:37+0000",
+   "caption": "Captain D's fries its fish in beef tallow.",
+   "views": 1717,
+   "reach": 1243,
+   "likes": 14,
+   "comments": 2,
+   "shares": 0,
+   "saved": 0,
+   "total_interactions": 16,
+   "ig_reels_avg_watch_time": 8117,
+   "ig_reels_video_view_total_time": 10024919,
+   "reels_skip_rate": 38.6
+  },
   {
    "id": "18119587000780922",
    "permalink": "https://www.instagram.com/reel/DfItmWoFRf0/",
    "timestamp": "2026-10-30T23:00:46+0000",
    "caption": "The first margarine, 1869, was beef tallow and milk. American margarine went alm",
-   "views": 1646,
-   "reach": 1271,
-   "likes": 26,
+   "views": 1653,
+   "reach": 1279,
+   "likes": 27,
    "comments": 0,
    "shares": 0,
    "saved": 1,
-   "total_interactions": 27,
-   "ig_reels_avg_watch_time": 11970,
-   "ig_reels_video_view_total_time": 15047209,
-   "reels_skip_rate": 34.3
+   "total_interactions": 28,
+   "ig_reels_avg_watch_time": 11948,
+   "ig_reels_video_view_total_time": 15078461,
+   "reels_skip_rate": 34.4
   },
   {
    "id": "18163118374436052",
    "permalink": "https://www.instagram.com/reel/DfGIz1ekzOO/",
    "timestamp": "2026-10-29T23:00:47+0000",
    "caption": "In-N-Out's fries are cooked in 100% sunflower oil, and sunflower oil is a seed o",
-   "views": 2130,
-   "reach": 1476,
+   "views": 2131,
+   "reach": 1478,
    "likes": 10,
    "comments": 2,
    "shares": 0,
    "saved": 0,
    "total_interactions": 14,
-   "ig_reels_avg_watch_time": 8576,
-   "ig_reels_video_view_total_time": 12616489,
+   "ig_reels_avg_watch_time": 8571,
+   "ig_reels_video_view_total_time": 12617831,
    "reels_skip_rate": 42.1
   },
   {
@@ -320,16 +337,16 @@
    "permalink": "https://www.instagram.com/reel/Defg3mLj-HX/",
    "timestamp": "2026-10-14T23:00:40+0000",
    "caption": "Three huge steakhouse chains. Only one of them fries in beef tallow.\r",
-   "views": 1878,
-   "reach": 1465,
+   "views": 1881,
+   "reach": 1468,
    "likes": 15,
    "comments": 0,
    "shares": 1,
    "saved": 1,
    "total_interactions": 19,
-   "ig_reels_avg_watch_time": 9401,
-   "ig_reels_video_view_total_time": 13594818,
-   "reels_skip_rate": 38.7
+   "ig_reels_avg_watch_time": 9387,
+   "ig_reels_video_view_total_time": 13601993,
+   "reels_skip_rate": 38.8
   },
   {
    "id": "18109325681181677",
@@ -3140,7 +3157,7 @@
     "profile_links_taps": 0,
     "reach_followers": 3,
     "reach_non_followers": 225,
-    "read": "2026-10-31"
+    "read": "2026-11-01"
    },
    "2026-10-26": {
     "views": 1386,
@@ -3158,7 +3175,7 @@
     "profile_links_taps": 0,
     "reach_followers": 2,
     "reach_non_followers": 1001,
-    "read": "2026-10-31"
+    "read": "2026-11-01"
    },
    "2026-10-27": {
     "views": 1977,
@@ -3176,7 +3193,7 @@
     "profile_links_taps": 0,
     "reach_followers": 8,
     "reach_non_followers": 1442,
-    "read": "2026-10-31"
+    "read": "2026-11-01"
    },
    "2026-10-28": {
     "views": 284,
@@ -3194,7 +3211,7 @@
     "profile_links_taps": 0,
     "reach_followers": 3,
     "reach_non_followers": 203,
-    "read": "2026-10-31"
+    "read": "2026-11-01"
    },
    "2026-10-29": {
     "views": 2062,
@@ -3212,7 +3229,7 @@
     "profile_links_taps": 0,
     "reach_followers": 5,
     "reach_non_followers": 1446,
-    "read": "2026-10-31"
+    "read": "2026-11-01"
    },
    "2026-10-30": {
     "views": 1282,
@@ -3230,7 +3247,25 @@
     "profile_links_taps": 0,
     "reach_followers": 2,
     "reach_non_followers": 990,
-    "read": "2026-10-31"
+    "read": "2026-11-01"
+   },
+   "2026-10-31": {
+    "views": 574,
+    "reach": 449,
+    "accounts_engaged": 10,
+    "total_interactions": 9,
+    "likes": 9,
+    "comments": 0,
+    "shares": 0,
+    "saves": 0,
+    "reposts": 0,
+    "replies": 0,
+    "profile_views": 1,
+    "website_clicks": 0,
+    "profile_links_taps": 0,
+    "reach_followers": 4,
+    "reach_non_followers": 450,
+    "read": "2026-11-01"
    }
   }
  }
