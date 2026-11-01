@@ -909,5 +909,17 @@
   "share_to_feed": true,
   "video_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/SOT-H6---rice-bran-goes-bad-in-days.mp4",
   "cover_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/cover-H6.jpg"
+ },
+ {
+  "id": "20261101161815",
+  "at": "2027-01-03 18:00",
+  "at_epoch": 1799020800,
+  "caption": "Under US law, highly refined peanut oil is not counted as a major food allergen, though the ingredient list still names it as peanut oil. This is a labeling rule, not advice.\n\nSource: US FDA, Food Allergen Q&A, Edition 5, January 2025.\n\nFree on iPhone and Android: search Seed Oil Tracker. Link in bio.\n\n#peanutoil #foodlabels #howitsmade #FDA",
+  "status": "pending",
+  "label": "SOT H9 - highly refined peanut oil is not a legal allergen.mp4",
+  "thumb_ms": 0,
+  "share_to_feed": true,
+  "video_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/SOT-H9---highly-refined-peanut-oil-is-not-a-legal-allergen.mp4",
+  "cover_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/cover-H9.jpg"
  }
 ]
