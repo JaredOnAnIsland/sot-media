@@ -849,5 +849,17 @@
   "share_to_feed": true,
   "video_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/SOT-H3---canola-seeds-are-not-that-oily.mp4",
   "cover_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/cover-H3.jpg"
+ },
+ {
+  "id": "20261101161732",
+  "at": "2026-12-29 18:00",
+  "at_epoch": 1798588800,
+  "caption": "Safflower was first grown for its flowers, which were used to make red and yellow dyes. Older seed was under 30 percent oil, too low to be worth pressing.\n\nSource: Purdue University NewCROP.\n\nFree on iPhone and Android: search Seed Oil Tracker. Link in bio.\n\n#safflower #seedoils #howitsmade #foodhistory",
+  "status": "pending",
+  "label": "SOT H7 - safflower was a dye before it was oil.mp4",
+  "thumb_ms": 0,
+  "share_to_feed": true,
+  "video_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/SOT-H7---safflower-was-a-dye-before-it-was-oil.mp4",
+  "cover_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/cover-H7.jpg"
  }
 ]
