@@ -837,5 +837,17 @@
   "share_to_feed": true,
   "video_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/SOT-H5---grapeseed-oil-is-wine-leftovers.mp4",
   "cover_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/cover-H5.jpg"
+ },
+ {
+  "id": "20261101161723",
+  "at": "2026-12-28 18:00",
+  "at_epoch": 1798502400,
+  "caption": "KFC's US nutrition guide says its products are fried in oil which \"may contain\" canola oil and hydrogenated soybean oil. Canola seed is about 44 percent oil, and in Canada the leftover meal goes mainly to dairy, pig and poultry feed.\n\nSources: KFC nutrition guide; Canola Council of Canada.\n\nFree on iPhone and Android: search Seed Oil Tracker. Link in bio.\n\n#canolaoil #kfc #seedoils #howitsmade",
+  "status": "pending",
+  "label": "SOT H3 - canola seeds are not that oily.mp4",
+  "thumb_ms": 0,
+  "share_to_feed": true,
+  "video_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/SOT-H3---canola-seeds-are-not-that-oily.mp4",
+  "cover_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/cover-H3.jpg"
  }
 ]
