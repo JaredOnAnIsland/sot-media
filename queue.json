@@ -897,5 +897,17 @@
   "share_to_feed": true,
   "video_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/SOT-H2---raw-cottonseed-oil-gets-washed-with-lye.mp4",
   "cover_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/cover-H2.jpg"
+ },
+ {
+  "id": "20261101161804",
+  "at": "2027-01-02 18:00",
+  "at_epoch": 1798934400,
+  "caption": "Once rice is milled, an enzyme in the bran starts splitting its fat, so unstabilized bran typically lasts only about 5 days.\n\nSources: Foods journal, 2025; Journal of Food Science and Technology, 2019.\n\nFree on iPhone and Android: search Seed Oil Tracker. Link in bio.\n\n#ricebranoil #seedoils #howitsmade #foodscience",
+  "status": "pending",
+  "label": "SOT H6 - rice bran goes bad in days.mp4",
+  "thumb_ms": 0,
+  "share_to_feed": true,
+  "video_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/SOT-H6---rice-bran-goes-bad-in-days.mp4",
+  "cover_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/cover-H6.jpg"
  }
 ]
