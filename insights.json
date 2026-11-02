@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-01 17:13 UTC",
- "updated_epoch": 1793553235,
+ "updated": "2026-11-02 20:52 UTC",
+ "updated_epoch": 1793652757,
  "api": "v23.0",
  "account": {
   "username": "seedoiltracker",
   "followers_count": 18,
   "follows_count": 10,
-  "media_count": 41
+  "media_count": 42
  },
  "followers_history": {
   "2026-10-20": 14,
@@ -21,7 +21,8 @@
   "2026-10-29": 18,
   "2026-10-30": 18,
   "2026-10-31": 18,
-  "2026-11-01": 18
+  "2026-11-01": 18,
+  "2026-11-02": 18
  },
  "metrics": [
   "views",
@@ -42,23 +43,39 @@
   "ig_reels_avg_watch_time": "ms",
   "ig_reels_video_view_total_time": "ms"
  },
- "calls": 70,
+ "calls": 71,
  "reels": [
+  {
+   "id": "18644670916012482",
+   "permalink": "https://www.instagram.com/reel/DfN-DvWCRgH/",
+   "timestamp": "2026-11-02T00:00:48+0000",
+   "caption": "Sydney Diet Heart Study, 458 men, 1966 to 1973, reanalyzed in The BMJ in 2013. A",
+   "views": 1928,
+   "reach": 1290,
+   "likes": 26,
+   "comments": 0,
+   "shares": 0,
+   "saved": 2,
+   "total_interactions": 29,
+   "ig_reels_avg_watch_time": 13188,
+   "ig_reels_video_view_total_time": 17778682,
+   "reels_skip_rate": 25.7
+  },
   {
    "id": "17928538530426741",
    "permalink": "https://www.instagram.com/reel/DfLSZhYEl-4/",
    "timestamp": "2026-10-31T23:00:37+0000",
    "caption": "Captain D's fries its fish in beef tallow.",
-   "views": 1717,
-   "reach": 1243,
+   "views": 1789,
+   "reach": 1312,
    "likes": 14,
    "comments": 2,
    "shares": 0,
    "saved": 0,
    "total_interactions": 16,
-   "ig_reels_avg_watch_time": 8117,
-   "ig_reels_video_view_total_time": 10024919,
-   "reels_skip_rate": 38.6
+   "ig_reels_avg_watch_time": 8179,
+   "ig_reels_video_view_total_time": 10723959,
+   "reels_skip_rate": 39.5
   },
   {
    "id": "18119587000780922",
@@ -81,16 +98,16 @@
    "permalink": "https://www.instagram.com/reel/DfGIz1ekzOO/",
    "timestamp": "2026-10-29T23:00:47+0000",
    "caption": "In-N-Out's fries are cooked in 100% sunflower oil, and sunflower oil is a seed o",
-   "views": 2131,
+   "views": 2132,
    "reach": 1478,
    "likes": 10,
    "comments": 2,
    "shares": 0,
    "saved": 0,
    "total_interactions": 14,
-   "ig_reels_avg_watch_time": 8571,
-   "ig_reels_video_view_total_time": 12617831,
-   "reels_skip_rate": 42.1
+   "ig_reels_avg_watch_time": 8567,
+   "ig_reels_video_view_total_time": 12619910,
+   "reels_skip_rate": 42.2
   },
   {
    "id": "17955598083035153",
@@ -113,15 +130,15 @@
    "permalink": "https://www.instagram.com/reel/DfA_NzpkZuj/",
    "timestamp": "2026-10-27T23:01:04+0000",
    "caption": "Buffalo Wild Wings fries its wings in beef tallow. The ranch and the blue cheese",
-   "views": 2102,
-   "reach": 1462,
+   "views": 2103,
+   "reach": 1463,
    "likes": 22,
    "comments": 0,
    "shares": 0,
    "saved": 1,
    "total_interactions": 25,
-   "ig_reels_avg_watch_time": 9189,
-   "ig_reels_video_view_total_time": 13269447,
+   "ig_reels_avg_watch_time": 9187,
+   "ig_reels_video_view_total_time": 13275418,
    "reels_skip_rate": 34.7
   },
   {
@@ -177,15 +194,15 @@
    "permalink": "https://www.instagram.com/reel/De2sCwQDM_5/",
    "timestamp": "2026-10-23T23:00:50+0000",
    "caption": "Popeyes fries its chicken in beef tallow, and it says so on its own ingredient s",
-   "views": 1546,
-   "reach": 1185,
+   "views": 1547,
+   "reach": 1186,
    "likes": 10,
    "comments": 1,
    "shares": 0,
    "saved": 0,
    "total_interactions": 11,
    "ig_reels_avg_watch_time": 8314,
-   "ig_reels_video_view_total_time": 9802475,
+   "ig_reels_video_view_total_time": 9810546,
    "reels_skip_rate": 38.7
   },
   {
@@ -209,15 +226,15 @@
    "permalink": "https://www.instagram.com/reel/DexidCoilyv/",
    "timestamp": "2026-10-21T23:00:58+0000",
    "caption": "The bottle labeled vegetable oil is not made from vegetables.",
-   "views": 1587,
+   "views": 1589,
    "reach": 1140,
    "likes": 5,
    "comments": 0,
    "shares": 0,
    "saved": 2,
    "total_interactions": 7,
-   "ig_reels_avg_watch_time": 11720,
-   "ig_reels_video_view_total_time": 13549282,
+   "ig_reels_avg_watch_time": 11723,
+   "ig_reels_video_view_total_time": 13564278,
    "reels_skip_rate": 36.6
   },
   {
@@ -241,15 +258,15 @@
    "permalink": "https://www.instagram.com/reel/DesfD9aCU2G/",
    "timestamp": "2026-10-19T23:54:59+0000",
    "caption": "Five Guys has used the same fryer oil since 1986. Peanut oil, nothing else.\r",
-   "views": 1621,
-   "reach": 1195,
+   "views": 1624,
+   "reach": 1197,
    "likes": 6,
    "comments": 0,
    "shares": 0,
    "saved": 0,
    "total_interactions": 6,
-   "ig_reels_avg_watch_time": 10633,
-   "ig_reels_video_view_total_time": 12632166,
+   "ig_reels_avg_watch_time": 10632,
+   "ig_reels_video_view_total_time": 12653020,
    "reels_skip_rate": 33.1
   },
   {
@@ -257,15 +274,15 @@
    "permalink": "https://www.instagram.com/reel/Dep4ibuFcMZ/",
    "timestamp": "2026-10-18T23:39:51+0000",
    "caption": "In 2006 KFC announced a big change to its frying oil. It dropped partially hydro",
-   "views": 1540,
+   "views": 1541,
    "reach": 1083,
    "likes": 5,
    "comments": 0,
    "shares": 0,
    "saved": 1,
    "total_interactions": 6,
-   "ig_reels_avg_watch_time": 11927,
-   "ig_reels_video_view_total_time": 13143617,
+   "ig_reels_avg_watch_time": 11936,
+   "ig_reels_video_view_total_time": 13165471,
    "reels_skip_rate": 32.7
   },
   {
@@ -3175,7 +3192,7 @@
     "profile_links_taps": 0,
     "reach_followers": 2,
     "reach_non_followers": 1001,
-    "read": "2026-11-01"
+    "read": "2026-11-02"
    },
    "2026-10-27": {
     "views": 1977,
@@ -3193,7 +3210,7 @@
     "profile_links_taps": 0,
     "reach_followers": 8,
     "reach_non_followers": 1442,
-    "read": "2026-11-01"
+    "read": "2026-11-02"
    },
    "2026-10-28": {
     "views": 284,
@@ -3211,7 +3228,7 @@
     "profile_links_taps": 0,
     "reach_followers": 3,
     "reach_non_followers": 203,
-    "read": "2026-11-01"
+    "read": "2026-11-02"
    },
    "2026-10-29": {
     "views": 2062,
@@ -3229,7 +3246,7 @@
     "profile_links_taps": 0,
     "reach_followers": 5,
     "reach_non_followers": 1446,
-    "read": "2026-11-01"
+    "read": "2026-11-02"
    },
    "2026-10-30": {
     "views": 1282,
@@ -3247,7 +3264,7 @@
     "profile_links_taps": 0,
     "reach_followers": 2,
     "reach_non_followers": 990,
-    "read": "2026-11-01"
+    "read": "2026-11-02"
    },
    "2026-10-31": {
     "views": 574,
@@ -3265,7 +3282,25 @@
     "profile_links_taps": 0,
     "reach_followers": 4,
     "reach_non_followers": 450,
-    "read": "2026-11-01"
+    "read": "2026-11-02"
+   },
+   "2026-11-01": {
+    "views": 3467,
+    "reach": 2450,
+    "accounts_engaged": 46,
+    "total_interactions": 43,
+    "likes": 38,
+    "comments": 2,
+    "shares": 0,
+    "saves": 2,
+    "reposts": 1,
+    "replies": 0,
+    "profile_views": 9,
+    "website_clicks": 0,
+    "profile_links_taps": 0,
+    "reach_followers": 3,
+    "reach_non_followers": 2447,
+    "read": "2026-11-02"
    }
   }
  }
