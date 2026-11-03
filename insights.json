@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-02 20:52 UTC",
- "updated_epoch": 1793652757,
+ "updated": "2026-11-03 18:38 UTC",
+ "updated_epoch": 1793731122,
  "api": "v23.0",
  "account": {
   "username": "seedoiltracker",
   "followers_count": 18,
   "follows_count": 10,
-  "media_count": 42
+  "media_count": 43
  },
  "followers_history": {
   "2026-10-20": 14,
@@ -22,7 +22,8 @@
   "2026-10-30": 18,
   "2026-10-31": 18,
   "2026-11-01": 18,
-  "2026-11-02": 18
+  "2026-11-02": 18,
+  "2026-11-03": 18
  },
  "metrics": [
   "views",
@@ -43,23 +44,39 @@
   "ig_reels_avg_watch_time": "ms",
   "ig_reels_video_view_total_time": "ms"
  },
- "calls": 71,
+ "calls": 72,
  "reels": [
+  {
+   "id": "18028870868702369",
+   "permalink": "https://www.instagram.com/reel/DfQi2vEFYkb/",
+   "timestamp": "2026-11-03T00:00:47+0000",
+   "caption": "Portillo's says its french fries are not vegan, because they're cooked in beef t",
+   "views": 564,
+   "reach": 387,
+   "likes": 1,
+   "comments": 0,
+   "shares": 0,
+   "saved": 0,
+   "total_interactions": 1,
+   "ig_reels_avg_watch_time": 9185,
+   "ig_reels_video_view_total_time": 3573249,
+   "reels_skip_rate": 39.6
+  },
   {
    "id": "18644670916012482",
    "permalink": "https://www.instagram.com/reel/DfN-DvWCRgH/",
    "timestamp": "2026-11-02T00:00:48+0000",
    "caption": "Sydney Diet Heart Study, 458 men, 1966 to 1973, reanalyzed in The BMJ in 2013. A",
-   "views": 1928,
+   "views": 1931,
    "reach": 1290,
    "likes": 26,
    "comments": 0,
    "shares": 0,
    "saved": 2,
    "total_interactions": 29,
-   "ig_reels_avg_watch_time": 13188,
-   "ig_reels_video_view_total_time": 17778682,
-   "reels_skip_rate": 25.7
+   "ig_reels_avg_watch_time": 13168,
+   "ig_reels_video_view_total_time": 17790868,
+   "reels_skip_rate": 25.8
   },
   {
    "id": "17928538530426741",
@@ -98,15 +115,15 @@
    "permalink": "https://www.instagram.com/reel/DfGIz1ekzOO/",
    "timestamp": "2026-10-29T23:00:47+0000",
    "caption": "In-N-Out's fries are cooked in 100% sunflower oil, and sunflower oil is a seed o",
-   "views": 2132,
+   "views": 2134,
    "reach": 1478,
    "likes": 10,
    "comments": 2,
    "shares": 0,
    "saved": 0,
    "total_interactions": 14,
-   "ig_reels_avg_watch_time": 8567,
-   "ig_reels_video_view_total_time": 12619910,
+   "ig_reels_avg_watch_time": 8562,
+   "ig_reels_video_view_total_time": 12620876,
    "reels_skip_rate": 42.2
   },
   {
@@ -354,16 +371,16 @@
    "permalink": "https://www.instagram.com/reel/Defg3mLj-HX/",
    "timestamp": "2026-10-14T23:00:40+0000",
    "caption": "Three huge steakhouse chains. Only one of them fries in beef tallow.\r",
-   "views": 1881,
-   "reach": 1468,
+   "views": 1885,
+   "reach": 1470,
    "likes": 15,
    "comments": 0,
    "shares": 1,
    "saved": 1,
    "total_interactions": 19,
-   "ig_reels_avg_watch_time": 9387,
-   "ig_reels_video_view_total_time": 13601993,
-   "reels_skip_rate": 38.8
+   "ig_reels_avg_watch_time": 9417,
+   "ig_reels_video_view_total_time": 13664788,
+   "reels_skip_rate": 38.7
   },
   {
    "id": "18109325681181677",
@@ -3210,7 +3227,7 @@
     "profile_links_taps": 0,
     "reach_followers": 8,
     "reach_non_followers": 1442,
-    "read": "2026-11-02"
+    "read": "2026-11-03"
    },
    "2026-10-28": {
     "views": 284,
@@ -3228,7 +3245,7 @@
     "profile_links_taps": 0,
     "reach_followers": 3,
     "reach_non_followers": 203,
-    "read": "2026-11-02"
+    "read": "2026-11-03"
    },
    "2026-10-29": {
     "views": 2062,
@@ -3246,7 +3263,7 @@
     "profile_links_taps": 0,
     "reach_followers": 5,
     "reach_non_followers": 1446,
-    "read": "2026-11-02"
+    "read": "2026-11-03"
    },
    "2026-10-30": {
     "views": 1282,
@@ -3264,7 +3281,7 @@
     "profile_links_taps": 0,
     "reach_followers": 2,
     "reach_non_followers": 990,
-    "read": "2026-11-02"
+    "read": "2026-11-03"
    },
    "2026-10-31": {
     "views": 574,
@@ -3282,7 +3299,7 @@
     "profile_links_taps": 0,
     "reach_followers": 4,
     "reach_non_followers": 450,
-    "read": "2026-11-02"
+    "read": "2026-11-03"
    },
    "2026-11-01": {
     "views": 3467,
@@ -3300,7 +3317,25 @@
     "profile_links_taps": 0,
     "reach_followers": 3,
     "reach_non_followers": 2447,
-    "read": "2026-11-02"
+    "read": "2026-11-03"
+   },
+   "2026-11-02": {
+    "views": 367,
+    "reach": 270,
+    "accounts_engaged": 2,
+    "total_interactions": 2,
+    "likes": 2,
+    "comments": 0,
+    "shares": 0,
+    "saves": 0,
+    "reposts": 0,
+    "replies": 0,
+    "profile_views": 2,
+    "website_clicks": 0,
+    "profile_links_taps": 0,
+    "reach_followers": 2,
+    "reach_non_followers": 268,
+    "read": "2026-11-03"
    }
   }
  }
