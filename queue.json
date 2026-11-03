@@ -302,12 +302,14 @@
   "at": "2026-11-02 18:00",
   "at_epoch": 1793664000,
   "caption": "Portillo's says its french fries are not vegan, because they're cooked in beef tallow.\n\nFrom Portillo's own FAQ, under the vegan question: \"Our French fries are not vegan, as they are cooked in a blend of vegetable oil and beef tallow.\"\n\nSource: portillos.com FAQ, read October 18, 2026.\n\nFree on iPhone and Android: search Seed Oil Tracker. Link in bio.\n\n#portillos #beeftallow #seedoils #chicagofood",
-  "status": "posting",
+  "status": "done",
   "label": "SOT PT1 - portillo's fries are not vegan.mp4",
   "thumb_ms": 0,
   "share_to_feed": true,
   "video_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/SOT-PT1---portillo-s-fries-are-not-vegan.mp4",
-  "cover_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/cover-PT1.jpg"
+  "cover_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/cover-PT1.jpg",
+  "result": "https://www.instagram.com/reel/DfQi2vEFYkb/",
+  "posted_epoch": 1793664053
  },
  {
   "id": "20261020104800",
