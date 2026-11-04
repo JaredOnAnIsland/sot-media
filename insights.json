@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-03 18:38 UTC",
- "updated_epoch": 1793731122,
+ "updated": "2026-11-04 18:51 UTC",
+ "updated_epoch": 1793818272,
  "api": "v23.0",
  "account": {
   "username": "seedoiltracker",
   "followers_count": 18,
   "follows_count": 10,
-  "media_count": 43
+  "media_count": 44
  },
  "followers_history": {
   "2026-10-20": 14,
@@ -23,7 +23,8 @@
   "2026-10-31": 18,
   "2026-11-01": 18,
   "2026-11-02": 18,
-  "2026-11-03": 18
+  "2026-11-03": 18,
+  "2026-11-04": 18
  },
  "metrics": [
   "views",
@@ -44,23 +45,39 @@
   "ig_reels_avg_watch_time": "ms",
   "ig_reels_video_view_total_time": "ms"
  },
- "calls": 72,
+ "calls": 73,
  "reels": [
+  {
+   "id": "18131826808873993",
+   "permalink": "https://www.instagram.com/reel/DfTHpUAFF8u/",
+   "timestamp": "2026-11-04T00:00:47+0000",
+   "caption": "The 1948 money that made the American Heart Association came from radio listener",
+   "views": 193,
+   "reach": 143,
+   "likes": 2,
+   "comments": 0,
+   "shares": 0,
+   "saved": 0,
+   "total_interactions": 2,
+   "ig_reels_avg_watch_time": 12259,
+   "ig_reels_video_view_total_time": 1753163,
+   "reels_skip_rate": 43.4
+  },
   {
    "id": "18028870868702369",
    "permalink": "https://www.instagram.com/reel/DfQi2vEFYkb/",
    "timestamp": "2026-11-03T00:00:47+0000",
    "caption": "Portillo's says its french fries are not vegan, because they're cooked in beef t",
-   "views": 564,
-   "reach": 387,
-   "likes": 1,
+   "views": 703,
+   "reach": 486,
+   "likes": 2,
    "comments": 0,
    "shares": 0,
    "saved": 0,
-   "total_interactions": 1,
-   "ig_reels_avg_watch_time": 9185,
-   "ig_reels_video_view_total_time": 3573249,
-   "reels_skip_rate": 39.6
+   "total_interactions": 2,
+   "ig_reels_avg_watch_time": 9870,
+   "ig_reels_video_view_total_time": 4767243,
+   "reels_skip_rate": 38.1
   },
   {
    "id": "18644670916012482",
@@ -83,15 +100,15 @@
    "permalink": "https://www.instagram.com/reel/DfLSZhYEl-4/",
    "timestamp": "2026-10-31T23:00:37+0000",
    "caption": "Captain D's fries its fish in beef tallow.",
-   "views": 1789,
-   "reach": 1312,
+   "views": 1792,
+   "reach": 1314,
    "likes": 14,
    "comments": 2,
    "shares": 0,
    "saved": 0,
    "total_interactions": 16,
-   "ig_reels_avg_watch_time": 8179,
-   "ig_reels_video_view_total_time": 10723959,
+   "ig_reels_avg_watch_time": 8180,
+   "ig_reels_video_view_total_time": 10740622,
    "reels_skip_rate": 39.5
   },
   {
@@ -371,16 +388,16 @@
    "permalink": "https://www.instagram.com/reel/Defg3mLj-HX/",
    "timestamp": "2026-10-14T23:00:40+0000",
    "caption": "Three huge steakhouse chains. Only one of them fries in beef tallow.\r",
-   "views": 1885,
-   "reach": 1470,
+   "views": 1907,
+   "reach": 1487,
    "likes": 15,
    "comments": 0,
    "shares": 1,
    "saved": 1,
    "total_interactions": 19,
-   "ig_reels_avg_watch_time": 9417,
-   "ig_reels_video_view_total_time": 13664788,
-   "reels_skip_rate": 38.7
+   "ig_reels_avg_watch_time": 9432,
+   "ig_reels_video_view_total_time": 13846344,
+   "reels_skip_rate": 38.5
   },
   {
    "id": "18109325681181677",
@@ -3245,7 +3262,7 @@
     "profile_links_taps": 0,
     "reach_followers": 3,
     "reach_non_followers": 203,
-    "read": "2026-11-03"
+    "read": "2026-11-04"
    },
    "2026-10-29": {
     "views": 2062,
@@ -3263,7 +3280,7 @@
     "profile_links_taps": 0,
     "reach_followers": 5,
     "reach_non_followers": 1446,
-    "read": "2026-11-03"
+    "read": "2026-11-04"
    },
    "2026-10-30": {
     "views": 1282,
@@ -3281,7 +3298,7 @@
     "profile_links_taps": 0,
     "reach_followers": 2,
     "reach_non_followers": 990,
-    "read": "2026-11-03"
+    "read": "2026-11-04"
    },
    "2026-10-31": {
     "views": 574,
@@ -3299,7 +3316,7 @@
     "profile_links_taps": 0,
     "reach_followers": 4,
     "reach_non_followers": 450,
-    "read": "2026-11-03"
+    "read": "2026-11-04"
    },
    "2026-11-01": {
     "views": 3467,
@@ -3317,7 +3334,7 @@
     "profile_links_taps": 0,
     "reach_followers": 3,
     "reach_non_followers": 2447,
-    "read": "2026-11-03"
+    "read": "2026-11-04"
    },
    "2026-11-02": {
     "views": 367,
@@ -3335,7 +3352,25 @@
     "profile_links_taps": 0,
     "reach_followers": 2,
     "reach_non_followers": 268,
-    "read": "2026-11-03"
+    "read": "2026-11-04"
+   },
+   "2026-11-03": {
+    "views": 557,
+    "reach": 389,
+    "accounts_engaged": 4,
+    "total_interactions": 3,
+    "likes": 3,
+    "comments": 0,
+    "shares": 0,
+    "saves": 0,
+    "reposts": 0,
+    "replies": 0,
+    "profile_views": 0,
+    "website_clicks": 0,
+    "profile_links_taps": 0,
+    "reach_followers": 3,
+    "reach_non_followers": 385,
+    "read": "2026-11-04"
    }
   }
  }
