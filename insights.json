@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-04 18:51 UTC",
- "updated_epoch": 1793818272,
+ "updated": "2026-11-05 18:56 UTC",
+ "updated_epoch": 1793905011,
  "api": "v23.0",
  "account": {
   "username": "seedoiltracker",
   "followers_count": 18,
   "follows_count": 10,
-  "media_count": 44
+  "media_count": 45
  },
  "followers_history": {
   "2026-10-20": 14,
@@ -24,7 +24,8 @@
   "2026-11-01": 18,
   "2026-11-02": 18,
   "2026-11-03": 18,
-  "2026-11-04": 18
+  "2026-11-04": 18,
+  "2026-11-05": 18
  },
  "metrics": [
   "views",
@@ -45,39 +46,55 @@
   "ig_reels_avg_watch_time": "ms",
   "ig_reels_video_view_total_time": "ms"
  },
- "calls": 73,
+ "calls": 74,
  "reels": [
+  {
+   "id": "18048935429818522",
+   "permalink": "https://www.instagram.com/reel/DfVsccbjjzQ/",
+   "timestamp": "2026-11-05T00:00:48+0000",
+   "caption": "USDA expects 17.8 of the 33.1 billion pounds of soybean oil used in America this",
+   "views": 415,
+   "reach": 322,
+   "likes": 6,
+   "comments": 0,
+   "shares": 0,
+   "saved": 0,
+   "total_interactions": 6,
+   "ig_reels_avg_watch_time": 9144,
+   "ig_reels_video_view_total_time": 2953652,
+   "reels_skip_rate": 32.4
+  },
   {
    "id": "18131826808873993",
    "permalink": "https://www.instagram.com/reel/DfTHpUAFF8u/",
    "timestamp": "2026-11-04T00:00:47+0000",
    "caption": "The 1948 money that made the American Heart Association came from radio listener",
-   "views": 193,
-   "reach": 143,
+   "views": 194,
+   "reach": 144,
    "likes": 2,
    "comments": 0,
    "shares": 0,
    "saved": 0,
    "total_interactions": 2,
-   "ig_reels_avg_watch_time": 12259,
-   "ig_reels_video_view_total_time": 1753163,
-   "reels_skip_rate": 43.4
+   "ig_reels_avg_watch_time": 12251,
+   "ig_reels_video_view_total_time": 1764160,
+   "reels_skip_rate": 43.1
   },
   {
    "id": "18028870868702369",
    "permalink": "https://www.instagram.com/reel/DfQi2vEFYkb/",
    "timestamp": "2026-11-03T00:00:47+0000",
    "caption": "Portillo's says its french fries are not vegan, because they're cooked in beef t",
-   "views": 703,
-   "reach": 486,
+   "views": 704,
+   "reach": 488,
    "likes": 2,
    "comments": 0,
    "shares": 0,
    "saved": 0,
    "total_interactions": 2,
-   "ig_reels_avg_watch_time": 9870,
-   "ig_reels_video_view_total_time": 4767243,
-   "reels_skip_rate": 38.1
+   "ig_reels_avg_watch_time": 9858,
+   "ig_reels_video_view_total_time": 4771711,
+   "reels_skip_rate": 38
   },
   {
    "id": "18644670916012482",
@@ -100,15 +117,15 @@
    "permalink": "https://www.instagram.com/reel/DfLSZhYEl-4/",
    "timestamp": "2026-10-31T23:00:37+0000",
    "caption": "Captain D's fries its fish in beef tallow.",
-   "views": 1792,
+   "views": 1793,
    "reach": 1314,
    "likes": 14,
    "comments": 2,
    "shares": 0,
    "saved": 0,
    "total_interactions": 16,
-   "ig_reels_avg_watch_time": 8180,
-   "ig_reels_video_view_total_time": 10740622,
+   "ig_reels_avg_watch_time": 8186,
+   "ig_reels_video_view_total_time": 10756956,
    "reels_skip_rate": 39.5
   },
   {
@@ -292,15 +309,15 @@
    "permalink": "https://www.instagram.com/reel/DesfD9aCU2G/",
    "timestamp": "2026-10-19T23:54:59+0000",
    "caption": "Five Guys has used the same fryer oil since 1986. Peanut oil, nothing else.\r",
-   "views": 1624,
+   "views": 1625,
    "reach": 1197,
    "likes": 6,
    "comments": 0,
    "shares": 0,
    "saved": 0,
    "total_interactions": 6,
-   "ig_reels_avg_watch_time": 10632,
-   "ig_reels_video_view_total_time": 12653020,
+   "ig_reels_avg_watch_time": 10637,
+   "ig_reels_video_view_total_time": 12668691,
    "reels_skip_rate": 33.1
   },
   {
@@ -388,16 +405,16 @@
    "permalink": "https://www.instagram.com/reel/Defg3mLj-HX/",
    "timestamp": "2026-10-14T23:00:40+0000",
    "caption": "Three huge steakhouse chains. Only one of them fries in beef tallow.\r",
-   "views": 1907,
-   "reach": 1487,
+   "views": 1910,
+   "reach": 1490,
    "likes": 15,
    "comments": 0,
    "shares": 1,
    "saved": 1,
    "total_interactions": 19,
-   "ig_reels_avg_watch_time": 9432,
-   "ig_reels_video_view_total_time": 13846344,
-   "reels_skip_rate": 38.5
+   "ig_reels_avg_watch_time": 9424,
+   "ig_reels_video_view_total_time": 13863385,
+   "reels_skip_rate": 38.6
   },
   {
    "id": "18109325681181677",
@@ -3280,7 +3297,7 @@
     "profile_links_taps": 0,
     "reach_followers": 5,
     "reach_non_followers": 1446,
-    "read": "2026-11-04"
+    "read": "2026-11-05"
    },
    "2026-10-30": {
     "views": 1282,
@@ -3298,7 +3315,7 @@
     "profile_links_taps": 0,
     "reach_followers": 2,
     "reach_non_followers": 990,
-    "read": "2026-11-04"
+    "read": "2026-11-05"
    },
    "2026-10-31": {
     "views": 574,
@@ -3316,7 +3333,7 @@
     "profile_links_taps": 0,
     "reach_followers": 4,
     "reach_non_followers": 450,
-    "read": "2026-11-04"
+    "read": "2026-11-05"
    },
    "2026-11-01": {
     "views": 3467,
@@ -3334,7 +3351,7 @@
     "profile_links_taps": 0,
     "reach_followers": 3,
     "reach_non_followers": 2447,
-    "read": "2026-11-04"
+    "read": "2026-11-05"
    },
    "2026-11-02": {
     "views": 367,
@@ -3352,7 +3369,7 @@
     "profile_links_taps": 0,
     "reach_followers": 2,
     "reach_non_followers": 268,
-    "read": "2026-11-04"
+    "read": "2026-11-05"
    },
    "2026-11-03": {
     "views": 557,
@@ -3370,7 +3387,25 @@
     "profile_links_taps": 0,
     "reach_followers": 3,
     "reach_non_followers": 385,
-    "read": "2026-11-04"
+    "read": "2026-11-05"
+   },
+   "2026-11-04": {
+    "views": 170,
+    "reach": 147,
+    "accounts_engaged": 0,
+    "total_interactions": 0,
+    "likes": 0,
+    "comments": 0,
+    "shares": 0,
+    "saves": 0,
+    "reposts": 0,
+    "replies": 0,
+    "profile_views": 0,
+    "website_clicks": 0,
+    "profile_links_taps": 0,
+    "reach_followers": 3,
+    "reach_non_followers": 144,
+    "read": "2026-11-05"
    }
   }
  }
