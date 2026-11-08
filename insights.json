@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-07 16:58 UTC",
- "updated_epoch": 1794070734,
+ "updated": "2026-11-08 17:13 UTC",
+ "updated_epoch": 1794158019,
  "api": "v23.0",
  "account": {
   "username": "seedoiltracker",
-  "followers_count": 18,
+  "followers_count": 19,
   "follows_count": 10,
-  "media_count": 47
+  "media_count": 48
  },
  "followers_history": {
   "2026-10-20": 14,
@@ -27,7 +27,8 @@
   "2026-11-04": 18,
   "2026-11-05": 18,
   "2026-11-06": 18,
-  "2026-11-07": 18
+  "2026-11-07": 18,
+  "2026-11-08": 19
  },
  "metrics": [
   "views",
@@ -48,23 +49,39 @@
   "ig_reels_avg_watch_time": "ms",
   "ig_reels_video_view_total_time": "ms"
  },
- "calls": 76,
+ "calls": 77,
  "reels": [
+  {
+   "id": "17995344756028171",
+   "permalink": "https://www.instagram.com/reel/Dfda2KpjP8-/",
+   "timestamp": "2026-11-08T00:00:48+0000",
+   "caption": "Spain, 1981: industrial rapeseed oil treated with aniline was refined and sold a",
+   "views": 181,
+   "reach": 143,
+   "likes": 1,
+   "comments": 0,
+   "shares": 0,
+   "saved": 0,
+   "total_interactions": 1,
+   "ig_reels_avg_watch_time": 8514,
+   "ig_reels_video_view_total_time": 1217644,
+   "reels_skip_rate": 46.2
+  },
   {
    "id": "18129098587846235",
    "permalink": "https://www.instagram.com/reel/Dfa2DKuD5RG/",
    "timestamp": "2026-11-07T00:00:50+0000",
    "caption": "By 1898, 26 states banned yellow margarine, and Vermont, New Hampshire and South",
-   "views": 2411,
-   "reach": 1632,
-   "likes": 30,
+   "views": 2421,
+   "reach": 1638,
+   "likes": 31,
    "comments": 0,
    "shares": 2,
    "saved": 1,
-   "total_interactions": 33,
-   "ig_reels_avg_watch_time": 14422,
-   "ig_reels_video_view_total_time": 23205762,
-   "reels_skip_rate": 21.4
+   "total_interactions": 34,
+   "ig_reels_avg_watch_time": 14383,
+   "ig_reels_video_view_total_time": 23229914,
+   "reels_skip_rate": 21.5
   },
   {
    "id": "17917024530469856",
@@ -3385,7 +3402,7 @@
     "profile_links_taps": 0,
     "reach_followers": 3,
     "reach_non_followers": 2447,
-    "read": "2026-11-07"
+    "read": "2026-11-08"
    },
    "2026-11-02": {
     "views": 367,
@@ -3403,7 +3420,7 @@
     "profile_links_taps": 0,
     "reach_followers": 2,
     "reach_non_followers": 268,
-    "read": "2026-11-07"
+    "read": "2026-11-08"
    },
    "2026-11-03": {
     "views": 557,
@@ -3421,7 +3438,7 @@
     "profile_links_taps": 0,
     "reach_followers": 3,
     "reach_non_followers": 385,
-    "read": "2026-11-07"
+    "read": "2026-11-08"
    },
    "2026-11-04": {
     "views": 170,
@@ -3439,7 +3456,7 @@
     "profile_links_taps": 0,
     "reach_followers": 3,
     "reach_non_followers": 144,
-    "read": "2026-11-07"
+    "read": "2026-11-08"
    },
    "2026-11-05": {
     "views": 540,
@@ -3457,7 +3474,7 @@
     "profile_links_taps": 0,
     "reach_followers": 4,
     "reach_non_followers": 418,
-    "read": "2026-11-07"
+    "read": "2026-11-08"
    },
    "2026-11-06": {
     "views": 2321,
@@ -3475,7 +3492,25 @@
     "profile_links_taps": 0,
     "reach_followers": 2,
     "reach_non_followers": 1601,
-    "read": "2026-11-07"
+    "read": "2026-11-08"
+   },
+   "2026-11-07": {
+    "views": 233,
+    "reach": 177,
+    "accounts_engaged": 3,
+    "total_interactions": 3,
+    "likes": 3,
+    "comments": 0,
+    "shares": 0,
+    "saves": 0,
+    "reposts": 0,
+    "replies": 0,
+    "profile_views": 2,
+    "website_clicks": 0,
+    "profile_links_taps": 0,
+    "reach_followers": 5,
+    "reach_non_followers": 172,
+    "read": "2026-11-08"
    }
   }
  }
