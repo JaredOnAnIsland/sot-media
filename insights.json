@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-09 21:36 UTC",
- "updated_epoch": 1794260208,
+ "updated": "2026-11-10 18:48 UTC",
+ "updated_epoch": 1794336485,
  "api": "v23.0",
  "account": {
   "username": "seedoiltracker",
   "followers_count": 19,
   "follows_count": 10,
-  "media_count": 49
+  "media_count": 50
  },
  "followers_history": {
   "2026-10-20": 14,
@@ -29,7 +29,8 @@
   "2026-11-06": 18,
   "2026-11-07": 18,
   "2026-11-08": 19,
-  "2026-11-09": 19
+  "2026-11-09": 19,
+  "2026-11-10": 19
  },
  "metrics": [
   "views",
@@ -50,22 +51,38 @@
   "ig_reels_avg_watch_time": "ms",
   "ig_reels_video_view_total_time": "ms"
  },
- "calls": 78,
+ "calls": 79,
  "reels": [
+  {
+   "id": "18380342182240834",
+   "permalink": "https://www.instagram.com/reel/DfikeNEEZuj/",
+   "timestamp": "2026-11-10T00:01:08+0000",
+   "caption": "Taco Bell's Cinnamon Twists are fried in canola oil. The crunchy taco shell list",
+   "views": 1469,
+   "reach": 1052,
+   "likes": 10,
+   "comments": 2,
+   "shares": 0,
+   "saved": 1,
+   "total_interactions": 13,
+   "ig_reels_avg_watch_time": 9299,
+   "ig_reels_video_view_total_time": 9625192,
+   "reels_skip_rate": 35.3
+  },
   {
    "id": "18080141225425627",
    "permalink": "https://www.instagram.com/reel/Dff_t9wiPu7/",
    "timestamp": "2026-11-09T00:01:41+0000",
    "caption": "Olive Garden fries in soy oil, and Olive Garden says so itself.",
-   "views": 1772,
-   "reach": 1247,
-   "likes": 13,
+   "views": 1799,
+   "reach": 1258,
+   "likes": 14,
    "comments": 0,
    "shares": 0,
    "saved": 0,
-   "total_interactions": 15,
-   "ig_reels_avg_watch_time": 9272,
-   "ig_reels_video_view_total_time": 11729968,
+   "total_interactions": 16,
+   "ig_reels_avg_watch_time": 9286,
+   "ig_reels_video_view_total_time": 11895748,
    "reels_skip_rate": 28.7
   },
   {
@@ -3455,7 +3472,7 @@
     "profile_links_taps": 0,
     "reach_followers": 3,
     "reach_non_followers": 385,
-    "read": "2026-11-09"
+    "read": "2026-11-10"
    },
    "2026-11-04": {
     "views": 170,
@@ -3473,7 +3490,7 @@
     "profile_links_taps": 0,
     "reach_followers": 3,
     "reach_non_followers": 144,
-    "read": "2026-11-09"
+    "read": "2026-11-10"
    },
    "2026-11-05": {
     "views": 540,
@@ -3491,7 +3508,7 @@
     "profile_links_taps": 0,
     "reach_followers": 4,
     "reach_non_followers": 418,
-    "read": "2026-11-09"
+    "read": "2026-11-10"
    },
    "2026-11-06": {
     "views": 2321,
@@ -3509,7 +3526,7 @@
     "profile_links_taps": 0,
     "reach_followers": 2,
     "reach_non_followers": 1601,
-    "read": "2026-11-09"
+    "read": "2026-11-10"
    },
    "2026-11-07": {
     "views": 233,
@@ -3527,7 +3544,7 @@
     "profile_links_taps": 0,
     "reach_followers": 5,
     "reach_non_followers": 172,
-    "read": "2026-11-09"
+    "read": "2026-11-10"
    },
    "2026-11-08": {
     "views": 1425,
@@ -3545,7 +3562,25 @@
     "profile_links_taps": 0,
     "reach_followers": 4,
     "reach_non_followers": 1008,
-    "read": "2026-11-09"
+    "read": "2026-11-10"
+   },
+   "2026-11-09": {
+    "views": 968,
+    "reach": 702,
+    "accounts_engaged": 10,
+    "total_interactions": 14,
+    "likes": 9,
+    "comments": 2,
+    "shares": 0,
+    "saves": 1,
+    "reposts": 2,
+    "replies": 0,
+    "profile_views": 2,
+    "website_clicks": 0,
+    "profile_links_taps": 0,
+    "reach_followers": 3,
+    "reach_non_followers": 699,
+    "read": "2026-11-10"
    }
   }
  }
