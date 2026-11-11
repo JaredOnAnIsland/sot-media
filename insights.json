@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-10 18:48 UTC",
- "updated_epoch": 1794336485,
+ "updated": "2026-11-11 18:51 UTC",
+ "updated_epoch": 1794423078,
  "api": "v23.0",
  "account": {
   "username": "seedoiltracker",
   "followers_count": 19,
   "follows_count": 10,
-  "media_count": 50
+  "media_count": 51
  },
  "followers_history": {
   "2026-10-20": 14,
@@ -30,7 +30,8 @@
   "2026-11-07": 18,
   "2026-11-08": 19,
   "2026-11-09": 19,
-  "2026-11-10": 19
+  "2026-11-10": 19,
+  "2026-11-11": 19
  },
  "metrics": [
   "views",
@@ -51,23 +52,39 @@
   "ig_reels_avg_watch_time": "ms",
   "ig_reels_video_view_total_time": "ms"
  },
- "calls": 79,
+ "calls": 81,
  "reels": [
+  {
+   "id": "18108473258214515",
+   "permalink": "https://www.instagram.com/reel/DflJOC2jFU7/",
+   "timestamp": "2026-11-11T00:00:50+0000",
+   "caption": "Texas Roadhouse is known for the buckets of peanuts, but it cooks with soybean o",
+   "views": 152,
+   "reach": 117,
+   "likes": 2,
+   "comments": 0,
+   "shares": 0,
+   "saved": 0,
+   "total_interactions": 2,
+   "ig_reels_avg_watch_time": 6703,
+   "ig_reels_video_view_total_time": 777635,
+   "reels_skip_rate": 47.4
+  },
   {
    "id": "18380342182240834",
    "permalink": "https://www.instagram.com/reel/DfikeNEEZuj/",
    "timestamp": "2026-11-10T00:01:08+0000",
    "caption": "Taco Bell's Cinnamon Twists are fried in canola oil. The crunchy taco shell list",
-   "views": 1469,
-   "reach": 1052,
-   "likes": 10,
+   "views": 1539,
+   "reach": 1107,
+   "likes": 11,
    "comments": 2,
    "shares": 0,
    "saved": 1,
-   "total_interactions": 13,
-   "ig_reels_avg_watch_time": 9299,
-   "ig_reels_video_view_total_time": 9625192,
-   "reels_skip_rate": 35.3
+   "total_interactions": 14,
+   "ig_reels_avg_watch_time": 9275,
+   "ig_reels_video_view_total_time": 10100680,
+   "reels_skip_rate": 35.6
   },
   {
    "id": "18080141225425627",
@@ -170,16 +187,16 @@
    "permalink": "https://www.instagram.com/reel/DfQi2vEFYkb/",
    "timestamp": "2026-11-03T00:00:47+0000",
    "caption": "Portillo's says its french fries are not vegan, because they're cooked in beef t",
-   "views": 704,
-   "reach": 488,
+   "views": 706,
+   "reach": 489,
    "likes": 2,
    "comments": 0,
    "shares": 0,
    "saved": 0,
    "total_interactions": 2,
-   "ig_reels_avg_watch_time": 9841,
-   "ig_reels_video_view_total_time": 4773131,
-   "reels_skip_rate": 38
+   "ig_reels_avg_watch_time": 9862,
+   "ig_reels_video_view_total_time": 4792993,
+   "reels_skip_rate": 37.9
   },
   {
    "id": "18644670916012482",
@@ -490,16 +507,16 @@
    "permalink": "https://www.instagram.com/reel/Defg3mLj-HX/",
    "timestamp": "2026-10-14T23:00:40+0000",
    "caption": "Three huge steakhouse chains. Only one of them fries in beef tallow.\r",
-   "views": 1912,
-   "reach": 1491,
+   "views": 1914,
+   "reach": 1492,
    "likes": 15,
    "comments": 0,
    "shares": 1,
    "saved": 1,
    "total_interactions": 19,
-   "ig_reels_avg_watch_time": 9426,
-   "ig_reels_video_view_total_time": 13875898,
-   "reels_skip_rate": 38.6
+   "ig_reels_avg_watch_time": 9434,
+   "ig_reels_video_view_total_time": 13896570,
+   "reels_skip_rate": 38.5
   },
   {
    "id": "18109325681181677",
@@ -3490,7 +3507,7 @@
     "profile_links_taps": 0,
     "reach_followers": 3,
     "reach_non_followers": 144,
-    "read": "2026-11-10"
+    "read": "2026-11-11"
    },
    "2026-11-05": {
     "views": 540,
@@ -3508,7 +3525,7 @@
     "profile_links_taps": 0,
     "reach_followers": 4,
     "reach_non_followers": 418,
-    "read": "2026-11-10"
+    "read": "2026-11-11"
    },
    "2026-11-06": {
     "views": 2321,
@@ -3526,7 +3543,7 @@
     "profile_links_taps": 0,
     "reach_followers": 2,
     "reach_non_followers": 1601,
-    "read": "2026-11-10"
+    "read": "2026-11-11"
    },
    "2026-11-07": {
     "views": 233,
@@ -3544,7 +3561,7 @@
     "profile_links_taps": 0,
     "reach_followers": 5,
     "reach_non_followers": 172,
-    "read": "2026-11-10"
+    "read": "2026-11-11"
    },
    "2026-11-08": {
     "views": 1425,
@@ -3562,7 +3579,7 @@
     "profile_links_taps": 0,
     "reach_followers": 4,
     "reach_non_followers": 1008,
-    "read": "2026-11-10"
+    "read": "2026-11-11"
    },
    "2026-11-09": {
     "views": 968,
@@ -3580,7 +3597,25 @@
     "profile_links_taps": 0,
     "reach_followers": 3,
     "reach_non_followers": 699,
-    "read": "2026-11-10"
+    "read": "2026-11-11"
+   },
+   "2026-11-10": {
+    "views": 1044,
+    "reach": 763,
+    "accounts_engaged": 9,
+    "total_interactions": 9,
+    "likes": 9,
+    "comments": 0,
+    "shares": 0,
+    "saves": 0,
+    "reposts": 0,
+    "replies": 0,
+    "profile_views": 2,
+    "website_clicks": 0,
+    "profile_links_taps": 0,
+    "reach_followers": 3,
+    "reach_non_followers": 760,
+    "read": "2026-11-11"
    }
   }
  }
