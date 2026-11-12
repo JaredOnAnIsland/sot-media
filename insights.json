@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-11 18:51 UTC",
- "updated_epoch": 1794423078,
+ "updated": "2026-11-12 19:06 UTC",
+ "updated_epoch": 1794510372,
  "api": "v23.0",
  "account": {
   "username": "seedoiltracker",
   "followers_count": 19,
   "follows_count": 10,
-  "media_count": 51
+  "media_count": 52
  },
  "followers_history": {
   "2026-10-20": 14,
@@ -31,7 +31,8 @@
   "2026-11-08": 19,
   "2026-11-09": 19,
   "2026-11-10": 19,
-  "2026-11-11": 19
+  "2026-11-11": 19,
+  "2026-11-12": 19
  },
  "metrics": [
   "views",
@@ -52,23 +53,39 @@
   "ig_reels_avg_watch_time": "ms",
   "ig_reels_video_view_total_time": "ms"
  },
- "calls": 81,
+ "calls": 82,
  "reels": [
+  {
+   "id": "18108979277238197",
+   "permalink": "https://www.instagram.com/reel/DfnuAUmnDuf/",
+   "timestamp": "2026-11-12T00:00:46+0000",
+   "caption": "Two of Chipotle's 53 real ingredients are seed oils: canola oil and high oleic s",
+   "views": 1744,
+   "reach": 1240,
+   "likes": 8,
+   "comments": 0,
+   "shares": 0,
+   "saved": 1,
+   "total_interactions": 9,
+   "ig_reels_avg_watch_time": 9677,
+   "ig_reels_video_view_total_time": 12087753,
+   "reels_skip_rate": 33.9
+  },
   {
    "id": "18108473258214515",
    "permalink": "https://www.instagram.com/reel/DflJOC2jFU7/",
    "timestamp": "2026-11-11T00:00:50+0000",
    "caption": "Texas Roadhouse is known for the buckets of peanuts, but it cooks with soybean o",
-   "views": 152,
-   "reach": 117,
+   "views": 153,
+   "reach": 118,
    "likes": 2,
    "comments": 0,
    "shares": 0,
    "saved": 0,
    "total_interactions": 2,
-   "ig_reels_avg_watch_time": 6703,
-   "ig_reels_video_view_total_time": 777635,
-   "reels_skip_rate": 47.4
+   "ig_reels_avg_watch_time": 6733,
+   "ig_reels_video_view_total_time": 787831,
+   "reels_skip_rate": 47
   },
   {
    "id": "18380342182240834",
@@ -139,32 +156,32 @@
    "permalink": "https://www.instagram.com/reel/DfYRVTbj8Bc/",
    "timestamp": "2026-11-06T00:01:30+0000",
    "caption": "UC Davis tested 22 avocado oils in 2020. At least 82 percent were stale or mixed",
-   "views": 187,
-   "reach": 148,
+   "views": 189,
+   "reach": 149,
    "likes": 0,
    "comments": 0,
    "shares": 2,
    "saved": 0,
    "total_interactions": 2,
-   "ig_reels_avg_watch_time": 8149,
-   "ig_reels_video_view_total_time": 1206148,
-   "reels_skip_rate": 36.3
+   "ig_reels_avg_watch_time": 8235,
+   "ig_reels_video_view_total_time": 1227029,
+   "reels_skip_rate": 36.1
   },
   {
    "id": "18048935429818522",
    "permalink": "https://www.instagram.com/reel/DfVsccbjjzQ/",
    "timestamp": "2026-11-05T00:00:48+0000",
    "caption": "USDA expects 17.8 of the 33.1 billion pounds of soybean oil used in America this",
-   "views": 517,
-   "reach": 410,
+   "views": 519,
+   "reach": 411,
    "likes": 7,
    "comments": 0,
    "shares": 0,
    "saved": 0,
    "total_interactions": 7,
-   "ig_reels_avg_watch_time": 9512,
-   "ig_reels_video_view_total_time": 3890703,
-   "reels_skip_rate": 32.9
+   "ig_reels_avg_watch_time": 9545,
+   "ig_reels_video_view_total_time": 3913507,
+   "reels_skip_rate": 32.8
   },
   {
    "id": "18131826808873993",
@@ -347,16 +364,16 @@
    "permalink": "https://www.instagram.com/reel/De2sCwQDM_5/",
    "timestamp": "2026-10-23T23:00:50+0000",
    "caption": "Popeyes fries its chicken in beef tallow, and it says so on its own ingredient s",
-   "views": 1549,
-   "reach": 1187,
+   "views": 1551,
+   "reach": 1188,
    "likes": 10,
    "comments": 1,
    "shares": 0,
    "saved": 0,
    "total_interactions": 11,
-   "ig_reels_avg_watch_time": 8324,
-   "ig_reels_video_view_total_time": 9831218,
-   "reels_skip_rate": 38.7
+   "ig_reels_avg_watch_time": 8334,
+   "ig_reels_video_view_total_time": 9851437,
+   "reels_skip_rate": 38.6
   },
   {
    "id": "18128886478848625",
@@ -3525,7 +3542,7 @@
     "profile_links_taps": 0,
     "reach_followers": 4,
     "reach_non_followers": 418,
-    "read": "2026-11-11"
+    "read": "2026-11-12"
    },
    "2026-11-06": {
     "views": 2321,
@@ -3543,7 +3560,7 @@
     "profile_links_taps": 0,
     "reach_followers": 2,
     "reach_non_followers": 1601,
-    "read": "2026-11-11"
+    "read": "2026-11-12"
    },
    "2026-11-07": {
     "views": 233,
@@ -3561,7 +3578,7 @@
     "profile_links_taps": 0,
     "reach_followers": 5,
     "reach_non_followers": 172,
-    "read": "2026-11-11"
+    "read": "2026-11-12"
    },
    "2026-11-08": {
     "views": 1425,
@@ -3579,7 +3596,7 @@
     "profile_links_taps": 0,
     "reach_followers": 4,
     "reach_non_followers": 1008,
-    "read": "2026-11-11"
+    "read": "2026-11-12"
    },
    "2026-11-09": {
     "views": 968,
@@ -3597,7 +3614,7 @@
     "profile_links_taps": 0,
     "reach_followers": 3,
     "reach_non_followers": 699,
-    "read": "2026-11-11"
+    "read": "2026-11-12"
    },
    "2026-11-10": {
     "views": 1044,
@@ -3615,7 +3632,25 @@
     "profile_links_taps": 0,
     "reach_followers": 3,
     "reach_non_followers": 760,
-    "read": "2026-11-11"
+    "read": "2026-11-12"
+   },
+   "2026-11-11": {
+    "views": 945,
+    "reach": 700,
+    "accounts_engaged": 5,
+    "total_interactions": 5,
+    "likes": 5,
+    "comments": 0,
+    "shares": 0,
+    "saves": 0,
+    "reposts": 0,
+    "replies": 0,
+    "profile_views": 1,
+    "website_clicks": 0,
+    "profile_links_taps": 0,
+    "reach_followers": 6,
+    "reach_non_followers": 695,
+    "read": "2026-11-12"
    }
   }
  }
