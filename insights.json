@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-13 18:43 UTC",
- "updated_epoch": 1794595418,
+ "updated": "2026-11-14 17:17 UTC",
+ "updated_epoch": 1794676635,
  "api": "v23.0",
  "account": {
   "username": "seedoiltracker",
   "followers_count": 20,
   "follows_count": 10,
-  "media_count": 53
+  "media_count": 54
  },
  "followers_history": {
   "2026-10-20": 14,
@@ -33,7 +33,8 @@
   "2026-11-10": 19,
   "2026-11-11": 19,
   "2026-11-12": 19,
-  "2026-11-13": 20
+  "2026-11-13": 20,
+  "2026-11-14": 20
  },
  "metrics": [
   "views",
@@ -54,39 +55,55 @@
   "ig_reels_avg_watch_time": "ms",
   "ig_reels_video_view_total_time": "ms"
  },
- "calls": 83,
+ "calls": 84,
  "reels": [
+  {
+   "id": "18036691529856482",
+   "permalink": "https://www.instagram.com/reel/Dfs3mJPjI7p/",
+   "timestamp": "2026-11-14T00:00:47+0000",
+   "caption": "Subway's olive oil blend is canola oil first, then extra virgin olive oil.",
+   "views": 2079,
+   "reach": 1450,
+   "likes": 11,
+   "comments": 2,
+   "shares": 0,
+   "saved": 0,
+   "total_interactions": 13,
+   "ig_reels_avg_watch_time": 9813,
+   "ig_reels_video_view_total_time": 14228914,
+   "reels_skip_rate": 29.8
+  },
   {
    "id": "18111316784240010",
    "permalink": "https://www.instagram.com/reel/DfqSziMjfmV/",
    "timestamp": "2026-11-13T00:00:49+0000",
    "caption": "Steak 'n Shake fries in 100% beef tallow. Its own page says the buns still have ",
-   "views": 1996,
-   "reach": 1448,
+   "views": 2000,
+   "reach": 1451,
    "likes": 18,
    "comments": 2,
    "shares": 0,
    "saved": 1,
    "total_interactions": 21,
-   "ig_reels_avg_watch_time": 9735,
-   "ig_reels_video_view_total_time": 13902623,
-   "reels_skip_rate": 36.3
+   "ig_reels_avg_watch_time": 9732,
+   "ig_reels_video_view_total_time": 13936940,
+   "reels_skip_rate": 36.4
   },
   {
    "id": "18108979277238197",
    "permalink": "https://www.instagram.com/reel/DfnuAUmnDuf/",
    "timestamp": "2026-11-12T00:00:46+0000",
    "caption": "Two of Chipotle's 53 real ingredients are seed oils: canola oil and high oleic s",
-   "views": 1763,
-   "reach": 1251,
+   "views": 1766,
+   "reach": 1253,
    "likes": 8,
    "comments": 0,
    "shares": 0,
    "saved": 1,
    "total_interactions": 10,
-   "ig_reels_avg_watch_time": 9711,
-   "ig_reels_video_view_total_time": 12246767,
-   "reels_skip_rate": 33.7
+   "ig_reels_avg_watch_time": 9693,
+   "ig_reels_video_view_total_time": 12252915,
+   "reels_skip_rate": 33.8
   },
   {
    "id": "18108473258214515",
@@ -100,8 +117,8 @@
    "shares": 0,
    "saved": 0,
    "total_interactions": 3,
-   "ig_reels_avg_watch_time": 6765,
-   "ig_reels_video_view_total_time": 798321,
+   "ig_reels_avg_watch_time": 6736,
+   "ig_reels_video_view_total_time": 801605,
    "reels_skip_rate": 46.6
   },
   {
@@ -3595,7 +3612,7 @@
     "profile_links_taps": 0,
     "reach_followers": 5,
     "reach_non_followers": 172,
-    "read": "2026-11-13"
+    "read": "2026-11-14"
    },
    "2026-11-08": {
     "views": 1425,
@@ -3613,7 +3630,7 @@
     "profile_links_taps": 0,
     "reach_followers": 4,
     "reach_non_followers": 1008,
-    "read": "2026-11-13"
+    "read": "2026-11-14"
    },
    "2026-11-09": {
     "views": 968,
@@ -3631,7 +3648,7 @@
     "profile_links_taps": 0,
     "reach_followers": 3,
     "reach_non_followers": 699,
-    "read": "2026-11-13"
+    "read": "2026-11-14"
    },
    "2026-11-10": {
     "views": 1044,
@@ -3649,7 +3666,7 @@
     "profile_links_taps": 0,
     "reach_followers": 3,
     "reach_non_followers": 760,
-    "read": "2026-11-13"
+    "read": "2026-11-14"
    },
    "2026-11-11": {
     "views": 945,
@@ -3667,7 +3684,7 @@
     "profile_links_taps": 0,
     "reach_followers": 6,
     "reach_non_followers": 695,
-    "read": "2026-11-13"
+    "read": "2026-11-14"
    },
    "2026-11-12": {
     "views": 2784,
@@ -3685,7 +3702,25 @@
     "profile_links_taps": 0,
     "reach_followers": 4,
     "reach_non_followers": 2046,
-    "read": "2026-11-13"
+    "read": "2026-11-14"
+   },
+   "2026-11-13": {
+    "views": 1754,
+    "reach": 1234,
+    "accounts_engaged": 10,
+    "total_interactions": 10,
+    "likes": 8,
+    "comments": 2,
+    "shares": 0,
+    "saves": 0,
+    "reposts": 0,
+    "replies": 0,
+    "profile_views": 0,
+    "website_clicks": 0,
+    "profile_links_taps": 0,
+    "reach_followers": 5,
+    "reach_non_followers": 1227,
+    "read": "2026-11-14"
    }
   }
  }
