@@ -963,5 +963,17 @@
   "share_to_feed": true,
   "video_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/SOT-SX1---starbucks-snowman-cookie-is-not-just-butter.mp4",
   "cover_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/cover-SX1.jpg"
+ },
+ {
+  "id": "20261116004233",
+  "at": "2026-12-21 18:00",
+  "at_epoch": 1797897600,
+  "caption": "Wendy's fries are cooked in soybean oil, plus one or more of canola, corn or cottonseed oil, and hydrogenated soybean oil.\n\nFrom the French Fries ingredients on order.wendys.com: \"Cooked in Vegetable Oil (Soybean Oil, Vegetable Oil [May Contain One Or More Of The Following: Canola, Corn, Or Cottonseed], Hydrogenated Soybean Oil, Dimethylpolysiloxane [Anti-Foaming Agent]).\"\n\nSource: Wendy's US online menu, read November 16, 2026.\n\nPhoto (Wikimedia Commons): Harrison Keely, CC BY 4.0.\n\nFree on iPhone and Android: search Seed Oil Tracker. Link in bio.\n\n#wendys #roadtrip #seedoils #soybeanoil",
+  "status": "pending",
+  "label": "SOT WX1 - wendy's fries on the holiday drive home.mp4",
+  "thumb_ms": 0,
+  "share_to_feed": true,
+  "video_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/SOT-WX1---wendy-s-fries-on-the-holiday-drive-home.mp4",
+  "cover_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/cover-WX1.jpg"
  }
 ]
