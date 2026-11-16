@@ -975,5 +975,17 @@
   "share_to_feed": true,
   "video_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/SOT-WX1---wendy-s-fries-on-the-holiday-drive-home.mp4",
   "cover_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/cover-WX1.jpg"
+ },
+ {
+  "id": "20261116004248",
+  "at": "2026-12-22 18:00",
+  "at_epoch": 1797984000,
+  "caption": "Boston Market is selling Holiday Catering and Heat & Serve meals, and its website does not name a single cooking oil.\n\nWhat we checked on bostonmarket.com: the Home, Menu, Catering, Values and Locations pages. There is no nutrition page (bostonmarket.com/nutrition says page not found) and no ingredient list. Checked November 16, 2026.\n\nShould a chain have to tell you what it cooks your food in?\n\nPhoto (Wikimedia Commons): Phillip Pessar, CC BY 2.0.\n\nFree on iPhone and Android: search Seed Oil Tracker. Link in bio.\n\n#bostonmarket #christmasdinner #seedoils #ingredients",
+  "status": "pending",
+  "label": "SOT BX1 - boston market won't say what it cooks in.mp4",
+  "thumb_ms": 0,
+  "share_to_feed": true,
+  "video_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/SOT-BX1---boston-market-won-t-say-what-it-cooks-in.mp4",
+  "cover_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/cover-BX1.jpg"
  }
 ]
