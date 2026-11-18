@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-17 19:59 UTC",
- "updated_epoch": 1794945565,
+ "updated": "2026-11-18 19:33 UTC",
+ "updated_epoch": 1795030417,
  "api": "v23.0",
  "account": {
   "username": "seedoiltracker",
   "followers_count": 21,
-  "follows_count": 10,
-  "media_count": 57
+  "follows_count": 11,
+  "media_count": 58
  },
  "followers_history": {
   "2026-10-20": 14,
@@ -37,7 +37,8 @@
   "2026-11-14": 20,
   "2026-11-15": 20,
   "2026-11-16": 20,
-  "2026-11-17": 21
+  "2026-11-17": 21,
+  "2026-11-18": 21
  },
  "metrics": [
   "views",
@@ -58,22 +59,38 @@
   "ig_reels_avg_watch_time": "ms",
   "ig_reels_video_view_total_time": "ms"
  },
- "calls": 87,
+ "calls": 88,
  "reels": [
+  {
+   "id": "18475743019136963",
+   "permalink": "https://www.instagram.com/reel/Df3KzYED1sd/",
+   "timestamp": "2026-11-18T00:01:17+0000",
+   "caption": "A&W fries in high oleic canola oil. The Papa Sauce and the burger bun both conta",
+   "views": 190,
+   "reach": 151,
+   "likes": 0,
+   "comments": 0,
+   "shares": 0,
+   "saved": 0,
+   "total_interactions": 0,
+   "ig_reels_avg_watch_time": 6383,
+   "ig_reels_video_view_total_time": 970289,
+   "reels_skip_rate": 43.1
+  },
   {
    "id": "18379169695240369",
    "permalink": "https://www.instagram.com/reel/Df0l-66kd5u/",
    "timestamp": "2026-11-17T00:00:47+0000",
    "caption": "Jollibee fries in soybean oil or a soy-canola blend.",
-   "views": 1729,
-   "reach": 1254,
-   "likes": 6,
+   "views": 1934,
+   "reach": 1390,
+   "likes": 9,
    "comments": 0,
    "shares": 0,
    "saved": 1,
-   "total_interactions": 7,
-   "ig_reels_avg_watch_time": 8857,
-   "ig_reels_video_view_total_time": 10903048,
+   "total_interactions": 10,
+   "ig_reels_avg_watch_time": 9011,
+   "ig_reels_video_view_total_time": 12381933,
    "reels_skip_rate": 32.1
   },
   {
@@ -82,7 +99,7 @@
    "timestamp": "2026-11-16T00:00:54+0000",
    "caption": "Arby's frying oil is four seed oils in one: corn, soybean, canola and hydrogenat",
    "views": 271,
-   "reach": 208,
+   "reach": 209,
    "likes": 1,
    "comments": 0,
    "shares": 0,
@@ -113,15 +130,15 @@
    "permalink": "https://www.instagram.com/reel/Dfs3mJPjI7p/",
    "timestamp": "2026-11-14T00:00:47+0000",
    "caption": "Subway's olive oil blend is canola oil first, then extra virgin olive oil.",
-   "views": 2099,
-   "reach": 1460,
+   "views": 2100,
+   "reach": 1462,
    "likes": 11,
    "comments": 2,
    "shares": 0,
    "saved": 0,
    "total_interactions": 13,
-   "ig_reels_avg_watch_time": 9840,
-   "ig_reels_video_view_total_time": 14376389,
+   "ig_reels_avg_watch_time": 9834,
+   "ig_reels_video_view_total_time": 14378133,
    "reels_skip_rate": 30
   },
   {
@@ -257,15 +274,15 @@
    "permalink": "https://www.instagram.com/reel/DfVsccbjjzQ/",
    "timestamp": "2026-11-05T00:00:48+0000",
    "caption": "USDA expects 17.8 of the 33.1 billion pounds of soybean oil used in America this",
-   "views": 523,
-   "reach": 414,
+   "views": 524,
+   "reach": 415,
    "likes": 8,
    "comments": 0,
    "shares": 0,
    "saved": 0,
    "total_interactions": 8,
-   "ig_reels_avg_watch_time": 9524,
-   "ig_reels_video_view_total_time": 3942973,
+   "ig_reels_avg_watch_time": 9510,
+   "ig_reels_video_view_total_time": 3946747,
    "reels_skip_rate": 32.8
   },
   {
@@ -3735,7 +3752,7 @@
     "profile_links_taps": 0,
     "reach_followers": 6,
     "reach_non_followers": 695,
-    "read": "2026-11-17"
+    "read": "2026-11-18"
    },
    "2026-11-12": {
     "views": 2784,
@@ -3753,7 +3770,7 @@
     "profile_links_taps": 0,
     "reach_followers": 4,
     "reach_non_followers": 2046,
-    "read": "2026-11-17"
+    "read": "2026-11-18"
    },
    "2026-11-13": {
     "views": 1754,
@@ -3771,7 +3788,7 @@
     "profile_links_taps": 0,
     "reach_followers": 5,
     "reach_non_followers": 1227,
-    "read": "2026-11-17"
+    "read": "2026-11-18"
    },
    "2026-11-14": {
     "views": 867,
@@ -3789,7 +3806,7 @@
     "profile_links_taps": 0,
     "reach_followers": 4,
     "reach_non_followers": 585,
-    "read": "2026-11-17"
+    "read": "2026-11-18"
    },
    "2026-11-15": {
     "views": 1460,
@@ -3807,7 +3824,7 @@
     "profile_links_taps": 0,
     "reach_followers": 4,
     "reach_non_followers": 1058,
-    "read": "2026-11-17"
+    "read": "2026-11-18"
    },
    "2026-11-16": {
     "views": 230,
@@ -3825,7 +3842,25 @@
     "profile_links_taps": 0,
     "reach_followers": 1,
     "reach_non_followers": 171,
-    "read": "2026-11-17"
+    "read": "2026-11-18"
+   },
+   "2026-11-17": {
+    "views": 1847,
+    "reach": 1364,
+    "accounts_engaged": 12,
+    "total_interactions": 11,
+    "likes": 10,
+    "comments": 0,
+    "shares": 0,
+    "saves": 1,
+    "reposts": 0,
+    "replies": 0,
+    "profile_views": 1,
+    "website_clicks": 0,
+    "profile_links_taps": 0,
+    "reach_followers": 5,
+    "reach_non_followers": 1360,
+    "read": "2026-11-18"
    }
   }
  }
