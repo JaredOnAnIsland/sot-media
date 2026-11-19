@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-18 19:33 UTC",
- "updated_epoch": 1795030417,
+ "updated": "2026-11-19 19:36 UTC",
+ "updated_epoch": 1795117016,
  "api": "v23.0",
  "account": {
   "username": "seedoiltracker",
   "followers_count": 21,
   "follows_count": 11,
-  "media_count": 58
+  "media_count": 59
  },
  "followers_history": {
   "2026-10-20": 14,
@@ -38,7 +38,8 @@
   "2026-11-15": 20,
   "2026-11-16": 20,
   "2026-11-17": 21,
-  "2026-11-18": 21
+  "2026-11-18": 21,
+  "2026-11-19": 21
  },
  "metrics": [
   "views",
@@ -59,23 +60,39 @@
   "ig_reels_avg_watch_time": "ms",
   "ig_reels_video_view_total_time": "ms"
  },
- "calls": 88,
+ "calls": 89,
  "reels": [
+  {
+   "id": "18121666612986631",
+   "permalink": "https://www.instagram.com/reel/Df5wHMggCk2/",
+   "timestamp": "2026-11-19T00:05:30+0000",
+   "caption": "The easiest Thanksgiving swap is in the butter dish.",
+   "views": 513,
+   "reach": 391,
+   "likes": 1,
+   "comments": 0,
+   "shares": 0,
+   "saved": 0,
+   "total_interactions": 1,
+   "ig_reels_avg_watch_time": 8027,
+   "ig_reels_video_view_total_time": 3187075,
+   "reels_skip_rate": 44.2
+  },
   {
    "id": "18475743019136963",
    "permalink": "https://www.instagram.com/reel/Df3KzYED1sd/",
    "timestamp": "2026-11-18T00:01:17+0000",
    "caption": "A&W fries in high oleic canola oil. The Papa Sauce and the burger bun both conta",
    "views": 190,
-   "reach": 151,
+   "reach": 152,
    "likes": 0,
    "comments": 0,
    "shares": 0,
    "saved": 0,
    "total_interactions": 0,
-   "ig_reels_avg_watch_time": 6383,
-   "ig_reels_video_view_total_time": 970289,
-   "reels_skip_rate": 43.1
+   "ig_reels_avg_watch_time": 6354,
+   "ig_reels_video_view_total_time": 972229,
+   "reels_skip_rate": 43.8
   },
   {
    "id": "18379169695240369",
@@ -162,15 +179,15 @@
    "permalink": "https://www.instagram.com/reel/DfnuAUmnDuf/",
    "timestamp": "2026-11-12T00:00:46+0000",
    "caption": "Two of Chipotle's 53 real ingredients are seed oils: canola oil and high oleic s",
-   "views": 1771,
-   "reach": 1254,
+   "views": 1773,
+   "reach": 1256,
    "likes": 8,
    "comments": 0,
    "shares": 0,
    "saved": 1,
    "total_interactions": 10,
-   "ig_reels_avg_watch_time": 9702,
-   "ig_reels_video_view_total_time": 12283948,
+   "ig_reels_avg_watch_time": 9698,
+   "ig_reels_video_view_total_time": 12288454,
    "reels_skip_rate": 33.7
   },
   {
@@ -178,16 +195,16 @@
    "permalink": "https://www.instagram.com/reel/DflJOC2jFU7/",
    "timestamp": "2026-11-11T00:00:50+0000",
    "caption": "Texas Roadhouse is known for the buckets of peanuts, but it cooks with soybean o",
-   "views": 156,
-   "reach": 121,
+   "views": 158,
+   "reach": 122,
    "likes": 3,
    "comments": 0,
    "shares": 0,
    "saved": 0,
    "total_interactions": 3,
-   "ig_reels_avg_watch_time": 6681,
-   "ig_reels_video_view_total_time": 808410,
-   "reels_skip_rate": 46.7
+   "ig_reels_avg_watch_time": 6637,
+   "ig_reels_video_view_total_time": 809782,
+   "reels_skip_rate": 47.1
   },
   {
    "id": "18380342182240834",
@@ -210,15 +227,15 @@
    "permalink": "https://www.instagram.com/reel/Dff_t9wiPu7/",
    "timestamp": "2026-11-09T00:01:41+0000",
    "caption": "Olive Garden fries in soy oil, and Olive Garden says so itself.",
-   "views": 1802,
-   "reach": 1258,
+   "views": 1805,
+   "reach": 1260,
    "likes": 14,
    "comments": 0,
    "shares": 0,
    "saved": 0,
    "total_interactions": 16,
-   "ig_reels_avg_watch_time": 9277,
-   "ig_reels_video_view_total_time": 11911816,
+   "ig_reels_avg_watch_time": 9295,
+   "ig_reels_video_view_total_time": 11944084,
    "reels_skip_rate": 28.7
   },
   {
@@ -3770,7 +3787,7 @@
     "profile_links_taps": 0,
     "reach_followers": 4,
     "reach_non_followers": 2046,
-    "read": "2026-11-18"
+    "read": "2026-11-19"
    },
    "2026-11-13": {
     "views": 1754,
@@ -3788,7 +3805,7 @@
     "profile_links_taps": 0,
     "reach_followers": 5,
     "reach_non_followers": 1227,
-    "read": "2026-11-18"
+    "read": "2026-11-19"
    },
    "2026-11-14": {
     "views": 867,
@@ -3806,7 +3823,7 @@
     "profile_links_taps": 0,
     "reach_followers": 4,
     "reach_non_followers": 585,
-    "read": "2026-11-18"
+    "read": "2026-11-19"
    },
    "2026-11-15": {
     "views": 1460,
@@ -3824,7 +3841,7 @@
     "profile_links_taps": 0,
     "reach_followers": 4,
     "reach_non_followers": 1058,
-    "read": "2026-11-18"
+    "read": "2026-11-19"
    },
    "2026-11-16": {
     "views": 230,
@@ -3842,7 +3859,7 @@
     "profile_links_taps": 0,
     "reach_followers": 1,
     "reach_non_followers": 171,
-    "read": "2026-11-18"
+    "read": "2026-11-19"
    },
    "2026-11-17": {
     "views": 1847,
@@ -3860,7 +3877,25 @@
     "profile_links_taps": 0,
     "reach_followers": 5,
     "reach_non_followers": 1360,
-    "read": "2026-11-18"
+    "read": "2026-11-19"
+   },
+   "2026-11-18": {
+    "views": 354,
+    "reach": 281,
+    "accounts_engaged": 1,
+    "total_interactions": 1,
+    "likes": 1,
+    "comments": 0,
+    "shares": 0,
+    "saves": 0,
+    "reposts": 0,
+    "replies": 0,
+    "profile_views": 0,
+    "website_clicks": 0,
+    "profile_links_taps": 0,
+    "reach_followers": 3,
+    "reach_non_followers": 278,
+    "read": "2026-11-19"
    }
   }
  }
