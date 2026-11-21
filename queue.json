@@ -782,13 +782,16 @@
   "at": "2026-11-20 18:00",
   "at_epoch": 1795219200,
   "caption": "Mashed potatoes, least to most seed oil, from each chain's own nutrition numbers:\nHuddle House 0.4 g. Bob Evans 3 g (with chicken gravy, the only way it publishes them). Marie Callender's 4.8 g.\n\nSources: Huddle House Nutrition Guide (August 2025); Bob Evans Shareables & Sides guide (Spring FY2027); Marie Callender's nutrition page. Method: seedoiltracker.com/methodology\n\nFree on iPhone and Android: search Seed Oil Tracker. Link in bio.\n\nPhoto (Wikimedia Commons): Harrison Keely, CC BY 4.0.\n\n#thanksgiving #mashedpotatoes #seedoils #bobevans",
-  "status": "posting",
+  "status": "done",
   "label": "SOT TG3P - mashed potatoes at 3 chains, least to most seed oil photo.mp4",
   "thumb_ms": 0,
   "share_to_feed": true,
   "trial": true,
   "video_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/SOT-TG3P---mashed-potatoes-at-3-chains-least-to-most-seed-oil-photo.mp4",
-  "cover_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/cover-TG3P.jpg"
+  "cover_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/cover-TG3P.jpg",
+  "trial_refused": "API error on 17841426596753208/media: {\"message\": \"Application does not have permission for this action\", \"type\": \"OAuthException\", \"code\": 10, \"error_subcode\": 2207081, \"is_transient\": false, \"error_user_title\": \"Trial Reel Not Enough Followers\", \"error_user_msg\": \"The instagram account does not me",
+  "result": "https://www.instagram.com/reel/Df-5KvcEx3Z/",
+  "posted_epoch": 1795219258
  },
  {
   "id": "20261025233409",
