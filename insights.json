@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-23 22:53 UTC",
- "updated_epoch": 1795474430,
+ "updated": "2026-11-24 21:29 UTC",
+ "updated_epoch": 1795555763,
  "api": "v23.0",
  "account": {
   "username": "seedoiltracker",
   "followers_count": 21,
   "follows_count": 11,
-  "media_count": 63
+  "media_count": 64
  },
  "followers_history": {
   "2026-10-20": 14,
@@ -43,7 +43,8 @@
   "2026-11-20": 21,
   "2026-11-21": 21,
   "2026-11-22": 21,
-  "2026-11-23": 21
+  "2026-11-23": 21,
+  "2026-11-24": 21
  },
  "metrics": [
   "views",
@@ -64,22 +65,38 @@
   "ig_reels_avg_watch_time": "ms",
   "ig_reels_video_view_total_time": "ms"
  },
- "calls": 93,
+ "calls": 94,
  "reels": [
+  {
+   "id": "18012633692778482",
+   "permalink": "https://www.instagram.com/reel/DgGnj8UD7yg/",
+   "timestamp": "2026-11-24T00:00:44+0000",
+   "caption": "Butterball's own fried turkey recipes call for peanut oil, and peanuts are legum",
+   "views": 1755,
+   "reach": 1284,
+   "likes": 7,
+   "comments": 0,
+   "shares": 0,
+   "saved": 0,
+   "total_interactions": 7,
+   "ig_reels_avg_watch_time": 12129,
+   "ig_reels_video_view_total_time": 15635459,
+   "reels_skip_rate": 32.7
+  },
   {
    "id": "18095707784227645",
    "permalink": "https://www.instagram.com/reel/DgEC2SHknpT/",
    "timestamp": "2026-11-23T00:01:30+0000",
    "caption": "Jersey Mike's olive oil blend is vegetable oil, soybean and/or canola, with oliv",
-   "views": 1901,
-   "reach": 1351,
+   "views": 1902,
+   "reach": 1353,
    "likes": 2,
    "comments": 0,
    "shares": 1,
    "saved": 1,
    "total_interactions": 4,
-   "ig_reels_avg_watch_time": 9282,
-   "ig_reels_video_view_total_time": 12577358,
+   "ig_reels_avg_watch_time": 9276,
+   "ig_reels_video_view_total_time": 12579135,
    "reels_skip_rate": 35.8
   },
   {
@@ -103,15 +120,15 @@
    "permalink": "https://www.instagram.com/reel/Df-5KvcEx3Z/",
    "timestamp": "2026-11-21T00:00:50+0000",
    "caption": "Mashed potatoes, least to most seed oil, from each chain's own nutrition numbers",
-   "views": 1892,
-   "reach": 1345,
+   "views": 1894,
+   "reach": 1346,
    "likes": 6,
    "comments": 0,
    "shares": 0,
    "saved": 0,
    "total_interactions": 6,
-   "ig_reels_avg_watch_time": 9367,
-   "ig_reels_video_view_total_time": 12402018,
+   "ig_reels_avg_watch_time": 9360,
+   "ig_reels_video_view_total_time": 12403125,
    "reels_skip_rate": 34.7
   },
   {
@@ -3945,7 +3962,7 @@
     "profile_links_taps": 0,
     "reach_followers": 5,
     "reach_non_followers": 1360,
-    "read": "2026-11-23"
+    "read": "2026-11-24"
    },
    "2026-11-18": {
     "views": 354,
@@ -3963,7 +3980,7 @@
     "profile_links_taps": 0,
     "reach_followers": 3,
     "reach_non_followers": 278,
-    "read": "2026-11-23"
+    "read": "2026-11-24"
    },
    "2026-11-19": {
     "views": 366,
@@ -3981,7 +3998,7 @@
     "profile_links_taps": 0,
     "reach_followers": 3,
     "reach_non_followers": 272,
-    "read": "2026-11-23"
+    "read": "2026-11-24"
    },
    "2026-11-20": {
     "views": 305,
@@ -3999,7 +4016,7 @@
     "profile_links_taps": 0,
     "reach_followers": 2,
     "reach_non_followers": 226,
-    "read": "2026-11-23"
+    "read": "2026-11-24"
    },
    "2026-11-21": {
     "views": 1938,
@@ -4017,7 +4034,7 @@
     "profile_links_taps": 0,
     "reach_followers": 2,
     "reach_non_followers": 1416,
-    "read": "2026-11-23"
+    "read": "2026-11-24"
    },
    "2026-11-22": {
     "views": 2872,
@@ -4035,7 +4052,25 @@
     "profile_links_taps": 0,
     "reach_followers": 4,
     "reach_non_followers": 2022,
-    "read": "2026-11-23"
+    "read": "2026-11-24"
+   },
+   "2026-11-23": {
+    "views": 2185,
+    "reach": 1573,
+    "accounts_engaged": 9,
+    "total_interactions": 9,
+    "likes": 8,
+    "comments": 0,
+    "shares": 0,
+    "saves": 1,
+    "reposts": 0,
+    "replies": 0,
+    "profile_views": 2,
+    "website_clicks": 0,
+    "profile_links_taps": 0,
+    "reach_followers": 1,
+    "reach_non_followers": 1573,
+    "read": "2026-11-24"
    }
   }
  }
