@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-24 21:29 UTC",
- "updated_epoch": 1795555763,
+ "updated": "2026-11-25 20:37 UTC",
+ "updated_epoch": 1795639070,
  "api": "v23.0",
  "account": {
   "username": "seedoiltracker",
-  "followers_count": 21,
+  "followers_count": 23,
   "follows_count": 11,
-  "media_count": 64
+  "media_count": 65
  },
  "followers_history": {
   "2026-10-20": 14,
@@ -44,7 +44,8 @@
   "2026-11-21": 21,
   "2026-11-22": 21,
   "2026-11-23": 21,
-  "2026-11-24": 21
+  "2026-11-24": 21,
+  "2026-11-25": 23
  },
  "metrics": [
   "views",
@@ -65,22 +66,38 @@
   "ig_reels_avg_watch_time": "ms",
   "ig_reels_video_view_total_time": "ms"
  },
- "calls": 94,
+ "calls": 95,
  "reels": [
+  {
+   "id": "18234021868328942",
+   "permalink": "https://www.instagram.com/reel/DgJMZCiEkyy/",
+   "timestamp": "2026-11-25T00:01:11+0000",
+   "caption": "Cracker Barrel's own allergen guide labels its fried column \"Fried (Soybean Oil)",
+   "views": 1919,
+   "reach": 1339,
+   "likes": 9,
+   "comments": 0,
+   "shares": 0,
+   "saved": 0,
+   "total_interactions": 9,
+   "ig_reels_avg_watch_time": 8510,
+   "ig_reels_video_view_total_time": 11285207,
+   "reels_skip_rate": 35.6
+  },
   {
    "id": "18012633692778482",
    "permalink": "https://www.instagram.com/reel/DgGnj8UD7yg/",
    "timestamp": "2026-11-24T00:00:44+0000",
    "caption": "Butterball's own fried turkey recipes call for peanut oil, and peanuts are legum",
-   "views": 1755,
-   "reach": 1284,
+   "views": 1762,
+   "reach": 1292,
    "likes": 7,
    "comments": 0,
    "shares": 0,
    "saved": 0,
    "total_interactions": 7,
-   "ig_reels_avg_watch_time": 12129,
-   "ig_reels_video_view_total_time": 15635459,
+   "ig_reels_avg_watch_time": 12115,
+   "ig_reels_video_view_total_time": 15689582,
    "reels_skip_rate": 32.7
   },
   {
@@ -104,16 +121,16 @@
    "permalink": "https://www.instagram.com/reel/DgBeBjngD_c/",
    "timestamp": "2026-11-22T00:01:19+0000",
    "caption": "Gravy is not where the seed oil is. USDA's canned, ready-to-serve turkey gravy: ",
-   "views": 1922,
-   "reach": 1314,
+   "views": 1925,
+   "reach": 1318,
    "likes": 13,
    "comments": 0,
    "shares": 0,
    "saved": 1,
    "total_interactions": 14,
-   "ig_reels_avg_watch_time": 10359,
-   "ig_reels_video_view_total_time": 13643012,
-   "reels_skip_rate": 29.3
+   "ig_reels_avg_watch_time": 10340,
+   "ig_reels_video_view_total_time": 13649432,
+   "reels_skip_rate": 29.4
   },
   {
    "id": "17893810446687380",
@@ -152,16 +169,16 @@
    "permalink": "https://www.instagram.com/reel/Df5wHMggCk2/",
    "timestamp": "2026-11-19T00:05:30+0000",
    "caption": "The easiest Thanksgiving swap is in the butter dish.",
-   "views": 536,
+   "views": 537,
    "reach": 403,
-   "likes": 1,
+   "likes": 2,
    "comments": 0,
    "shares": 0,
    "saved": 0,
-   "total_interactions": 1,
-   "ig_reels_avg_watch_time": 8236,
-   "ig_reels_video_view_total_time": 3393238,
-   "reels_skip_rate": 43.3
+   "total_interactions": 2,
+   "ig_reels_avg_watch_time": 8223,
+   "ig_reels_video_view_total_time": 3396426,
+   "reels_skip_rate": 43.2
   },
   {
    "id": "18475743019136963",
@@ -232,16 +249,16 @@
    "permalink": "https://www.instagram.com/reel/Dfs3mJPjI7p/",
    "timestamp": "2026-11-14T00:00:47+0000",
    "caption": "Subway's olive oil blend is canola oil first, then extra virgin olive oil.",
-   "views": 2102,
-   "reach": 1466,
+   "views": 2103,
+   "reach": 1468,
    "likes": 11,
    "comments": 2,
    "shares": 0,
    "saved": 0,
    "total_interactions": 13,
-   "ig_reels_avg_watch_time": 9823,
-   "ig_reels_video_view_total_time": 14382026,
-   "reels_skip_rate": 30.1
+   "ig_reels_avg_watch_time": 9818,
+   "ig_reels_video_view_total_time": 14383487,
+   "reels_skip_rate": 30.2
   },
   {
    "id": "18111316784240010",
@@ -3980,7 +3997,7 @@
     "profile_links_taps": 0,
     "reach_followers": 3,
     "reach_non_followers": 278,
-    "read": "2026-11-24"
+    "read": "2026-11-25"
    },
    "2026-11-19": {
     "views": 366,
@@ -3998,7 +4015,7 @@
     "profile_links_taps": 0,
     "reach_followers": 3,
     "reach_non_followers": 272,
-    "read": "2026-11-24"
+    "read": "2026-11-25"
    },
    "2026-11-20": {
     "views": 305,
@@ -4016,7 +4033,7 @@
     "profile_links_taps": 0,
     "reach_followers": 2,
     "reach_non_followers": 226,
-    "read": "2026-11-24"
+    "read": "2026-11-25"
    },
    "2026-11-21": {
     "views": 1938,
@@ -4034,7 +4051,7 @@
     "profile_links_taps": 0,
     "reach_followers": 2,
     "reach_non_followers": 1416,
-    "read": "2026-11-24"
+    "read": "2026-11-25"
    },
    "2026-11-22": {
     "views": 2872,
@@ -4052,10 +4069,10 @@
     "profile_links_taps": 0,
     "reach_followers": 4,
     "reach_non_followers": 2022,
-    "read": "2026-11-24"
+    "read": "2026-11-25"
    },
    "2026-11-23": {
-    "views": 2185,
+    "views": 2186,
     "reach": 1573,
     "accounts_engaged": 9,
     "total_interactions": 9,
@@ -4070,7 +4087,25 @@
     "profile_links_taps": 0,
     "reach_followers": 1,
     "reach_non_followers": 1573,
-    "read": "2026-11-24"
+    "read": "2026-11-25"
+   },
+   "2026-11-24": {
+    "views": 1873,
+    "reach": 1330,
+    "accounts_engaged": 8,
+    "total_interactions": 8,
+    "likes": 8,
+    "comments": 0,
+    "shares": 0,
+    "saves": 0,
+    "reposts": 0,
+    "replies": 0,
+    "profile_views": 3,
+    "website_clicks": 0,
+    "profile_links_taps": 0,
+    "reach_followers": 3,
+    "reach_non_followers": 1355,
+    "read": "2026-11-25"
    }
   }
  }
