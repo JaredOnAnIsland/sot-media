@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-25 20:37 UTC",
- "updated_epoch": 1795639070,
+ "updated": "2026-11-26 20:30 UTC",
+ "updated_epoch": 1795725011,
  "api": "v23.0",
  "account": {
   "username": "seedoiltracker",
   "followers_count": 23,
   "follows_count": 11,
-  "media_count": 65
+  "media_count": 66
  },
  "followers_history": {
   "2026-10-20": 14,
@@ -45,7 +45,8 @@
   "2026-11-22": 21,
   "2026-11-23": 21,
   "2026-11-24": 21,
-  "2026-11-25": 23
+  "2026-11-25": 23,
+  "2026-11-26": 23
  },
  "metrics": [
   "views",
@@ -66,38 +67,54 @@
   "ig_reels_avg_watch_time": "ms",
   "ig_reels_video_view_total_time": "ms"
  },
- "calls": 95,
+ "calls": 96,
  "reels": [
+  {
+   "id": "18084954896549647",
+   "permalink": "https://www.instagram.com/reel/DgLxIuysNEO/",
+   "timestamp": "2026-11-26T00:00:48+0000",
+   "caption": "Golden Corral was open on Thanksgiving 2025 at participating locations (call ahe",
+   "views": 155,
+   "reach": 136,
+   "likes": 0,
+   "comments": 0,
+   "shares": 0,
+   "saved": 0,
+   "total_interactions": 0,
+   "ig_reels_avg_watch_time": 5124,
+   "ig_reels_video_view_total_time": 686650,
+   "reels_skip_rate": 56.7
+  },
   {
    "id": "18234021868328942",
    "permalink": "https://www.instagram.com/reel/DgJMZCiEkyy/",
    "timestamp": "2026-11-25T00:01:11+0000",
    "caption": "Cracker Barrel's own allergen guide labels its fried column \"Fried (Soybean Oil)",
-   "views": 1919,
-   "reach": 1339,
+   "views": 1926,
+   "reach": 1342,
    "likes": 9,
    "comments": 0,
    "shares": 0,
    "saved": 0,
    "total_interactions": 9,
-   "ig_reels_avg_watch_time": 8510,
-   "ig_reels_video_view_total_time": 11285207,
-   "reels_skip_rate": 35.6
+   "ig_reels_avg_watch_time": 8507,
+   "ig_reels_video_view_total_time": 11306421,
+   "reels_skip_rate": 35.7
   },
   {
    "id": "18012633692778482",
    "permalink": "https://www.instagram.com/reel/DgGnj8UD7yg/",
    "timestamp": "2026-11-24T00:00:44+0000",
    "caption": "Butterball's own fried turkey recipes call for peanut oil, and peanuts are legum",
-   "views": 1762,
-   "reach": 1292,
+   "views": 1764,
+   "reach": 1295,
    "likes": 7,
    "comments": 0,
    "shares": 0,
    "saved": 0,
    "total_interactions": 7,
-   "ig_reels_avg_watch_time": 12115,
-   "ig_reels_video_view_total_time": 15689582,
+   "ig_reels_avg_watch_time": 12102,
+   "ig_reels_video_view_total_time": 15696745,
    "reels_skip_rate": 32.7
   },
   {
@@ -121,15 +138,15 @@
    "permalink": "https://www.instagram.com/reel/DgBeBjngD_c/",
    "timestamp": "2026-11-22T00:01:19+0000",
    "caption": "Gravy is not where the seed oil is. USDA's canned, ready-to-serve turkey gravy: ",
-   "views": 1925,
+   "views": 1926,
    "reach": 1318,
    "likes": 13,
    "comments": 0,
    "shares": 0,
    "saved": 1,
    "total_interactions": 14,
-   "ig_reels_avg_watch_time": 10340,
-   "ig_reels_video_view_total_time": 13649432,
+   "ig_reels_avg_watch_time": 10338,
+   "ig_reels_video_view_total_time": 13657789,
    "reels_skip_rate": 29.4
   },
   {
@@ -137,16 +154,16 @@
    "permalink": "https://www.instagram.com/reel/Df-5KvcEx3Z/",
    "timestamp": "2026-11-21T00:00:50+0000",
    "caption": "Mashed potatoes, least to most seed oil, from each chain's own nutrition numbers",
-   "views": 1894,
-   "reach": 1346,
+   "views": 1895,
+   "reach": 1347,
    "likes": 6,
    "comments": 0,
    "shares": 0,
    "saved": 0,
    "total_interactions": 6,
-   "ig_reels_avg_watch_time": 9360,
-   "ig_reels_video_view_total_time": 12403125,
-   "reels_skip_rate": 34.7
+   "ig_reels_avg_watch_time": 9354,
+   "ig_reels_video_view_total_time": 12404112,
+   "reels_skip_rate": 34.8
   },
   {
    "id": "18075237524777365",
@@ -249,16 +266,16 @@
    "permalink": "https://www.instagram.com/reel/Dfs3mJPjI7p/",
    "timestamp": "2026-11-14T00:00:47+0000",
    "caption": "Subway's olive oil blend is canola oil first, then extra virgin olive oil.",
-   "views": 2103,
-   "reach": 1468,
+   "views": 2108,
+   "reach": 1470,
    "likes": 11,
    "comments": 2,
    "shares": 0,
    "saved": 0,
    "total_interactions": 13,
-   "ig_reels_avg_watch_time": 9818,
-   "ig_reels_video_view_total_time": 14383487,
-   "reels_skip_rate": 30.2
+   "ig_reels_avg_watch_time": 9826,
+   "ig_reels_video_view_total_time": 14425519,
+   "reels_skip_rate": 30.1
   },
   {
    "id": "18111316784240010",
@@ -281,16 +298,16 @@
    "permalink": "https://www.instagram.com/reel/DfnuAUmnDuf/",
    "timestamp": "2026-11-12T00:00:46+0000",
    "caption": "Two of Chipotle's 53 real ingredients are seed oils: canola oil and high oleic s",
-   "views": 1773,
+   "views": 1774,
    "reach": 1258,
    "likes": 8,
    "comments": 0,
    "shares": 0,
    "saved": 1,
    "total_interactions": 10,
-   "ig_reels_avg_watch_time": 9698,
-   "ig_reels_video_view_total_time": 12288454,
-   "reels_skip_rate": 33.7
+   "ig_reels_avg_watch_time": 9696,
+   "ig_reels_video_view_total_time": 12295507,
+   "reels_skip_rate": 33.6
   },
   {
    "id": "18108473258214515",
@@ -4015,7 +4032,7 @@
     "profile_links_taps": 0,
     "reach_followers": 3,
     "reach_non_followers": 272,
-    "read": "2026-11-25"
+    "read": "2026-11-26"
    },
    "2026-11-20": {
     "views": 305,
@@ -4033,7 +4050,7 @@
     "profile_links_taps": 0,
     "reach_followers": 2,
     "reach_non_followers": 226,
-    "read": "2026-11-25"
+    "read": "2026-11-26"
    },
    "2026-11-21": {
     "views": 1938,
@@ -4051,7 +4068,7 @@
     "profile_links_taps": 0,
     "reach_followers": 2,
     "reach_non_followers": 1416,
-    "read": "2026-11-25"
+    "read": "2026-11-26"
    },
    "2026-11-22": {
     "views": 2872,
@@ -4069,7 +4086,7 @@
     "profile_links_taps": 0,
     "reach_followers": 4,
     "reach_non_followers": 2022,
-    "read": "2026-11-25"
+    "read": "2026-11-26"
    },
    "2026-11-23": {
     "views": 2186,
@@ -4087,7 +4104,7 @@
     "profile_links_taps": 0,
     "reach_followers": 1,
     "reach_non_followers": 1573,
-    "read": "2026-11-25"
+    "read": "2026-11-26"
    },
    "2026-11-24": {
     "views": 1873,
@@ -4105,7 +4122,25 @@
     "profile_links_taps": 0,
     "reach_followers": 3,
     "reach_non_followers": 1355,
-    "read": "2026-11-25"
+    "read": "2026-11-26"
+   },
+   "2026-11-25": {
+    "views": 205,
+    "reach": 174,
+    "accounts_engaged": 2,
+    "total_interactions": 2,
+    "likes": 2,
+    "comments": 0,
+    "shares": 0,
+    "saves": 0,
+    "reposts": 0,
+    "replies": 0,
+    "profile_views": 1,
+    "website_clicks": 0,
+    "profile_links_taps": 0,
+    "reach_followers": 5,
+    "reach_non_followers": 169,
+    "read": "2026-11-26"
    }
   }
  }
