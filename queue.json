@@ -396,12 +396,14 @@
   "at": "2026-11-27 18:00",
   "at_epoch": 1795824000,
   "caption": "Five Guys fries in 100% refined peanut oil, and it cooks its fries twice.\n\nFrom fiveguys.com: \"we hand-cut them inside our restaurants, use 100% refined peanut oil and cook our fries twice for optimal texture and taste.\" Peanut oil is not soybean or canola, but it is not beef tallow either.\n\nSource: fiveguys.com/our-food, read October 20, 2026.\n\nFree on iPhone and Android: search Seed Oil Tracker. Link in bio.\n\n#fiveguys #peanutoil #seedoils #frenchfries",
-  "status": "posting",
+  "status": "done",
   "label": "SOT FG1 - five guys fries in peanut oil, twice.mp4",
   "thumb_ms": 0,
   "share_to_feed": true,
   "video_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/SOT-FG1---five-guys-fries-in-peanut-oil-twice.mp4",
-  "cover_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/cover-FG1.jpg"
+  "cover_url": "https://github.com/JaredOnAnIsland/sot-media/releases/download/reels/cover-FG1.jpg",
+  "result": "https://www.instagram.com/reel/DgQ616Sq3xn/",
+  "posted_epoch": 1795824119
  },
  {
   "id": "20261020104914",
